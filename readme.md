@@ -16,7 +16,8 @@ Your instructors will partner you with other classmates to architect, design, an
 * **Read the docs** for whatever technologies / frameworks / API's you plan to use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
 * **Write your code DRY** and build your APIs RESTful.
 * **Be consistent** with your code style. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
-* **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
+* **Commit early; commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
+* **Deploy early; deploy often.** Deploy your work as early as possible, even if you don't really have anything completed. Heroku issues **always** pop up. Don't be caught short just before the submission deadline!
 * **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
 * **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting))
 * **Make it all well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?
@@ -43,13 +44,13 @@ Imagine the benefits of having an API where you could embed comments into any we
 
 ### Evaluation and Submission
 
-Each member of the group must submit a pull request to the `pbj-project3` repository by *12:30 pm, Friday, August 28th**.
+Each member of the group must submit a pull request to the [pbj-project3-gallery](https://github.com/ga-dc/pbj-project3-gallery) repository by **12:30 pm, Friday, August 28th**.
 
 [See the requirements for the contents of the submission here.](evaluation.md)
 
-Feedback will be returned to you by **9:00 am, Monday, August 31st**.
+Feedback will be returned to you by **6:00 pm, Wednesday, September 2nd**.
 
-Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets expectations" or "does not meet expectations".
+Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets or exceeds expectations" or "does not meet expectations".
 
 ---
 
@@ -63,9 +64,9 @@ Attendance will be taken at 9:00am on Tuesday, and at 12:00pm on Wednesday. Grou
 
 Instructors will be checking Github issues to respond to technical questions.
 
-Additionally, each group will receive 3 "tokens" for 20 minutes of in-person instructor support. These may be redeemed any time during business hours: simply Slack the instructor and they'll come as quickly as possible. Unused minutes don't "roll over".
+Additionally, each group may request 20 minutes of in-person instructor support **3 times** over the course of the project. These may be redeemed **anytime** during business hours: simply Slack the instructor and they'll come as quickly as possible. However, unused minutes don't "roll over".
 
-For existential questions, and/or those regarding expectations, instructors may be reached via Slack at any time, inside and outside of business hours (although they may be somewhat slower to respond outside of business hours).
+For existential questions, and/or those regarding expectations, instructors may be reached via Slack at **any time**, inside **and** outside of business hours (although they may be somewhat slower to respond outside of business hours).
 
 ---
 
@@ -105,3 +106,4 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
 * **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[Express JS](http://expressjs.com/)**
 * **[Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
+* **[Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)
