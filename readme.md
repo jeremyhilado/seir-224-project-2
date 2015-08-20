@@ -106,4 +106,4 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
 * **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[Express JS](http://expressjs.com/)**
 * **[Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
-* **[Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)
+* **[Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)**
