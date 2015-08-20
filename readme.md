@@ -6,7 +6,7 @@ You’ve already worked in small groups to accomplish various labs and exercises
 
 Not only will you be asked to **exercise additional creativity** in designing your own project, your instructors will partner you with other classmates to architect, design, and collaboratively build an API of your own design.
 
-While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting with **Express & Mongo.**
+While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting with **Express & Sequelize.**
 
 **This is meant to push you both technically and collaboratively.** It’s a lot harder to work in a team than to work by yourself, but that's most likely you’re going to find yourself doing in your first development job after WDI, and **it's important to learn how to work together.**
 
@@ -19,11 +19,10 @@ Make it work, and make it awesome.
 
 Your app must:
 
-* **Use Mongo & Express** to build an API and a front-end that consumes it
-* **Create an API using at least 2 related models**, one of which should be a user
+* **Use Sequelize & Express** to build an API and a front-end that consumes it
+* **Create an API using at least 2 related models**, one of which can be a user
 * Include **all major CRUD functions** in a **RESTful API** for at least one of those models
 * **Consume your own API** by making your front-end with HTML, Javascript, & jQuery
-* **Add authentication to your API** to restrict access to appropriate users
 * **Craft thoughtful user stories together**, as a team
 * **Manage team contributions and collaboration** using a standard Git flow on Github
 * Layout and style your front-end with **clean & well-formatted CSS**
@@ -82,7 +81,7 @@ Imagine the benefits of having an API where you could embed comments into any we
 
 ### Useful Resources
 
-* **[MongoDB](https://www.mongodb.org/)**
+* **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[Express JS](http://expressjs.com/)**
 * **[Getting Starts with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
 
@@ -98,7 +97,7 @@ Imagine the benefits of having an API where you could embed comments into any we
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
 
-* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrated that you thought through alternative implementations? _(Note that this part of your feedback evaluation will take place during your one-on-one code review with your instructors, after you've completed the project.)_
+* __Deployment and Functionality__: How accessible is your app to those who may want to explore it? Cursory use of the app by an uninformed user yields no errors that "break" it
 
 * __Total__: Your instructors will give you a total score on your project between:
 
