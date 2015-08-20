@@ -50,7 +50,7 @@ Each member of the group must submit a pull request to the [pbj-project3-gallery
 
 Feedback will be returned to you by **6:00 pm, Wednesday, September 2nd**.
 
-Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets or exceeds expectations" or "does not meet expectations".
+Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets", "does not meet", or "exceeds expectations".
 
 ---
 
