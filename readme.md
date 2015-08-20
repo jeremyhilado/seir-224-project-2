@@ -58,8 +58,6 @@ Note that instructors will *not* be grading on a numbered scale this time. Proje
 
 Attendance will be at 12:00pm on Friday. Groups are otherwise welcome to work outside of GA at their collective discretion.
 
-You group **must** designate a "representative" to contact an instructor 
-
 ---
 
 ### Support
