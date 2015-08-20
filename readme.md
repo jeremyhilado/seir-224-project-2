@@ -2,80 +2,101 @@
 
 ### Overview
 
-You’ve already worked in small groups to accomplish various labs and exercises, but this time **we’re going to challenge you to work on a whole project with a small team.**
-
-Not only will you be asked to **exercise additional creativity** in designing your own project, your instructors will partner you with other classmates to architect, design, and collaboratively build an API of your own design.
-
 While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting with **Express & Sequelize.**
 
-**This is meant to push you both technically and collaboratively.** It’s a lot harder to work in a team than to work by yourself, but that's most likely you’re going to find yourself doing in your first development job after WDI, and **it's important to learn how to work together.**
+Your instructors will partner you with other classmates to architect, design, and collaboratively build an API of your own design.
 
-Make it work, and make it awesome.
-
-
----
-
-### Technical Requirements
-
-Your app must:
-
-* **Use Sequelize & Express** to build an API and a front-end that consumes it
-* **Create an API using at least 2 related models**, one of which can be a user
-* Include **all major CRUD functions** in a **RESTful API** for at least one of those models
-* **Consume your own API** by making your front-end with HTML, Javascript, & jQuery
-* **Craft thoughtful user stories together**, as a team
-* **Manage team contributions and collaboration** using a standard Git flow on Github
-* Layout and style your front-end with **clean & well-formatted CSS**
-* **Deploy your application online** so it's publically accessible
-
-
----
-
-### Necessary Deliverables
-
-* A **working API, built by the whole team**, hosted somewhere on the internet
-* A handmade front-end **that consumes your own API**, hosted somewhere on the internet
-* A **link to your hosted working app** in the URL section of your Github repo
-* A **team git repository hosted on Github**, with a link to your hosted project, and frequent commits from _every_ team member dating back to the _very beginning_ of the project
-* **A ``readme.md`` file** with:
-    * Explanations of the **technologies** used
-    * A couple paragraphs about the **general approach you took**
-    * **Installation instructions** for any dependencies
-    * Link to your **user stories** – who are your users, what do they want, and why?
-    * Link to your **wireframes** – sketches of major views / interfaces in your application
-    * Descriptions of any **unsolved problems** or **major hurdles** your team had to overcome
-
+**This is meant to push you both technically and collaboratively.** It's a lot harder to work in a team than to work by yourself, but that's most likely you're going to find yourself doing in your first development job after WDI, and **it's important to learn how to work together.**
 
 ---
 
 ### Suggested Ways to Get Started
 
-* **Don’t hesitate to write throwaway code** to solve short term problems.
-* **Read the docs for whatever technologies / frameworks / API’s you use**.
-* **Write your code DRY** and **build your APIs RESTful**.
-* **Be consistent with your code style.** You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
-* **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
-* **Keep user stories small and well-defined**, and remember – user stories focus on what a user needs, not what development tasks need accomplishing.
-* **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is?
-* **Make it all well-formatted.** Are you indenting, consistently? Can we find the start and end of every div, curly brace, etc?
-* **Comment your code.** Will someone understand what is going on in each block or function? Even if it's obvious, explaining the what & why means someone else can pick it up and get it.
-* **Write pseudocode before you write actual code.** Thinking through the logic of something helps.
+* **Don't hesitate** to write throwaway code to solve short-term problems.
+* **Read the docs** for whatever technologies / frameworks / API's you plan to use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
+* **Write your code DRY** and build your APIs RESTful.
+* **Be consistent** with your code style. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
+* **Commit early, commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
+* **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
+* **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting))
+* **Make it all well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?
+* **Comment your code.** Will someone understand what is going on in each block or function? Even if it's obvious, explaining the what and why means someone else can pick it up and get it.
+* **Write pseudocode** before you write actual code. Thinking through the logic of something helps.
 
 
 ---
 
 ### Potential Project Ideas
 
-For this project, we want you to work with your team to build a creative product that you actually think someone will want to use. We won't have time to do tons of customer research, but take some time to brainstorm. If you're struggling for ideas, the ones below could help get you started.
+For this project, work with your team to build a creative product that you actually think someone will want to use. We won't have time to do tons of customer research, but take some time to brainstorm. If you're struggling for ideas, the ones below could help get you started.
 
-##### Bucketli.st
+#### Bucketli.st
 Besides finishing WDI, you surely have one or two things you'd love to do with your life. Let's get 'em on paper! You could integrate with a third-party location-based API to allow users to search for a location or venue to add to their bucket list items.
 
-##### Survey App
-Imagine sending out a survey to everyone in the class – what should we eat for lunch today? Or 1-5, how well did you understand what we just learned? It would be even more awesome if it were realtime, so you could see answers pouring in as they're submitted.
+#### Survey App
+Imagine sending out a survey to everyone in the class: what should we eat for lunch today? Or 1-5, how well did you understand what we just learned? It would be even more awesome if it were realtime, so you could see answers pouring in as they're submitted.
 
-##### Hello, Comments
+#### Hello, Comments
 Imagine the benefits of having an API where you could embed comments into any website you want. They could even update in realtime if you wanted, so that you'd never have to refresh the page. CMS providers across the world could quit writing code from scratch and just embed your widget instead.
+
+---
+
+### Evaluation and Submission
+
+Each member of the group must submit a pull request to the `pbj-project3` repository by *12:30 pm, Friday, August 28th**.
+
+[See the requirements for the contents of the submission here.](evaluation.md)
+
+Feedback will be returned to you by **9:00 am, Monday, August 31st**.
+
+Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets expectations" or "does not meet expectations".
+
+---
+
+### Attendance
+
+Attendance will be taken at 9:00am on Tuesday, and at 12:00pm on Wednesday. Groups are otherwise welcome to work outside of GA at their collective discretion.
+
+---
+
+### Support
+
+Instructors will be checking Github issues to respond to technical questions.
+
+Additionally, each group will receive 3 "tokens" for 20 minutes of in-person instructor support. These may be redeemed any time during business hours: simply Slack the instructor and they'll come as quickly as possible. Unused minutes don't "roll over".
+
+For existential questions, and/or those regarding expectations, instructors may be reached via Slack at any time, inside and outside of business hours (although they may be somewhat slower to respond outside of business hours).
+
+---
+
+### Presentations
+
+Each group will present their project to the class starting at **1:30pm on Friday, August 28th**.
+
+The presentations will take the following structure. Each section detailed below should be presented by a different group member. The entire presentation may be **no longer than 10 minutes**; therefore, each section below should be no longer than **2 - 3 minutes**.
+
+- Introduction
+  - What's your app called?
+  - Who are your group members? Who had which responsibilities?
+  - Why is it useful? What is your "pitch"?
+- Demonstrating your app
+  - What are the **coolest** features of your app?
+- Demonstrating your code
+  - What was the most difficult part?
+  - What did you learn?
+  - What are you most proud of?
+- The planning process
+  - How did you arrive at this idea?
+  - How did you decide who would have which responsibilities?
+  - What would you change about your planning process?
+- For groups with 5 members: Highs and lows
+  - What worked well?
+  - What didn't?
+  - What features would you like to add?
+
+Following the 10-minute presentation, 5 minutes will be allotted for questions. This will not be factored into the evaluation.
+
+[Evaluation guidelines for presentations may be seen here.](evaluation.md)
 
 ---
 
@@ -83,28 +104,4 @@ Imagine the benefits of having an API where you could embed comments into any we
 
 * **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
 * **[Express JS](http://expressjs.com/)**
-* **[Getting Starts with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
-
----
-
-### Project Feedback + Evaluation
-
-* __Project Workflow__: Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you added a personal spin or creative element into your project submission? Did you deliver something of value to the end user (not just a login button and an index page)?
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors as we have in class?
-
-* __Deployment and Functionality__: How accessible is your app to those who may want to explore it? Cursory use of the app by an uninformed user yields no errors that "break" it
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations._
-    **1** | _Meets expectactions, good job!_
-    **2** | _Exceeds expectations, you wonderful creature, you!_
-
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+* **[Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
