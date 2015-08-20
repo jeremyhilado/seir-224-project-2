@@ -56,7 +56,9 @@ Note that instructors will *not* be grading on a numbered scale this time. Proje
 
 ### Attendance
 
-Attendance will be taken at 9:00am on Tuesday, and at 12:00pm on Wednesday. Groups are otherwise welcome to work outside of GA at their collective discretion.
+Attendance will be at 12:00pm on Friday. Groups are otherwise welcome to work outside of GA at their collective discretion.
+
+You group **must** designate a "representative" to contact an instructor 
 
 ---
 
