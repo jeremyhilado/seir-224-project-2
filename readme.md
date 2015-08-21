@@ -48,9 +48,9 @@ Imagine the benefits of having an API where you could embed comments into any we
 
 ### Evaluation and Submission
 
-Each member of the group must submit a pull request to the [pbj-project3-gallery](https://github.com/ga-dc/pbj-project3-gallery) repository by **12:30 pm, Friday, August 28th**.
+One member of the group must submit an issue on the [pbj-project3-gallery](https://github.com/ga-dc/pbj-project3-gallery) repository by **12:30 pm, Friday, August 28th**.
 
-[See the requirements for the contents of the submission here.](evaluation.md)
+[See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
 Feedback will be returned to you by **6:00 pm, Wednesday, September 2nd**.
 
