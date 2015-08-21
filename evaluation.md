@@ -6,13 +6,14 @@
 - At least one model includes all CRUD functions via RESTful routes
 
 ### Front-end
-- Your app is enjoyable to use: it has functionality other than just being able to log in and out, and it is pleasing to the eye
+- Your app provides a reasonable user experience
 - Your app includes at least one view
 - Your view(s) includes at least one AJAX request that allows a user to somehow interact with the API
 - Your code, as rendered in the browser, passes a [CSS validator](http://jigsaw.w3.org/css-validator/) and an [HTML validator](https://validator.w3.org/)
 
 ### Publication
-- Your code is commented only with what is necessary to document what is happening in your code; that is, there are no commented-out chunks of unused code
+- Your code is commented only with what is necessary to document the intent of your code; that is, there are no commented-out chunks of unused code.
+- Problematic code?  Leave it in the branch and direct us there.
 
 ### Submission
 - Your submission is received [on-time](readme.md) via a pull request
@@ -29,6 +30,7 @@
   - A minimum of 3 wireframes and/or mock-ups
 - Your repository includes a link to the deployed version of your project in the repository `URL` field
 - The repository includes a `readme.md` file containing:
+  - A description of the project
   - A couple paragraphs about the general approach you took
   - Installation instructions for any dependencies
   - Descriptions of any unsolved problems or major hurdles your team had to overcome
