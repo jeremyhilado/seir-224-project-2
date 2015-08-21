@@ -12,16 +12,22 @@ Your instructors will partner you with other classmates to architect, design, an
 
 ### Pro Tips
 
+#### Process
+
 * **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
 * **Write pseudocode** before you write actual code. Thinking through the logic first helps.
 * **Don't hesitate** to write throwaway code to solve short-term problems.
 * **Read the docs** for whatever technologies / frameworks / API's you plan to use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
-* **Write your code DRY** and build your APIs RESTful.
+
+#### Code
+
+* **Keep your code DRY** and build your APIs RESTful.
 * **Be consistent** with your code style. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
 * **Commit early; commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
 * **Deploy early; deploy often.** Deploy your work as early as possible, even if you don't really have anything completed. Heroku issues **always** pop up. Don't be caught short just before the submission deadline!
 * **Name things appropriately.  Comment as necessary.** Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting)).  Even if it's obvious, comments can help to explain the intent -- the what and why.  This allows the next developer to understand the purpose and decide what can be adjusted to achieve the same goal.
 * **Ensure it is well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?  Organizing the hierarchy is key to understanding.
+
 
 ---
 
@@ -72,7 +78,7 @@ For existential questions, and/or those regarding expectations, instructors may 
 
 Each group will present their project to the class starting at **1:30pm on Friday, August 28th**.
 
-The presentations will take the following structure. Each section detailed below should be presented by a different group member. The entire presentation may be **no longer than 10 minutes**; therefore, each section below should be no longer than **2 - 3 minutes**.
+Each presentation must be **no longer than 10 minutes** We suggest the following structure:
 
 - Introduction
   - What's your app called?
@@ -88,14 +94,12 @@ The presentations will take the following structure. Each section detailed below
   - How did you arrive at this idea?
   - How did you decide who would have which responsibilities?
   - What would you change about your planning process?
-- For groups with 5 members: Highs and lows
+- Highs and lows
   - What worked well?
   - What didn't?
   - What features would you like to add?
 
-Following the 10-minute presentation, 5 minutes will be allotted for questions. This will not be factored into the evaluation.
-
-[Evaluation guidelines for presentations may be seen here.](evaluation.md)
+Following the 10-minute presentation, 5 minutes will be allotted for questions.
 
 ---
 
