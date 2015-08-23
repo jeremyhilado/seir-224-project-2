@@ -101,6 +101,8 @@ Each presentation must be **no longer than 10 minutes** We suggest the following
 
 Following the 10-minute presentation, 5 minutes will be allotted for questions.
 
+Please see the (evaluation criteria)[evaluation.md#presentation] for presentations.
+
 ---
 
 ### Useful Resources
