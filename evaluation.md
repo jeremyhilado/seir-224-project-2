@@ -44,3 +44,10 @@ well-commented.
 
 - Your application is deployed to Heroku (hint: use `heroku rename` to give your app a nice URL)
 - Cursory use of your app yields no errors that "break" your app
+
+---
+
+### Presentation
+
+- All group members spoke for roughly equal amounts of time
+- The [provided structure](readme.md#presentations) was followed
