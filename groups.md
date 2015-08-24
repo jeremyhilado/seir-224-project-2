@@ -1,62 +1,64 @@
 # Groups
 
-## Group 1
+The instructor names indicated are those who will be primarily responsible for grading each project.
+
+## Group 1 (Adam)
 
 - Justin
 - Erica I
 - Adrian
 - Arash
 
-## Group 2
+## Group 2 (Adam)
 
 - Ksenia
 - Erica A
 - Eddie
 - Erik A
 
-## Group 3
+## Group 3 (Adrian)
 
 - Malissa
 - Alex B
 - Christine
 - Lon
 
-## Group 4
+## Group 4 (Adrian)
 
 - Silvia
 - Jared
 - Omari
 - Laura
 
-## Group 5
+## Group 5 (Andy)
 
 - Nayana
 - Peter
 - Matt F
 - Karl
 
-## Group 6
+## Group 6 (Andy)
 
 - Rosel
 - Stephen
 - Lana
 - Robert
 
-## Group 7
+## Group 7 (Jesse)
 
 - Tae
 - Anand
 - Nick
 - John M
 
-## Group 8
+## Group 8 (Jesse)
 
 - Preston
 - Leigh
 - Rachel
 - Sam
 
-## Group 9
+## Group 9 (Matt)
 
 - Cameron
 - Jeff
@@ -64,21 +66,21 @@
 - Ryan
 - Cheikh
 
-## Group 10
+## Group 10 (Matt)
 
 - Jeremy
 - Yvonne
 - Walter 
 - Lisa
 
-## Group 11
+## Group 11 (Robin)
 
 - Tom
 - Kevin
 - Matt C
 - Phil
 
-## Group 12
+## Group 12 (Robin)
 
 - Paul
 - Melissa
