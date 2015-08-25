@@ -9,7 +9,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Adrian
 - Arash
 
-## Group 2 (Adam)
+## Group 2 (Adam) X
 
 - Ksenia
 - Erica A
