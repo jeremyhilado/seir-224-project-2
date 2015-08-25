@@ -37,7 +37,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Matt F
 - Karl
 
-## Group 6 (Andy)
+## Group 6 (Andy) X
 
 - Rosel
 - Stephen
