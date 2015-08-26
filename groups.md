@@ -2,7 +2,7 @@
 
 The instructor names indicated are those who will be primarily responsible for grading each project.
 
-## Group 1 (Adam)
+## Group 1 (Adam) X
 
 - Justin
 - Erica I
