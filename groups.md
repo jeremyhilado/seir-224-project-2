@@ -16,7 +16,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Eddie
 - Erik A
 
-## Group 3 (Adrian)
+## Group 3 (Adrian) X
 
 - Malissa
 - Alex B
@@ -80,7 +80,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Matt C
 - Phil
 
-## Group 12 (Robin) X
+## Group 12 (Robin) XX
 
 - Paul
 - Melissa
