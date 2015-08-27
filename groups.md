@@ -44,7 +44,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Lana
 - Robert
 
-## Group 7 (Jesse)
+## Group 7 (Jesse) X
 
 - Tae
 - Anand
