@@ -66,7 +66,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Ryan
 - Cheikh
 
-## Group 10 (Matt) X
+## Group 10 (Matt) XX
 
 - Jeremy
 - Yvonne
