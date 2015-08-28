@@ -28,7 +28,7 @@ Each presentation must be **no longer than 10 minutes** We suggest the following
   - What didn't?
   - What features would you like to add?
 
-Following the 10-minute presentation, 5 minutes will be allotted for questions.
+Following the 10-minute presentation, 10 minutes will be allotted for questions.
 
 ---
 
