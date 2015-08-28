@@ -18,6 +18,11 @@ Each presentation must be **no longer than 10 minutes** We suggest the following
   - How did you arrive at this idea?
   - How did you decide who would have which responsibilities?
   - What would you change about your planning process?
+- The week
+  - What was your week like?  
+  - Did you feel the Emotional Cycle of Change?
+  - How did you work together?
+  - How would you like your work place to support you?
 - Highs and lows
   - What worked well?
   - What didn't?
@@ -49,5 +54,3 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions.
   - Group 9, 10
 - Classroom 2:
   - Group 11, 12
-
- 
