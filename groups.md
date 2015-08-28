@@ -51,7 +51,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Nick
 - John M
 
-## Group 8 (Jesse) X
+## Group 8 (Jesse) XX
 
 - Preston
 - Leigh
