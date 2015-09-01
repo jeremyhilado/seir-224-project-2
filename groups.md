@@ -27,7 +27,7 @@ Meeting Tuesday, Sept 2, 5:00PM
 - Lon
 
 ## Group 4 (Adrian) 
-Meeting Wednesday, Sept 3, 5:00PM
+Meeting Friday, Sept 5, 5:00PM
 
 - Silvia
 - Jared
