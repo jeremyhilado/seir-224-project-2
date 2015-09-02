@@ -2,7 +2,7 @@
 
 The instructor names indicated are those who will be primarily responsible for grading each project.
 
-## Group 1 (Adam) 
+## Group 1 (Adam)
 Meeting Wednesday, Sept 2, 4:00PM
 
 - Justin
@@ -10,7 +10,7 @@ Meeting Wednesday, Sept 2, 4:00PM
 - Adrian
 - Arash
 
-## Group 2 (Adam) 
+## Group 2 (Adam)
 Meeting Thursday, Sept 3, 4:00PM
 
 - Ksenia
@@ -18,15 +18,15 @@ Meeting Thursday, Sept 3, 4:00PM
 - Eddie
 - Erik A
 
-## Group 3 (Adrian) 
-Meeting Wednesday, Sept 2, 4:00PM
+## Group 3 (Adrian)
+Meeting Thursday, Sept 3, 4:00PM
 
 - Malissa
 - Alex B
 - Christine
 - Lon
 
-## Group 4 (Adrian) 
+## Group 4 (Adrian)
 Meeting Friday, Sept 4, 4:00PM
 
 - Silvia
@@ -34,7 +34,7 @@ Meeting Friday, Sept 4, 4:00PM
 - Omari
 - Laura
 
-## Group 5 (Andy) 
+## Group 5 (Andy)
 Meeting Wednesday, Sept 2, 4:00PM
 
 - Nayana
@@ -42,7 +42,7 @@ Meeting Wednesday, Sept 2, 4:00PM
 - Matt F
 - Karl
 
-## Group 6 (Andy) 
+## Group 6 (Andy)
 Meeting Thursday, Sept 3, 4:00PM
 
 - Rosel
@@ -50,7 +50,7 @@ Meeting Thursday, Sept 3, 4:00PM
 - Lana
 - Robert
 
-## Group 7 (Jesse) 
+## Group 7 (Jesse)
 Meeting Wednesday, Sept 2, 4:00PM
 
 - Tae
@@ -58,7 +58,7 @@ Meeting Wednesday, Sept 2, 4:00PM
 - Nick
 - John M
 
-## Group 8 (Jesse) 
+## Group 8 (Jesse)
 Meeting Thursday, Sept 3, 4:00PM
 
 - Preston
@@ -66,7 +66,7 @@ Meeting Thursday, Sept 3, 4:00PM
 - Rachel
 - Sam
 
-## Group 9 (Matt) 
+## Group 9 (Matt)
 Meeting Wednesday, Sept 2, 4:00PM
 
 - Cameron
@@ -75,15 +75,15 @@ Meeting Wednesday, Sept 2, 4:00PM
 - Ryan
 - Cheikh
 
-## Group 10 (Matt) 
+## Group 10 (Matt)
 Meeting Thursday, Sept 3, 4:00PM
 
 - Jeremy
 - Yvonne
-- Walter 
+- Walter
 - Lisa
 
-## Group 11 (Robin) 
+## Group 11 (Robin)
 Meeting Wednesday, Sept 2, 4:00PM
 
 - Tom
@@ -91,10 +91,10 @@ Meeting Wednesday, Sept 2, 4:00PM
 - Matt C
 - Phil
 
-## Group 12 (Robin) 
+## Group 12 (Robin)
 Meeting Thursday, Sept 3, 4:00PM
 
 - Paul
 - Melissa
-- Mike 
+- Mike
 - Moose
