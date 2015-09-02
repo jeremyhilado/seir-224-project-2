@@ -3,7 +3,7 @@
 The instructor names indicated are those who will be primarily responsible for grading each project.
 
 ## Group 1 (Adam) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Justin
 - Erica I
@@ -11,7 +11,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - Arash
 
 ## Group 2 (Adam) 
-Meeting Thursday, Sept 3, 5:00PM
+Meeting Thursday, Sept 3, 4:00PM
 
 - Ksenia
 - Erica A
@@ -19,7 +19,7 @@ Meeting Thursday, Sept 3, 5:00PM
 - Erik A
 
 ## Group 3 (Adrian) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Malissa
 - Alex B
@@ -27,7 +27,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - Lon
 
 ## Group 4 (Adrian) 
-Meeting Friday, Sept 4, 5:00PM
+Meeting Friday, Sept 4, 4:00PM
 
 - Silvia
 - Jared
@@ -35,7 +35,7 @@ Meeting Friday, Sept 4, 5:00PM
 - Laura
 
 ## Group 5 (Andy) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Nayana
 - Peter
@@ -43,7 +43,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - Karl
 
 ## Group 6 (Andy) 
-Meeting Thursday, Sept 3, 5:00PM
+Meeting Thursday, Sept 3, 4:00PM
 
 - Rosel
 - Stephen
@@ -51,7 +51,7 @@ Meeting Thursday, Sept 3, 5:00PM
 - Robert
 
 ## Group 7 (Jesse) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Tae
 - Anand
@@ -59,7 +59,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - John M
 
 ## Group 8 (Jesse) 
-Meeting Thursday, Sept 3, 5:00PM
+Meeting Thursday, Sept 3, 4:00PM
 
 - Preston
 - Leigh
@@ -67,7 +67,7 @@ Meeting Thursday, Sept 3, 5:00PM
 - Sam
 
 ## Group 9 (Matt) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Cameron
 - Jeff
@@ -76,7 +76,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - Cheikh
 
 ## Group 10 (Matt) 
-Meeting Thursday, Sept 3, 5:00PM
+Meeting Thursday, Sept 3, 4:00PM
 
 - Jeremy
 - Yvonne
@@ -84,7 +84,7 @@ Meeting Thursday, Sept 3, 5:00PM
 - Lisa
 
 ## Group 11 (Robin) 
-Meeting Wednesday, Sept 2, 5:00PM
+Meeting Wednesday, Sept 2, 4:00PM
 
 - Tom
 - Kevin
@@ -92,7 +92,7 @@ Meeting Wednesday, Sept 2, 5:00PM
 - Phil
 
 ## Group 12 (Robin) 
-Meeting Thursday, Sept 3, 5:00PM
+Meeting Thursday, Sept 3, 4:00PM
 
 - Paul
 - Melissa
