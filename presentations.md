@@ -34,4 +34,11 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 
 ## Schedule
 
-TBA
+| Times | Classroom 1 | Classroom 4 | Classroom 5 |
+|---|---|---|---|
+| 1:30 - 1:50 | 1 | 7 | 13 |
+| 2:00 - 2:20 | 2 | 8 | 14 |
+| 2:30 - 2:50 | 3 | 9 | 15 |
+| 3:00 - 3:20 | 4 | 10 | 16 |
+| 3:30 - 3:50 | 5 | 11 | 17 |
+| 4:00 - 4:20 | 6 | 12 |   |
