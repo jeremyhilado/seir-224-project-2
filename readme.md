@@ -2,9 +2,12 @@
 
 ### Overview
 
-While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting with **Express & Sequelize.**
+While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting with **Express & MongoDB.**
 
-Your instructors will partner you with other classmates to architect, design, and collaboratively build an API of your own design.
+Your instructors will partner you with other classmates to architect, design, and collaboratively build an app with two major components:
+
+1. An API of your own design, built using Express & Mongoose, which serves JSON.
+2. Front-end JS code that updates the UI, and makes requests to the API using AJAX.
 
 **This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
@@ -14,6 +17,7 @@ Your instructors will partner you with other classmates to architect, design, an
 
 #### Process
 
+* Try to pick a domain without lots of complex relationships. Remember that MongoDB is not optimized for complex relationships, especially many-to-many.
 * **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
 * **Write pseudocode** before you write actual code. Thinking through the logic first helps.
 * **Don't hesitate** to write throwaway code to solve short-term problems.
@@ -41,26 +45,30 @@ Besides finishing WDI, you surely have one or two things you'd love to do with y
 #### Survey App
 Imagine sending out a survey to everyone in the class: what should we eat for lunch today? Or 1-5, how well did you understand what we just learned? It would be even more awesome if it were realtime, so you could see answers pouring in as they're submitted.
 
-#### Hello, Comments
-Imagine the benefits of having an API where you could embed comments into any website you want. They could even update in realtime if you wanted, so that you'd never have to refresh the page. CMS providers across the world could quit writing code from scratch and just embed your widget instead.
-
 ---
 
 ### Evaluation and Submission
 
-One member of the group must submit an issue on the [pbj-project3-gallery](https://github.com/ga-dc/pbj-project3-gallery) repository by **12:30 pm, Friday, August 28th**.
+One member of the group must submit an issue on the [project3-gallery](https://github.com/ga-dc/project3-gallery) repository by **12:30 pm, Friday, December 11th**.
 
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
-Feedback will be returned to you by **6:00 pm, Wednesday, September 2nd**.
-
-Note that instructors will *not* be grading on a numbered scale this time. Projects will simply be either "meets", "does not meet", or "exceeds expectations".
+Feedback will be returned to you by **6:00 pm, Wednesday, December 16th**.
 
 ---
 
 ### Attendance
 
-Attendance will be at 12:00pm on Friday. Groups are otherwise welcome to work outside of GA at their collective discretion.
+Attendance will be taken on the following dates/times:
+
+| Date | Time |
+|------|------|
+| Wednesday, Dec 2 | 9:00am  |
+| Thursday, Dec 3  | 9:00am  |
+| Friday, Dec 4    | 10:00am |
+| Monday, Dec 7    | 10:00am |
+| Tuesday, Dec 8   | 9:00am  |
+| Friday, Dec 11   | 12:30am |
 
 ---
 
@@ -76,7 +84,5 @@ For existential questions, and/or those regarding expectations, instructors may 
 
 ### Useful Resources
 
-* **[Sequelize](http://docs.sequelizejs.com/en/latest/)**
-* **[Express JS](http://expressjs.com/)**
 * **[Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)**
 * **[Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)**
