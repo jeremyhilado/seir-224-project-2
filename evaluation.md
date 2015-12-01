@@ -2,7 +2,10 @@
 
 ### Back-end
 
-- Your API includes at least 2 models, backed by MongoDB (one of which may be a user)
+- Your API must be built using express.js
+- Your API must include a user model, and user authentication
+  - can be built-in or 3rd party auth
+- Your API includes at least 2 models, stored using MongoDB (user model counts as 1)
 - Your models include at some form of 'association', e.g. nested documents
 - Your API has RESTful routes as appropriate
 
