@@ -1,6 +1,6 @@
 # Presentations
 
-Each group will present their project to the class starting at **1:30pm on Friday, August 28th**.
+Each group will present their project to the class starting at **1:30pm on Friday, December 11th**.
 
 Each presentation must be **no longer than 10 minutes** We suggest the following structure:
 
@@ -34,23 +34,11 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 
 ## Schedule
 
-### 1:30 - 2:30
-
-- Classroom 1:
-  - Group 1, 2
-- Classroom 2:
-  - Group 3, 4
-
-### 2:30 - 3:30
-
-- Classroom 1:
-  - Group 5, 6
-- Classroom 2:
-  - Group 7, 8
-
-### 3:30 - 4:30
-
-- Classroom 1:
-  - Group 9, 10
-- Classroom 2:
-  - Group 11, 12
+| Times | Classroom 1 | Classroom 4 | Classroom 5 |
+|---|---|---|---|
+| 1:30 - 1:50 | 1 | 6  | 12  |
+| 2:00 - 2:20 | 2 | 7  | 13  |
+| 2:30 - 2:50 | 3 | 8  | 14  |
+| 3:00 - 3:20 | 4 | 9  | 15  |
+| 3:30 - 3:50 | 5 | 10 | 16 | 
+| 4:00 - 4:20 |   | 11 | 17 |

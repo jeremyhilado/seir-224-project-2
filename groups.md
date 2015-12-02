@@ -1,100 +1,118 @@
 # Groups
 
-The instructor names indicated are those who will be primarily responsible for grading each project.
+The instructor names indicated are those who will be primarily responsible for giving feedback on each project.
 
-## Group 1 (Adam)
-Meeting Wednesday, Sept 2, 4:00PM
+These groups were intentionally designed to group together students based on experience and comfort-level through this unit. Our goal is to ensure that each student is working with partners who will face similar technical issues, so they can work together to solve them.
 
-- Justin
-- Erica I
-- Adrian
-- Arash
+## Nick
 
-## Group 2 (Adam)
-Meeting Thursday, Sept 3, 4:00PM
+### Group 1
+- Daniel Alexander
+- James Moon
+- Bryce Lively
 
-- Ksenia
-- Erica A
-- Eddie
-- Erik A
+### Group 2
+- Kelly Austin
+- Jennie Pengelly
+- Brendan Lewis
 
-## Group 3 (Adrian)
-Meeting Thursday, Sept 3, 4:00PM
+## John
 
-- Malissa
-- Alex B
-- Christine
-- Lon
+### Group 3
+- Mati Amin
+- John Park
+- Brendan Mahoney
 
-## Group 4 (Adrian)
-Meeting Friday, Sept 4, 4:00PM
+### Group 4
+- Aurelio Avelleyra
+- Matthew Murgia
+- Chrystal Banks
+- Ly Nguyen
 
-- Silvia
-- Jared
-- Omari
-- Laura
+## Matt
 
-## Group 5 (Andy)
-Meeting Wednesday, Sept 2, 4:00PM
+### Group 5
+- Samir Mehta
+- Becky Beauchamp
+- Jared Nichols
 
-- Nayana
-- Peter
-- Matt F
-- Karl
+### Group 6
+- Thomas Solow
+- Tim Gregg
+- Alexis Johnson
+- Chase Gruber
 
-## Group 6 (Andy)
-Meeting Thursday, Sept 3, 4:00PM
+## Erica
 
-- Rosel
-- Stephen
-- Lana
-- Robert
+### Group 7
+- Mohamed Goodwin
+- Chauncey Manson
 
-## Group 7 (Jesse)
-Meeting Wednesday, Sept 2, 4:00PM
+### Group 8
+- Qadriyyah Thomas
+- Cassidy Harpster
+- Dennis Truong
+- Sarah Hersh
 
-- Tae
-- Anand
-- Nick
-- John M
+## Adrian
 
-## Group 8 (Jesse)
-Meeting Thursday, Sept 3, 4:00PM
+### Group 9
+- Wonsik Jeong
+- Thom Householder
+- Teddy Kentor
 
-- Preston
-- Leigh
-- Rachel
-- Sam
+### Group 10
+- Peter Zhang
+- Davis Green
+- Negar Kalbasi
 
-## Group 9 (Matt)
-Meeting Wednesday, Sept 2, 4:00PM
+## Andy
 
-- Cameron
-- Jeff
-- Kristin
-- Ryan
-- Cheikh
+### Group 11
+- Britton Walker
+- Armani Hall
+- Andrew Johnson
 
-## Group 10 (Matt)
-Meeting Thursday, Sept 3, 4:00PM
+### Group 12
+- Matt Popovich
+- Josh Cohen
+- Rebecca Estes
+- Markham Shofner
 
-- Jeremy
-- Yvonne
-- Walter
-- Lisa
+## Jesse
 
-## Group 11 (Robin)
-Meeting Wednesday, Sept 2, 4:00PM
+### Group 13
+- Rachel Porter
+- Tory Burgett
+- Dumitru Gorgan
 
-- Tom
-- Kevin
-- Matt C
-- Phil
+### Group 14
+- Alice Frumin
+- Alexandra Screven
+- Starr Chen
 
-## Group 12 (Robin)
-Meeting Thursday, Sept 3, 4:00PM
+## Robin
 
-- Paul
-- Melissa
-- Mike
-- Moose
+### Group 15
+- Jorge Pimentel
+- Kory Campbell
+- Shawn Campbell
+
+### Group 16
+- Thomas Clark
+- Alea Qawiyy
+- Joseph Glatman Zaretsky
+
+## Adam
+
+### Group 17
+- Andre Shonubi
+- Jordan Brauner
+- Roshana Devkota
+- Tyler Crosse
+
+### Group 18
+- Eric Stennett
+- Mia Grodsky
+- Elise Kain
+

@@ -2,8 +2,11 @@
 
 ### Back-end
 
-- Your API includes at least 2 models, one of which may be a user
-- Your models include at least one association
+- Your API must be built using express.js
+- Your API must include a user model, and user authentication
+  - can be built-in or 3rd party auth
+- Your API includes at least 2 models, stored using MongoDB (user model counts as 1)
+- Your models include at some form of 'association', e.g. nested documents
 - Your API has RESTful routes as appropriate
 
 ---
@@ -25,7 +28,7 @@ well-commented.
 
 ### Submission
 
-- One person from your team should file an issue on the [pbj-project3-gallery repo](https://github.com/ga-dc/pbj-project3-gallery). The issue should contain:
+- One person from your team should file an issue on the [project3-gallery repo](https://github.com/ga-dc/project3-gallery). The issue should contain:
   - A link to **your group's main Github repo**.
   - At least 3 specific areas of code on which you would like targeted feedback (agree on these as a team)
   - Any other comments or questions
