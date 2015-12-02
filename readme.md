@@ -80,8 +80,8 @@ you at the following times:
 | Date       | Time |
 |------------|------|
 | Fri 12/4   | 30 minutes between 3:30  - 4:30 |
-| Mon 12/7   | < 10 minute check-in, time to scheduled by your instructor |
-| Tues 12/8  | < 10 minute check-in, time to scheduled by your instructor |
+| Mon 12/7   | < 10 minute check-in, time to be scheduled by your instructor |
+| Tues 12/8  | < 10 minute check-in, time to be scheduled by your instructor |
 | Wed 12/9   | 30 minutes between 9:00am  - 10:00am |
 | Thur 12/10 | 30 minutes between 4:00  - 5:00 |
 ---
