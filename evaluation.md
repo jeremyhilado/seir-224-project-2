@@ -1,49 +1,9 @@
-## Technical Requirements
+# Evaluation Criteria
 
-### Back-end
-
-- Your API must be built using express.js
-- Your API must include a user model, and user authentication
-  - can be built-in or 3rd party auth
-- Your API includes at least 2 models, stored using MongoDB (user model counts as 1)
-- Your models include at some form of 'association', e.g. nested documents
-- Your API has RESTful routes as appropriate
-
----
-
-### Front-end
-
-- Your app provides a reasonable user experience
-- Your view(s) includes at least one AJAX request that allows a user to somehow interact with the API
-- Your code, as rendered in the browser, passes a [CSS validator](http://jigsaw.w3.org/css-validator/) and an [HTML validator](https://validator.w3.org/)
-
----
-
-### Code Quality
-
-Your code follows the styles we've covered in class: DRY, easy to read,
-well-commented.
-
----
-
-### Submission
-
-- One person from your team should file an issue on the [project3-gallery repo](https://github.com/ga-dc/project3-gallery). The issue should contain:
-  - A link to **your group's main Github repo**.
-  - At least 3 specific areas of code on which you would like targeted feedback (agree on these as a team)
-  - Any other comments or questions
-- Your submitted Github repository includes a `planning` folder that contains:
-  - Evidence of planning (e.g. user stories, ERDs, and wireframe)
-- Your repository includes a link to the deployed version of your project in the repository `URL` field
-- The repository includes a `readme.md` file containing:
-  - A description of the project
-  - A couple paragraphs about the general approach you took
-  - Installation instructions for any dependencies
-  - Descriptions of any unsolved problems or major hurdles your team had to overcome
-
----
-
-### Deployment and functionality
-
-- Your application is deployed to Heroku (hint: use `heroku rename` to give your app a nice URL)
-- Cursory use of your app yields no errors that "break" your app
+| Category                        | Incomplete                                                                                                                    | Progressing                                                                                                                                                                                           | Performing                                                                                                                                                             | Excelling                                                                                                                                                                                                           |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Back-end Technology             | No back-end present, or unable to persist data and return JSON                                                                | Lacking more than one model, or user authentication                                                                                                                                                   | Includes 2 models with User authentication                                                                                                                             | Includes many well-structured models, and advanced functionality such as authorization, 3rd-party API integration, or other technology not covered in class                                                         |
+| Front-end Technology            | No functional AJAX requests to the back-end application                                                                       | Basic front-end with few AJAX requests                                                                                                                                                                | Front-end makes appropriate use of AJAX requests and tempting, follows basic patters of OOJS                                                                           | In addition to appropriate AJAX requests, templating, and OOJS principles, application behaves like a true single-page application (makes use of history.pushState, or technologies not covered in class). Submission includes proof of HTML / CSS validation |
+| Code Quality                    | Minimal functional code is present                                                                                            | Code lacks proper formatting, includes commented out, non-functional code, or otherwise contains major issues of quality (DRY, naming, etc)                                                           | Code is well-formatted, well-named, and contains few style / quality issues                                                                                            | No major code quality issues, makes use of OOJS patterns appropriately, and follows techniques such as separation of concerns, abstraction, and encapsulation                                                       |
+| Deployment and Functionality    | Application is not deployed, and contains minimal functionality                                                               | Application contains minimal functionality, but deployment is non-functional, or application contains major errors when used                                                                          | Application contains no major errors, is deployed correctly, and contains a custom Heroku app name appropriate for the app.                                            | App has advanced functionality that works with minimal errors, and may make use of advanced tools such as APIs, plugins, etc. App may be deployed to a service other than Heroku (e.g. Digital Ocean).              |
+| Planning / Process / Submission | No submission received, or submission does not contain basic documentation of planning (ERD, wireframes, commit history, etc) | App is submitted, with basic evidence of planning. Documentation exists, but lacks common areas such as setup instructions, description of application functionality and link to deployed application | Submission contains clear evidence of planning, adequate documentation, include all from previous category, as well as additional information such as unsolved issues. | Submission includes everything in previous category, as well as evidence of proper teamwork, such as feature branching, code review, github issue / user story tracking, and justification of technical decisions.  |
