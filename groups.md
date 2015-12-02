@@ -45,9 +45,8 @@ These groups were intentionally designed to group together students based on exp
 ## Erica
 
 ### Group 7
-- Eric Stennett
-- Mia Grodsky
-- Elise Kain
+- Mohamed Goodwin
+- Chauncey Manson
 
 ### Group 8
 - Qadriyyah Thomas
@@ -111,3 +110,9 @@ These groups were intentionally designed to group together students based on exp
 - Jordan Brauner
 - Roshana Devkota
 - Tyler Crosse
+
+### Group 18
+- Eric Stennett
+- Mia Grodsky
+- Elise Kain
+
