@@ -38,11 +38,11 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 (1..18).to_a.shuffle
 ```
 
-| Times | Classroom 1 (Robin) | Classroom 4 (Andy) | Classroom 5 (Matt) |
+| Times | Classroom 1 (Andy) | Classroom 4 (Robin) | Classroom 5 (Matt) |
 |---|---|---|---|
 | 1:30 - 1:50 | 14 | 18 | 9  |
 | 2:00 - 2:20 | 2  | 3  | 1  |
 | 2:30 - 2:50 | 4  | 17 | 8  |
 | 3:00 - 3:20 | 10 | 15 | 13 |
-| 3:30 - 3:50 | 7  | 11 | 5  |
+| 3:30 - 3:50 | 11  | 7 | 5  |
 | 4:00 - 4:20 | 12 | 16 | 6  |
