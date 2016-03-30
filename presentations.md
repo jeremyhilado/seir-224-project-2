@@ -1,6 +1,6 @@
 # Presentations
 
-Each group will present their project to the class starting at **1:30pm on Friday, December 11th**.
+Each group will present their project to the class starting at **1:30pm on Thursday, April 7th**.
 
 Each presentation must be **no longer than 10 minutes** We suggest the following structure:
 
@@ -35,14 +35,14 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 ## Schedule
 
 ```ruby
-(1..18).to_a.shuffle
+(1..12).to_a.shuffle
 ```
 
-| Times | Classroom 1 (Andy) | Classroom 4 (Robin) | Classroom 5 (Matt) |
-|---|---|---|---|
-| 1:30 - 1:50 | [14](https://github.com/ga-dc/project3/blob/master/groups.md#group-14) | [18](https://github.com/ga-dc/project3/blob/master/groups.md#group-18) | [9](https://github.com/ga-dc/project3/blob/master/groups.md#group-9)  |
-| 2:00 - 2:20 | [2](https://github.com/ga-dc/project3/blob/master/groups.md#group-2)   | [3](https://github.com/ga-dc/project3/blob/master/groups.md#group-3)  | [1](https://github.com/ga-dc/project3/blob/master/groups.md#group-1)  |
-| 2:30 - 2:50 | [4](https://github.com/ga-dc/project3/blob/master/groups.md#group-4)   | [17](https://github.com/ga-dc/project3/blob/master/groups.md#group-17) | [8](https://github.com/ga-dc/project3/blob/master/groups.md#group-8)  |
-| 3:00 - 3:20 | [10](https://github.com/ga-dc/project3/blob/master/groups.md#group-10) | [15](https://github.com/ga-dc/project3/blob/master/groups.md#group-15) | [13](https://github.com/ga-dc/project3/blob/master/groups.md#group-13) |
-| 3:30 - 3:50 | [11](https://github.com/ga-dc/project3/blob/master/groups.md#group-11) | [7](https://github.com/ga-dc/project3/blob/master/groups.md#group-7)  | [5](https://github.com/ga-dc/project3/blob/master/groups.md#group-5)  |
-| 4:00 - 4:20 | [12](https://github.com/ga-dc/project3/blob/master/groups.md#group-12) | [16](https://github.com/ga-dc/project3/blob/master/groups.md#group-16) | [6](https://github.com/ga-dc/project3/blob/master/groups.md#group-6)  |
+| Times       | Classroom 4                                                            | Classroom 6                                                            |
+|-------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 1:30 - 1:50 | [2](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-2)   | [5](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-5)   |
+| 2:00 - 2:20 | [11](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-11) | [9](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-9)   |
+| 2:30 - 2:50 | [1](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-1)   | [3](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-3)   |
+| 3:00 - 3:20 | [6](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-6)   | [7](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-7)   |
+| 3:30 - 3:50 | [12](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-12) | [4](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-4)   |
+| 4:00 - 4:20 | [8](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-8)   | [10](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-10) |
