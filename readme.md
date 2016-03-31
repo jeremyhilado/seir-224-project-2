@@ -11,6 +11,8 @@ Your instructors will partner you with other classmates to architect, design, an
 
 **This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
+It is *not required* that your Angular front-end run on top of your Rails back-end, but we **strongly encourage** you to host them on the same server.
+
 ---
 
 ### Pro Tips
@@ -72,3 +74,4 @@ you at the following times:
 ### Useful Resources
 
 * **[Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)**
+* **[Deploying Angular on Rails](https://github.com/ga-wdi-lessons/angular-on-rails/blob/master/walkthrough.md#commit-deploy)**
