@@ -17,6 +17,15 @@ It is *not required* that your Angular front-end run on top of your Rails back-e
 
 ### Pro Tips
 
+#### User Auth
+
+You are strongly **DISCOURAGED** from including users and user authentication in your project! Stretch yourself to do something different!
+
+There are three main reasons for this:
+- User authentication is tricky. It's never as easy as you think it will be. Time and time again we see people's projects getting hung up because they got stuck on adding user authentication. An app with user authentication but no functionality is *not an app*. An app with functionality but no user authentication *is* an app. Your prospective employers will be much more impressed by the experience of using your app than they will by the fact that they can log in.
+- It can make for a worse user experience. It creates a barrier to entry. Unnecessary user authentication is a sure-fire way to get me to stop using your app. "Do I *really* need to log in just so I can post a link to a GIF? Next!"
+- *Everyone* makes apps with user auth. They do this because they feel like they should. The result is these apps all tend to look and feel pretty similar: a user can create some sort of list. Deliberately *not* having user auth will make your app stand out from the crowd.
+
 #### Process
 
 * **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
