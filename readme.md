@@ -53,7 +53,7 @@ For this project, work with your team to build a creative product that you actua
 
 ### Evaluation and Submission
 
-One member of the group must submit an issue on the [project3-gallery](https://github.com/ga-dc/project3-gallery) repository by **12:30 pm, Thursday, April 7th**.
+One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/wdi8-project3-gallery) repository by **12:30 pm, Thursday, April 7th**.
 
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
