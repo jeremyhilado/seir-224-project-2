@@ -9,21 +9,23 @@ These groups were intentionally designed to group together students based on exp
 ## Nick
 ​
 ### Group 1
+
 - Mohamed
 - Ryan
 - Vijay
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 2
+
 - Bipin
 - Kaira
 - Kim
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -31,21 +33,23 @@ These groups were intentionally designed to group together students based on exp
 ## Jesse
 
 ### Group 3
+
 - Clarissa
 - Fatai
 - Isaac
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 4
+
 - Caitlin
 - Keith
 - Sanjay
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -53,22 +57,24 @@ These groups were intentionally designed to group together students based on exp
 ## Robin
 
 ### Group 5
+
 - Jeff
 - Maureen
 - Melissa
 - Max
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 6
+
 - Lyndsey
 - Matt K
 - Sarah
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -76,21 +82,23 @@ These groups were intentionally designed to group together students based on exp
 ## Joe
 
 ### Group 7
+
 - Adrian
 - Casey
 - Hilary
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 8
+
 - Craig
 - John
 - Pat
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -98,21 +106,23 @@ These groups were intentionally designed to group together students based on exp
 ## Adrian
 
 ### Group 9
+
 - Cam
 - Toni
 - Woo
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 10
+
 - Anissa
 - Matt S
 - Winnie
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -120,11 +130,12 @@ These groups were intentionally designed to group together students based on exp
 ## Matt
 
 ### Group 11
+
 - Nyron
 - Andrew
 - Robel
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
@@ -132,21 +143,23 @@ These groups were intentionally designed to group together students based on exp
 ## Becky
 
 ### Group 12
+
 - Alexa
 - Brittany
 - Farish
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
 
 ### Group 13
+
 - Brendan
 - Charles
 - Christine
 
-- Tokens redeemed by
+Tokens redeemed by
   1. ...
   - ...
   - ...
