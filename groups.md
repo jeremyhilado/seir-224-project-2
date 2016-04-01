@@ -7,7 +7,7 @@ These groups were intentionally designed to group together students based on exp
 [See here for information on tokens.](readme.md#support)
 
 ## Nick
-​
+
 ### Group 1
 
 - Mohamed
