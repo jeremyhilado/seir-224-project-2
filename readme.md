@@ -56,12 +56,11 @@ Feedback will be returned to you by **6:00 pm, Wednesday, April 13th**.
 
 **Attendance will be taken every day at 9am. Remember to check in!**
 
-### Support
+---
 
-Instructors will be checking Github issues to respond to technical questions.
+### Scrum Masters
 
-Additionally each group will be assigned an instructor lead, who will meet with
-you at the following times:
+Each group will be assigned an instructor as a **Scrum Master**. They will meet with you at the following times:
 
 | Date       | Time |
 |------------|------|
@@ -69,6 +68,19 @@ you at the following times:
 | Mon 4/4   | < 10 minute check-in, time to be scheduled by your instructor |
 | Tue 4/5 | 30 minutes between 4:00  - 5:00 |
 | Wed 4/6   | 30 minutes between 9:00am  - 10:00am |
+
+---
+
+### Support
+
+Instructors will be checking Github issues and Slack to respond to technical questions.
+
+We will also be implementing a **token system**. Each group has 3 virtual tokens they may redeem for 15 minutes of undivided attention from any instructor.
+
+To redeem a token, simply Slack the desired instructor. They will then mark off one of your token slots on [the groups page](groups.md).
+
+You may not redeem part of a token.
+
 ---
 
 ### Useful Resources
