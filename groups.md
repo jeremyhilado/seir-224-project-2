@@ -64,7 +64,7 @@ Tokens redeemed by
 - Max
 
 Tokens redeemed by
-  1. Jesse
+  1. 
   - ...
   - ...
 
