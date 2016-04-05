@@ -40,9 +40,10 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 
 | Times       | Classroom 4                                                            | Classroom 6                                                            |
 |-------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| 1:30 - 1:50 | [2](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-2)   | [5](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-5)   |
-| 2:00 - 2:20 | [11](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-11) | [9](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-9)   |
-| 2:30 - 2:50 | [1](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-1)   | [3](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-3)   |
-| 3:00 - 3:20 | [6](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-6)   | [7](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-7)   |
-| 3:30 - 3:50 | [12](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-12) | [4](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-4)   |
-| 4:00 - 4:20 | [8](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-8)   | [10](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-10) |
+| 1:00 - 1:20 | [2](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-2)   | [5](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-5)   |
+| 1:30 - 1:50 | [11](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-2)   | [9](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-5)   |
+| 2:00 - 2:20 | [1](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-11) | [3](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-9)   |
+| 2:30 - 2:50 | [6](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-1)   | [7](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-3)   |
+| 3:00 - 3:20 | [12](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-6)   | [4](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-7)   |
+| 3:30 - 3:50 | [8](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-12) | [10](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-4)   |
+| 4:00 - 4:20 | [13](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-8)   |  |
