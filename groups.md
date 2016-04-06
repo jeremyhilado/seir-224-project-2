@@ -40,7 +40,7 @@ Tokens redeemed by
 
 Tokens redeemed by
   1. Jesse
-  - ...
+  - Jesse
   - ...
 
 ### Group 4
