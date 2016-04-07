@@ -27,7 +27,7 @@ Tokens redeemed by
 
 Tokens redeemed by
   1. Nick
-  - ...
+  - Nick
   - ...
 
 ## Jesse
@@ -64,7 +64,7 @@ Tokens redeemed by
 - Max
 
 Tokens redeemed by
-  1. 
+  1. Nick
   - ...
   - ...
 
