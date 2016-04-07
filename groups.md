@@ -52,7 +52,7 @@ Tokens redeemed by
 Tokens redeemed by
   1. Jesse
   - Robin
-  - ...
+  - Jesse
 
 ## Robin
 
@@ -150,7 +150,7 @@ Tokens redeemed by
 
 Tokens redeemed by
   1. Robin
-  - ...
+  - Jesse
   - ...
 
 ### Group 13
