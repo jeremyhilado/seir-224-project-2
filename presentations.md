@@ -35,15 +35,11 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 ## Schedule
 
 ```ruby
-(1..13).to_a.shuffle
+(1..4).to_a.shuffle
 ```
 
-| Times       | Classroom 4                                                            | Classroom 6                                                            |
-|-------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| 1:30 - 1:50 | [3](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-3)   | [5](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-5)   |
-| 1:55 - 2:15 | [4](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-4)   | [6](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-6)   |
-| 2:20 - 2:40 | [11](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-11) | [7](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-7)   |
-| 2:45 - 3:05 | [2](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-2)   | [1](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-1)   |
-| 3:10 - 3:30 | [10](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-10)   | [8](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-8)   |
-| 3:35 - 3:55 | [12](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-12) | [13](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-13)   |
-| 4:00 - 4:20 | [9](https://github.com/ga-wdi-exercises/project3/blob/master/groups.md#group-9)   |  |
+| Times       | Group |
+|1:30 - 2:00 | 3 |
+|2:00 - 2:30 | 2 |
+|2:30 - 3:00 | 1 |
+|3:00 - 3:30 | 4 |

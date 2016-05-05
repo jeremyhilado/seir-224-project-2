@@ -53,11 +53,11 @@ For this project, work with your team to build a creative product that you actua
 
 ### Evaluation and Submission
 
-One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/wdi8-project3-gallery) repository by **12:30 pm, Thursday, April 7th**.
+One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/wdi9-project3-gallery) repository by **12:30 pm, Thursday, May 12th**.
 
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
-Feedback will be returned to you by **6:00 pm, Wednesday, April 13th**.
+Feedback will be returned to you by **6:00 pm, Wednesday, April 18th**.
 
 ---
 
@@ -73,22 +73,16 @@ Each group will be assigned an instructor as a **Scrum Master**. They will meet 
 
 | Date       | Time |
 |------------|------|
-| Fri 4/1   | 30 minutes between 3:30  - 4:30 |
-| Mon 4/4   | < 10 minute check-in, time to be scheduled by your instructor |
-| Tue 4/5 | 30 minutes between 4:00  - 5:00 |
-| Wed 4/6   | 30 minutes between 9:00am  - 10:00am |
+| Fri 5/6   | 30 minutes between 3:30  - 4:30 |
+| Mon 5/9   | < 10 minute check-in, time to be scheduled by your instructor |
+| Tue 5/10 | 30 minutes between 4:00  - 5:00 |
+| Wed 5/11   | 30 minutes between 10:00am  - 11:00am |
 
 ---
 
 ### Support
 
-Instructors will be checking Github issues and Slack to respond to technical questions.
-
-We will also be implementing a **token system**. Each group has 3 virtual tokens they may redeem for 15 minutes of undivided attention from any instructor.
-
-To redeem a token, simply Slack the desired instructor. They will then mark off one of your token slots on [the groups page](groups.md).
-
-You may not redeem part of a token.
+We will also have genius bar from 9 - 10 each morning and responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
 ---
 

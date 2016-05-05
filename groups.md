@@ -6,160 +6,32 @@ These groups were intentionally designed to group together students based on exp
 
 [See here for information on tokens.](readme.md#support)
 
-## Nick
-
 ### Group 1
 
-- Mohamed
-- Ryan
-- Vijay
-
-Tokens redeemed by
-  1. ...
-  - ...
-  - ...
+- Leland
+- Habby
+- Louis
 
 ### Group 2
 
-- Bipin
-- Kaira
-- Kim
-
-Tokens redeemed by
-  1. Nick
-  - Nick
-  - ...
-
-## Jesse
+- Hewan
+- Wes
+- Josh
+- James
 
 ### Group 3
 
-- Clarissa
-- Fatai
-- Isaac
-
-Tokens redeemed by
-  1. Jesse
-  - Jesse
-  - ...
+- Jordan
+- Lauren
+- Michael
 
 ### Group 4
 
-- Caitlin
-- Keith
-- Sanjay
-
-Tokens redeemed by
-  1. Jesse
-  - Robin
-  - Jesse
-
-## Robin
+- Martin
+- Mary
+- Zaneh
 
 ### Group 5
 
-- Jeff
-- Maureen
-- Melissa
-- Max
-
-Tokens redeemed by
-  1. Nick
-  - ...
-  - ...
-
-### Group 6
-
-- Lyndsey
-- Matt K
-- Sarah
-
-Tokens redeemed by
-  1. ...
-  - ...
-  - ...
-
-## Joe
-
-### Group 7
-
-- Adrian
-- Casey
-- Hilary
-
-Tokens redeemed by
-  1. Robin
-  - ...
-  - ...
-
-### Group 8
-
-- Craig
-- John
-- Pat
-
-Tokens redeemed by
-  1. Robin
-  - ...
-  - ...
-
-## Adrian
-
-### Group 9
-
-- Cam
-- Toni
-- Woo
-
-Tokens redeemed by
-  1. ...
-  - ...
-  - ...
-
-### Group 10
-
-- Anissa
-- Matt S
-- Winnie
-
-Tokens redeemed by
-  1. ...
-  - ...
-  - ...
-
-## Matt
-
-### Group 11
-
-- Nyron
-- Andrew
-- Robel
-
-Tokens redeemed by
-  1. Matt
-  - ...
-  - ...
-
-## Becky
-
-### Group 12
-
-- Alexa
-- Brittany
-- Farish
-
-Tokens redeemed by
-  1. Robin
-  - Jesse
-  - ...
-
-### Group 13
-
-- Brendan
-- Charles
-- Christine
-
-Tokens redeemed by
-  1. Robin
-  - ...
-  - ...
+- Matt
+- Antony
