@@ -39,6 +39,7 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 ```
 
 | Times       | Group |
+|---|---|
 |1:30 - 2:00 | 3 |
 |2:00 - 2:30 | 2 |
 |2:30 - 3:00 | 1 |
