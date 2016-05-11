@@ -1,8 +1,8 @@
 # Presentations
 
-Each group will present their project to the class starting at **1:30pm on Thursday, April 7th**.
+Each group will present their project to the class starting at **2:30pm on Thursday, May 12th**.
 
-Each presentation must be **no longer than 10 minutes** We suggest the following structure:
+Following the 10-minute presentation, 10 minutes will be allotted for questions. We suggest the following structure:
 
 - Introduction
   - What's your app called?
@@ -28,8 +28,6 @@ Each presentation must be **no longer than 10 minutes** We suggest the following
   - What didn't?
   - What features would you like to add?
 
-Following the 10-minute presentation, 10 minutes will be allotted for questions.
-
 ---
 
 ## Schedule
@@ -38,9 +36,10 @@ Following the 10-minute presentation, 10 minutes will be allotted for questions.
 (1..4).to_a.shuffle
 ```
 
-| Times       | Group |
-|---|---|
-|1:30 - 2:00 | 3 |
-|2:00 - 2:30 | 2 |
-|2:30 - 3:00 | 1 |
-|3:00 - 3:30 | 4 |
+| Times       | Group       |
+|:------------|:------------|
+| 2:30 - 3:00 | 3           |
+| 3:00 - 3:30 | 2           |
+| 3:30 - 4:00 | 1           |
+| 4:00 - 4:30 | 4           |
+| 4:30 - 5:00 | Squad Scrum |
