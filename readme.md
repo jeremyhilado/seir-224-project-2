@@ -53,11 +53,11 @@ For this project, work with your team to build a creative product that you actua
 
 ### Evaluation and Submission
 
-One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/wdi9-project3-gallery) repository by **12:30 pm, Thursday, May 12th**.
+One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/wdi9-project3-gallery) repository by **12:30 pm, Thursday, July 21st**.
 
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
-Feedback will be returned to you by **6:00 pm, Wednesday, April 18th**.
+Feedback will be returned to you by **6:00 pm, Wednesday, July 27th**.
 
 ---
 
@@ -67,22 +67,65 @@ Feedback will be returned to you by **6:00 pm, Wednesday, April 18th**.
 
 ---
 
-### Scrum Masters
+### Tokens
 
-Each group will be assigned an instructor as a **Scrum Master**. They will meet with you at the following times:
 
-| Date       | Time |
+### Schedule
+
+| Date       | Details |
 |------------|------|
-| Fri 5/6   | 30 minutes between 3:30  - 4:30 |
-| Mon 5/9   | < 10 minute check-in, time to be scheduled by your instructor |
-| Tue 5/10 | 30 minutes between 4:00  - 5:00 |
-| Wed 5/11   | 30 minutes between 10:00am  - 11:00am |
+| Fri 7/15   | 10 minutes between 3:30  - 4:30 to approve project idea|
+| Thu 7/21   | Project submission due |
 
 ---
 
 ### Support
 
-We will also have genius bar from 9 - 10 each morning and responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
+We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
+
+Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group.
+
+#### Group 1
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 2
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 3
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 4
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 5
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 6
+
+- [ ]
+- [ ]
+- [ ]
+
+#### Group 7
+
+- [ ]
+- [ ]
+- [ ]
 
 ---
 

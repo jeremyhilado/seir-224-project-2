@@ -8,30 +8,15 @@ These groups were intentionally designed to group together students based on exp
 
 ### Group 1
 
-- Leland
-- Habby
-- Louis
-
 ### Group 2
-
-- Hewan
-- Wes
-- Josh
-- James
 
 ### Group 3
 
-- Jordan
-- Lauren
-- Michael
-
 ### Group 4
-
-- Martin
-- Mary
-- Zaneh
 
 ### Group 5
 
-- Matt
-- Antony
+### Group 6
+
+### Group 7
+
