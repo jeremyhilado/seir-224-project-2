@@ -43,7 +43,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Julia N.
 
 
-### Group 7 (Nick
+### Group 7 (Nick)
 
 - Sean T.
 - Michael H
