@@ -5,13 +5,13 @@ The instructor names indicated are those who will be primarily responsible for g
 [See here for information on tokens.](readme.md#support)
 
 
-### Group 2 (Adrian)
+### Group 1 (Adrian)
 
 - Chris G.
 - Michael P.
 - Dave C.
 
-### Group 1 (Adrian)
+### Group 2 (Adrian)
 
 - Arthur A.
 - Joe C.
@@ -35,13 +35,11 @@ The instructor names indicated are those who will be primarily responsible for g
 - Tyson G.
 - Anh T.
 
-
 ### Group 6 (Nick)
 
 - Adina P.
 - Julia S.
 - Julia N.
-
 
 ### Group 7 (Nick)
 
