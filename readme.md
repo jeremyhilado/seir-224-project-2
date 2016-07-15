@@ -67,9 +67,6 @@ Feedback will be returned to you by **6:00 pm, Wednesday, July 27th**.
 
 ---
 
-### Tokens
-
-
 ### Schedule
 
 | Date       | Details |
@@ -84,6 +81,8 @@ Feedback will be returned to you by **6:00 pm, Wednesday, July 27th**.
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
 Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group.
+
+### Tokens
 
 #### Group 1
 
