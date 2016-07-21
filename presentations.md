@@ -28,3 +28,10 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
   - What didn't?
   - What features would you like to add?
 
+## Order
+
+```
+[1] pry(main)> p [*1..7].shuffle
+[2, 4, 3, 7, 1, 5, 6]
+```
+
