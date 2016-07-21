@@ -2,7 +2,7 @@
 
 Each group will present their project to the class starting at **2:30pm on Thursday, July 21st**.
 
-Following the 10-minute presentation, 10 minutes will be allotted for questions. We suggest the following structure:
+Following the 10-minute presentation, 5 minutes will be allotted for questions. We suggest the following structure:
 
 - Introduction
   - What's your app called?
