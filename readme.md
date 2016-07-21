@@ -124,7 +124,7 @@ Each group will be given 3 tokens, redeemable at any time for 15 minutes each wi
 
 - [x]
 - [x]
-- [ ]
+- [x]
 
 ---
 
