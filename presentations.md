@@ -1,6 +1,6 @@
 # Presentations
 
-Each group will present their project to the class starting at **2:30pm on Thursday, July 21st**.
+Each group will present their project to the class starting at **2:30pm on Thursday, Aug 25th**.
 
 Following the 10-minute presentation, 5 minutes will be allotted for questions. We suggest the following structure:
 
@@ -34,4 +34,3 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
 [1] pry(main)> p [*1..7].shuffle
 [2, 4, 3, 7, 1, 5, 6]
 ```
-
