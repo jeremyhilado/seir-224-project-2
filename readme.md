@@ -94,6 +94,7 @@ Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 ---
 
 ### Support
+An instructor will be scrumming with each group twice per day, once in the morning(30m) and once in the afternoon(10m). The purpose of these scrums is to track progress and provide guidance. This is **not** a time for tech support or questions about coding.
 
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
@@ -144,6 +145,8 @@ Each group will be given 3 tokens, redeemable at any time for 15 minutes each wi
 - [ ]
 
 ---
+
+Here's a helpful [link](http://lmgtfy.com/?q=stack+overflow#) and some [motivation](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 ### Useful Resources
 
