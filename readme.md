@@ -76,14 +76,14 @@ Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 |9:00am - 10:45am| Git Workflows Class |
 |10:45am - 11:00am| Project 3 Kickoff |
 |11:00am - 12:00pm| Pick Project Prompt|
-|2:30pm - 3:30pm| Instructor Led Scrum(get with instructor for specific time)|
+|2:30pm - 4:00pm| Instructor Led Scrum(get with instructor for specific time ~30m)|
 
 #### Mon - Wed
 
 | Time | Details |
 |------| ----- |
-|9:00am - 10:30am| Instructor Led Scrum |
-|4:30pm - 5:00pm| Instructor Led Scrum |
+|9:00am - 10:30am| Instructor Led Scrum (30m or less)|
+|4:30pm - 5:00pm| Instructor Led Scrum (10m or less)|
 
 #### Thursday
 | Time | Details |
@@ -97,7 +97,7 @@ Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
-Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just go up to an instructor, they will update this file to mark an `x` for one of the tokens below. Then they will help you for 15 minutes. 
+Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just go up to an instructor, they will update this file to mark an `x` for one of the tokens below. Then they will help you for 15 minutes.
 
 ### Tokens
 
