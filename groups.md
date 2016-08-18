@@ -5,45 +5,44 @@ The instructor names indicated are those who will be primarily responsible for g
 [See here for information on tokens.](readme.md#support)
 
 
-### Group 1 (Adrian)
+### Group 1 (Nayana)
 
-- Chris G.
-- Michael P.
-- Dave C.
+-
+-
+-
 
-### Group 2 (Adrian)
+### Group 2 (Nayana)
 
-- Arthur A.
-- Joe C.
-- Mara S.
+-
+-
+-
 
-### Group 3 (Jesse)
+### Group 3 (Andy)
 
-- Denzel A.
-- Rebekah M.
-- Kevin G.
+-
+-
+-
 
-### Group 4 (Jesse)
+### Group 4 (Andy)
 
-- Matt S.
-- James H.
-- Kristin P.
+-
+-
+-
 
-### Group 5 (Jesse)
+### Group 5 (Andy)
 
-- James G.
-- Tyson G.
-- Anh T.
+-
+-
+-
 
-### Group 6 (Nick)
+### Group 6 (James)
 
-- Adina P.
-- Julia S.
-- Julia N.
+-
+-
+-
 
-### Group 7 (Nick)
+### Group 7 (James)
 
-- Sean T.
-- Michael H
-- Andrew Y.
-
+-
+-
+-
