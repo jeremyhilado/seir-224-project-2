@@ -122,7 +122,7 @@ Each group will be given 3 tokens, redeemable at any time for 15 minutes each wi
 
 #### Group 4
 
-- [ ]
+- [x]
 - [ ]
 - [ ]
 
@@ -135,12 +135,12 @@ Each group will be given 3 tokens, redeemable at any time for 15 minutes each wi
 #### Group 6
 
 - [x]
-- [ ]
+- [x]
 - [ ]
 
 #### Group 7
 
-- [ ]
+- [x]
 - [ ]
 - [ ]
 
