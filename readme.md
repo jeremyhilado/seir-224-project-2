@@ -89,8 +89,10 @@ Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 | Time | Details |
 |------| ----- |
 |12:30pm | Project submission due |
-|More| To follow|
-
+|2:30-3:30pm| First round of presentations|
+|3:30-3:45pm| Break |
+|3:45-4:30pm| Second round of presentations|
+|4:30-5:00pm| Scrum|
 ---
 
 ### Support
