@@ -52,12 +52,12 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
 - Tyler Rosenberg
 - Marc Fournier
 
-## Break (3:15 - 3:30)
-
-## Group 7 (andy) (3:30 - 3:45)
+## Group 7 (andy) (3:15 - 3:30)
 - John Estes
 - Michael Mahony
 - Christopher Phillips
+
+## Break (3:30 - 3:45)
 
 ## Group 1 (nayana) (3:45 - 4:00)
 - Rasheeda Alexander
