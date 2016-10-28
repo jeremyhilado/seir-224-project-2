@@ -102,52 +102,6 @@ We will be responding to [github issues](https://github.com/ga-wdi-exercises/pro
 
 Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just go up to an instructor, they will update this file to mark an `x` for one of the tokens below. Then they will help you for 15 minutes.
 
-### Tokens
-
-#### Group 1
-
-- [x]
-- [x]
-- [ ]
-
-#### Group 2
-
-- [x]
-- [ ]
-- [ ]
-
-#### Group 3
-
-- [x]
-- [ ]
-- [ ]
-
-#### Group 4
-
-- [x]
-- [ ]
-- [ ]
-
-#### Group 5
-
-- [ ]
-- [ ]
-- [ ]
-
-#### Group 6
-
-- [x]
-- [x]
-- [ ]
-
-#### Group 7
-
-- [x]
-- [ ]
-- [ ]
-
----
-
 Here's a helpful [link](http://lmgtfy.com/?q=stack+overflow#) and some [motivation](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 ### Useful Resources
