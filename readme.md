@@ -53,11 +53,7 @@ For this project, work with your team to build a creative product that you actua
 
 ### Evaluation and Submission
 
-One member of the group must submit an issue on the [Project 3 Gallery](https://github.com/ga-dc/project3-gallery) repository by **12:30 pm, Thursday, Aug 25th**.
-
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
-
-Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 
 ---
 
@@ -67,42 +63,11 @@ Feedback will be returned to you by **6:00 pm, Thursday, Sep 1st**.
 
 ---
 
-### Schedule
-
-#### Friday
-| Time | Details |
-|------| ----- |
-|9:00am| Submit a project 3 idea [here](https://github.com/ga-wdi-exercises/project3/issues)|
-|9:00am - 10:45am| Git Workflows Class |
-|10:45am - 11:00am| Project 3 Kickoff |
-|11:00am - 12:00pm| Pick Project Prompt|
-|2:30pm - 4:00pm| Instructor Led Scrum(get with instructor for specific time ~30m)|
-
-#### Mon - Wed
-
-| Time | Details |
-|------| ----- |
-|9:00am - 10:30am| Instructor Led Scrum (30m or less)|
-|4:30pm - 5:00pm| Instructor Led Scrum (10m or less)|
-
-#### Thursday
-| Time | Details |
-|------| ----- |
-|12:30pm | Project submission due |
-|2:30-3:30pm| First round of presentations|
-|3:30-3:45pm| Break |
-|3:45-4:30pm| Second round of presentations|
-|4:30-5:00pm| Scrum|
----
-
 ### Support
-An instructor will be scrumming with each group twice per day, once in the morning(30m) and once in the afternoon(10m). The purpose of these scrums is to track progress and provide guidance. This is **not** a time for tech support or questions about coding.
 
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
 Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just go up to an instructor, they will update this file to mark an `x` for one of the tokens below. Then they will help you for 15 minutes.
-
-Here's a helpful [link](http://lmgtfy.com/?q=stack+overflow#) and some [motivation](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
 
 ### Useful Resources
 

@@ -1,8 +1,7 @@
 # Presentations
 
-Each group will present their project to the class starting at **2:30pm on Thursday, Aug 25th**. 
 
-**Each member of the group** must participate in the presentation. 
+**Each member of the group** must participate in the presentation.
 
 Following the 10-minute presentation, 5 minutes will be allotted for questions. Take turns answering questions during the Q & A. We suggest the following structure:
 
@@ -29,47 +28,3 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
   - What didn't?
   - What features would you like to add?
 
-## Order of Presentations
-
-```
-[1] pry(main)> p [*1..7].shuffle
-[2, 4, 3, 7, 1, 5, 6]
-```
-
-## Group 2 (nayana) (2:30 - 2:45)
-- Jacqui Ahn
-- Chase Freeman
-- Aubrey Northam
-
-## Group 4 (james) (2:45 - 3:00)
-- Daniela Noir
-- Pamela Olney
-- Ahmed Elkheshin
-
-## Group 3 (james) (3:00 - 3:15)
-- Sarah Shultis
-- Alexander Holland
-- Tyler Rosenberg
-- Marc Fournier
-
-## Group 7 (andy) (3:15 - 3:30)
-- John Estes
-- Michael Mahony
-- Christopher Phillips
-
-## Break (3:30 - 3:45)
-
-## Group 1 (nayana) (3:45 - 4:00)
-- Rasheeda Alexander
-- Parnell Kelley
-- Giomar Silva
-
-## Group 5 (andy) (4:00 - 4:15)
-- Van Phan
-- Winston Mclean
-- Evan Sanderson
-
-## Group 6 (andy) (4:15 - 4:30)
-- Ben Brizzi
-- Megan Coyle
-- Taylor Edwards
