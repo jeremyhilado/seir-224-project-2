@@ -6,38 +6,42 @@ The instructor names indicated are those who will be primarily responsible for g
 
 # Squads
 
-## Group 1 (nayana)
-- Rasheeda Alexander
-- Parnell Kelley
-- Giomar Silva
+## Group 1 (Nick)
+- Domonique G.
+- Poh K.
+- Angelo B.
 
-## Group 2 (nayana)
-- Jacqui Ahn
-- Chase Freeman
-- Aubrey Northam
+## Group 2 (Nick)
+- Khoi L.
+- Kevin M.
+- Andy W.
 
-## Group 3 (james)
-- Sarah Shultis
-- Alexander Holland
-- Tyler Rosenberg
-- Marc Fournier
+## Group 3 (Adrian)
+- Latoya W.
+- Andres E.
+- Liza F.
 
-## Group 4 (james)
-- Daniela Noir
-- Pamela Olney
-- Ahmed Elkheshin
+## Group 4 (Adrian)
+- Alex M.
+- Mariana L.
+- Billy K.
 
-## Group 5 (andy)
-- Van Phan
-- Winston Mclean
-- Evan Sanderson
+## Group 5 (Adrian)
+- Mike F.
+- Alec S.
+- Ian H.
 
-## Group 6 (andy)
-- Ben Brizzi
-- Megan Coyle
-- Taylor Edwards
+## Group 6 (Jesse)
+- Tim F.
+- Nick O.
+- Barrett C.
 
-## Group 7 (andy)
-- John Estes
-- Michael Mahony
-- Christopher Phillips
+## Group 7 (Jesse)
+- Manish P.
+- Chris J.
+- Ryan B.
+
+## Group 8 (Jesse)
+- Michael L.
+- Mark S.
+- Mike R.
