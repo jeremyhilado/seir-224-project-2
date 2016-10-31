@@ -65,7 +65,7 @@ For this project, work with your team to build a creative product that you actua
 
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
-Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just go up to an instructor, they will update this file to mark an `x` for one of the tokens below. Then they will help you for 15 minutes.
+Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just slack or go up to an instructor, they will update the number of tokens assigned to your group recorded in [this file](groups.md).
 
 ### Useful Resources
 
