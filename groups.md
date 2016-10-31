@@ -6,7 +6,7 @@ The instructor names indicated are those who will be primarily responsible for g
 
 # Squads
 
-## Group 1 (Nick) (3 tokens)
+## Group 1 (Nick) (2 tokens)
 - Domonique G.
 - Poh K.
 - Angelo B.
@@ -31,7 +31,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Alec S.
 - Ian H.
 
-## Group 6 (Jesse) (3 tokens)
+## Group 6 (Jesse) (2 tokens)
 - Tim F.
 - Nick O.
 - Barrett C.
