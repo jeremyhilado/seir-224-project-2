@@ -16,7 +16,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Kevin M.
 - Andy W.
 
-## Group 3 (Adrian) (3 tokens)
+## Group 3 (Adrian) (2 tokens)
 - Latoya W.
 - Andres E.
 - Liza F.
