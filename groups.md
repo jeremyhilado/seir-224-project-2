@@ -36,7 +36,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Nick O.
 - Barrett C.
 
-## Group 7 (Jesse) (3 tokens)
+## Group 7 (Jesse) (2 tokens)
 - Manish P.
 - Chris J.
 - Ryan B.
