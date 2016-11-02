@@ -26,7 +26,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Mariana L.
 - Billy K.
 
-## Group 5 (Adrian) (2 tokens)
+## Group 5 (Adrian) (1 tokens)
 - Mike F.
 - Alec S.
 - Ian H.
