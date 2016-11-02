@@ -21,7 +21,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Andres E.
 - Liza F.
 
-## Group 4 (Adrian) (1 tokens)
+## Group 4 (Adrian) (0 tokens)
 - Alex M.
 - Mariana L.
 - Billy K.
