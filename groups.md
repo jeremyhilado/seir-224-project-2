@@ -31,12 +31,12 @@ The instructor names indicated are those who will be primarily responsible for g
 - Alec S.
 - Ian H.
 
-## Group 6 (Jesse) (1 tokens)
+## Group 6 (Jesse) (1 token)
 - Tim F.
 - Nick O.
 - Barrett C.
 
-## Group 7 (Jesse) (2 tokens)
+## Group 7 (Jesse) (1 token)
 - Manish P.
 - Chris J.
 - Ryan B.
