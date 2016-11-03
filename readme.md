@@ -53,6 +53,8 @@ For this project, work with your team to build a creative product that you actua
 
 [See the requirements for the contents of the submission here.](evaluation.md#Submission)
 
+#### [Submit Your Project Here](https://github.com/ga-dc/project3-gallery/issues)
+
 ---
 
 ### Attendance
