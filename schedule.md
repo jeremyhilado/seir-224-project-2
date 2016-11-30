@@ -10,6 +10,7 @@ Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/p
 |---------------|-----------------------------------------|
 | 9:00 - 10:00  | Project 3 Kickoff / Pick Project Prompt |
 | 10:00 - 12:00 | 30 Minute Scrum /w Instructor           |
+| 4:30 - 5:00   | Retro /w instructor
 | 5:30          | Happy Hour                              |
 
 ## 5-7 Dec
