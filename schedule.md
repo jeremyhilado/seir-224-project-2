@@ -26,4 +26,9 @@ Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/p
 | 12:30 - 1:30 | Lunch!                              |
 | 1:30 - 3:00  | Project Presentations! Schedule TBD |
 
-
+## Mini Lessons
+| Date/Time     | Event                                 |
+|---------------|---------------------------------------|
+| 5 Dec / 2:00  | Custom Directives                     |
+| 6 Dec / 10:00 | Google maps with angular              |
+| 7 Dec / 10:00 | jQuery plugins, how to write your own |
