@@ -1,8 +1,8 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a Rails App with an Angular Front-end
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a SPA with an Angular Front-end and express/Rails backend
 
 ### Overview
 
-While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting combining **Rails with an Angular front-end**
+While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting combining **Angular front-end with a backend of your choice**
 
 Your instructors will partner you with other classmates to architect, design, and collaboratively build an app with two major components:
 
@@ -12,6 +12,11 @@ Your instructors will partner you with other classmates to architect, design, an
 **This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
 ---
+
+### Requirements
+- This app must contain a backend API with at least 2 models. No associations are required.
+- This app must use an angular front end that leverages the backend API in the above requirement.
+- Work hard and have fun!
 
 ### Pro Tips
 
@@ -23,6 +28,14 @@ There are three main reasons for this:
 - User authentication is tricky. It's never as easy as you think it will be. Time and time again we see people's projects getting hung up because they got stuck on adding user authentication. An app with user authentication but no functionality is *not an app*. An app with functionality but no user authentication *is* an app. Your prospective employers will be much more impressed by the experience of using your app than they will by the fact that they can log in.
 - It can make for a worse user experience. It creates a barrier to entry. Unnecessary user authentication is a sure-fire way to get me to stop using your app. "Do I *really* need to log in just so I can post a link to a GIF? Next!"
 - *Everyone* makes apps with user auth. They do this because they feel like they should. The result is these apps all tend to look and feel pretty similar: a user can create some sort of list. Deliberately *not* having user auth will make your app stand out from the crowd.
+
+#### Maps
+
+**IF** you decide to incorporate a map into your project:
+- It should be an additional feature of your application. 
+- It should **not** be the lynchpin of your application.
+- Like user authentication a non functional app with a map is not an app. A functional app without a map is an app. Turns out, most apps don't have maps in them.
+- They can cause a lot of headache for little gain. Maps are cool, they aren't **that** cool
 
 #### Process
 
@@ -66,6 +79,8 @@ For this project, work with your team to build a creative product that you actua
 ### Support
 
 We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
+
+> If you'd like a reference for a good question checkout [this lesson](https://github.com/ga-wdi-lessons/effective_questions)
 
 Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just slack or go up to an instructor, they will update the number of tokens assigned to your group recorded in [this file](groups.md).
 
