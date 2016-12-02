@@ -20,7 +20,7 @@ The instructor names indicated are those who will be primarily responsible for g
 ## Group 3 (James) (3 tokens)
 - Rob K
 - Angel
-- Adirenne
+- Adrienne
 
 ## Group 4 (James) (3 tokens)
 - Drew
