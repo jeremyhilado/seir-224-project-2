@@ -6,42 +6,29 @@ The instructor names indicated are those who will be primarily responsible for g
 
 # Squads
 
-## Group 1 (Nick) (2 tokens)
-- Domonique G.
-- Poh K.
-- Angelo B.
+## Group 1 (Andy) (3 tokens)
+- Donovan
+- Juliet
+- Thinh
+- Diana
 
-## Group 2 (Nick) (3 tokens)
-- Khoi L.
-- Kevin M.
-- Andy W.
+## Group 2 (Andy) (3 tokens)
+- Bradley
+- Joh G
+- Rob R
 
-## Group 3 (Adrian) (2 tokens)
-- Latoya W.
-- Andres E.
-- Liza F.
+## Group 3 (James) (3 tokens)
+- Rob K
+- Angel
+- Adirenne
 
-## Group 4 (Adrian) (0 tokens)
-- Alex M.
-- Mariana L.
-- Billy K.
+## Group 4 (James) (3 tokens)
+- Drew
+- Ba
+- Rob Z
 
-## Group 5 (Adrian) (0 tokens)
-- Mike F.
-- Alec S.
-- Ian H.
-
-## Group 6 (Jesse) (1 token)
-- Tim F.
-- Nick O.
-- Barrett C.
-
-## Group 7 (Jesse) (1 token)
-- Manish P.
-- Chris J.
-- Ryan B.
-
-## Group 8 (Jesse) (2 tokens)
-- Michael L.
-- Mark S.
-- Mike R.
+## Group 5 (Nayana) (3 tokens)
+- Sam
+- EJ
+- Kevin
+- Jon R
