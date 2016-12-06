@@ -6,7 +6,7 @@ The instructor names indicated are those who will be primarily responsible for g
 
 # Squads
 
-## Group 1 (Andy) (2 tokens)
+## Group 1 (Andy) (1 tokens)
 - Donovan
 - Juliet
 - Thinh
