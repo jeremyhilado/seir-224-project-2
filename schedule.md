@@ -25,7 +25,13 @@ Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/p
 | Time         | Event                               |
 |--------------|-------------------------------------|
 | 12:30 - 1:30 | Lunch!                              |
-| 1:30 - 3:00  | Project Presentations! Schedule TBD |
+| 2:30 - 3:00  | Groups 4 && 5 |
+| 3:10 - 3:40  | Groups 3 && 1 |
+| 3:50 - 4:05  | Group 2|
+| 4:05 - 4:30  | Squad Scrum |
+
+> Presentation schedule was done in this way: [1, 2, 3, 4, 5].shuffle
+
 
 ## Mini Lessons
 | Date/Time     | Event                                 |
