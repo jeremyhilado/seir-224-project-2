@@ -22,7 +22,7 @@ The instructor names indicated are those who will be primarily responsible for g
 - Angel
 - Adrienne
 
-## Group 4 (James) (3 tokens)
+## Group 4 (James) (2 tokens)
 - Drew
 - Ba
 - Rob Z
