@@ -1,6 +1,6 @@
 # Groups
 
-The instructor names indicated are those who will be primarily responsible for giving feedback on each project.
+<!-- The instructor names indicated are those who will be primarily responsible for giving feedback on each project.
 
 [See here for information on tokens.](readme.md#support)
 
@@ -31,4 +31,4 @@ The instructor names indicated are those who will be primarily responsible for g
 - Sam
 - EJ
 - Kevin
-- Jon R
+- Jon R -->

@@ -1,10 +1,10 @@
 # Schedule
-
-## 1 Dec
-Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues) by 2 Dec at 9:00AM.
+<!-- 
+## March 10
+Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues) by March 10 at 9:00AM. -->
 
 > This is a graded assignment. Such a free win, please make sure you do this.
-
+<!--
 ## 2 Dec
 | Time          | Event                                   |
 |---------------|-----------------------------------------|
@@ -38,4 +38,4 @@ Submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/p
 |---------------|---------------------------------------|
 | 5 Dec / 2:00  | Custom Directives                     |
 | 6 Dec / 10:00 | Google maps with angular              |
-| 7 Dec / 10:00 | jQuery plugins, how to write your own |
+| 7 Dec / 10:00 | jQuery plugins, how to write your own | -->

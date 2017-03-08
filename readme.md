@@ -1,22 +1,28 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a SPA with an Angular Front-end and express/Rails backend
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a SPA with an Angular Front-end and Rails Back-end
 
 ### Overview
 
-While your last project taught you how to get started with Ruby, SQL, & Ruby on Rails, this project you'll be building something exciting combining **Angular front-end with a backend of your choice**
+While your last project taught you how to get started with Ruby and Rails, this project will have you building something exciting by combining an **Angular front-end with a Rails back-end.**
 
-Your instructors will partner you with other classmates to architect, design, and collaboratively build an app with two major components:
+Your instructors will partner you with other classmates to architect, design and collaboratively build an app with two major components:
 
 1. An API of your own design, built using Rails, which serves JSON.
-2. Front-end Angular code that updates the UI, and makes requests to the API using AJAX.
+2. Front-end Angular code that updates the UI and makes requests to the API using AJAX.
 
 **This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
 ---
 
 ### Requirements
-- This app must contain a backend API with at least 2 models. No associations are required.
-- This app must use an angular front end that leverages the backend API in the above requirement.
+- This app must contain a back-end API with at least 2 models. No associations are required.
+- This app must use an Angular front-end that leverages the backend API in the above requirement.
 - Work hard and have fun!
+
+###Contribution Guidelines
+- Each member of your group must have an individual commit history to your project's repositories.
+- Each project should include a Readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
+- Each member of your group is expected to present equally during project presentations -- meaning, equal speaking time amongst all members of your group.
+- During 10-minute daily scrums with an assigned instructor, teams members must share progress. The scrums will entail discussion on goal-setting, time management, accomplishments and individual group contributions. This is **not** time for technical issues. The instructor will check in with groups every morning of project week.
 
 ### Pro Tips
 
@@ -32,10 +38,11 @@ There are three main reasons for this:
 #### Maps
 
 **IF** you decide to incorporate a map into your project:
-- It should be an additional feature of your application. 
+- It should be an additional feature of your application.
 - It should **not** be the lynchpin of your application.
 - Like user authentication a non functional app with a map is not an app. A functional app without a map is an app. Turns out, most apps don't have maps in them.
-- They can cause a lot of headache for little gain. Maps are cool, they aren't **that** cool
+- Check out out([this](https://github.com/ga-wdi-lessons/angular-maps)) lesson plan to get started.
+- They can cause a lot of headache for little gain. Maps are cool, but they aren't **that** cool
 
 #### Process
 
@@ -56,9 +63,15 @@ There are three main reasons for this:
 
 ---
 
-### Potential Project Ideas
+### Project Ideas
 
-For this project, work with your team to build a creative product that you actually think someone will want to use. We won't have time to do tons of customer research, but take some time to brainstorm. If you're struggling for ideas, you can check out the [GA Project Gallery](http://gallery.ga.co).
+For this project, work with your team to build a creative product that you actually think someone will want to use.
+
+All students are required to submit a project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is March 10 at 9:00AM.
+
+After groups have been announced during project 3 kickoff, teams will have one hour to select an idea from all submissions. Students will then inform their assigned instructor of the idea their team has chosen. Ideas will be approved on a first-come, first-serve basis.
+
+**Teams may not choose an idea that any group member has submitted.**
 
 ---
 
@@ -78,11 +91,11 @@ For this project, work with your team to build a creative product that you actua
 
 ### Support
 
-We will be responding to [github issues](https://github.com/ga-wdi-exercises/project3/issues).
+We will be responding to [Github issues](https://github.com/ga-wdi-exercises/project3/issues).
 
 > If you'd like a reference for a good question checkout [this lesson](https://github.com/ga-wdi-lessons/effective_questions)
 
-Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just slack or go up to an instructor, they will update the number of tokens assigned to your group recorded in [this file](groups.md).
+Each group will be given 3 tokens, redeemable at any time for 15 minutes each with an instructor of your choice, for a total of 45 minutes per group. No, you can't transfer tokens. And there are no rollover minutes. Just slack the instructor and they will update the number of tokens assigned to your group recorded in [this file](groups.md).
 
 ### Useful Resources
 
