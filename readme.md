@@ -26,7 +26,7 @@ Your instructors will partner you with other classmates to architect, design and
 
 ### Pro Tips
 
-#### User Auth
+#### User Authentication
 
 You are strongly **DISCOURAGED** from including users and user authentication in your project! Stretch yourself to do something different!
 
@@ -40,7 +40,7 @@ There are three main reasons for this:
 **IF** you decide to incorporate a map into your project:
 - It should be an additional feature of your application.
 - It should **not** be the lynchpin of your application.
-- Like user authentication a non functional app with a map is not an app. A functional app without a map is an app. Turns out, most apps don't have maps in them.
+- Like user authentication a non-functional app with a map is not an app. A functional app without a map is an app. Turns out, most apps don't have maps in them.
 - Check out out [this](https://github.com/ga-wdi-lessons/angular-maps) lesson plan to get started.
 - They can cause a lot of headache for little gain. Maps are cool, but they aren't **that** cool
 
@@ -71,7 +71,7 @@ All students are required to submit a Project 3 idea as an issue [here](https://
 
 After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Students will then inform their assigned instructor of the idea their team has chosen. Ideas will be approved on a first-come, first-serve basis.
 
-**Teams may not choose an idea that on of their team members has submitted.**
+**Teams may not choose an idea submitted by one of their team members.**
 
 ---
 
