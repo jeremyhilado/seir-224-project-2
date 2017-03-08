@@ -21,7 +21,7 @@ Your instructors will partner you with other classmates to architect, design and
 ###Contribution Guidelines
 - Each member of your group must have an individual commit history to your project's repositories.
 - Each project should include a Readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
-- Each member of your group is expected to present for an equal amount of time during ([project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md)). 
+- Each member of your group is expected to present for an equal amount of time during ([project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md)).
 - During 10-minute daily scrums with an assigned instructor, teams members must share progress. The scrums will entail discussion on goal-setting, time management, accomplishments and individual group contributions. This is **not** time for technical issues. The instructor will check in with groups every morning of project week.
 
 ### Pro Tips
@@ -41,7 +41,7 @@ There are three main reasons for this:
 - It should be an additional feature of your application.
 - It should **not** be the lynchpin of your application.
 - Like user authentication a non functional app with a map is not an app. A functional app without a map is an app. Turns out, most apps don't have maps in them.
-- Check out out([this](https://github.com/ga-wdi-lessons/angular-maps)) lesson plan to get started.
+- Check out out [this](https://github.com/ga-wdi-lessons/angular-maps) lesson plan to get started.
 - They can cause a lot of headache for little gain. Maps are cool, but they aren't **that** cool
 
 #### Process
