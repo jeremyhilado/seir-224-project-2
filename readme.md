@@ -22,7 +22,7 @@ Your instructors will partner you with other classmates to architect, design and
 - Each member of your group must have an individual commit history to your project's repositories.
 - Each project should include a Readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
 - Each member of your group is expected to present for an equal amount of time during ([project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md)).
-- During 10-minute daily scrums with an assigned instructor, teams members must share progress. Scrum discussion topics may include goal-setting, time management, accomplishments and individual group contributions. This is **not** time for technical issues. The instructor will check in with groups every morning of project week.
+- During 10-minute daily scrums with an assigned instructor, teams members must share progress. Scrum discussion topics may include goal-setting, time management, accomplishments and individual group contributions. This is **not** time for technical issues. The instructor will check in with groups every day of project week.
 
 ### Pro Tips
 
@@ -69,7 +69,7 @@ For this project, work with your team to build a creative product that you actua
 
 All students are required to submit a Project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is March 10 at 9:00AM.
 
-After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Students will then inform their assigned instructor of the idea their team has chosen. Ideas will be approved on a first-come, first-serve basis.
+After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues/).
 
 **Teams may not choose an idea submitted by one of their team members.**
 
