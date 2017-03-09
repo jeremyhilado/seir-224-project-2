@@ -16,7 +16,6 @@ Your instructors will partner you with other classmates to architect, design, an
 ### Requirements
 - This app must contain a backend API with at least 2 models. No associations are required.
 - This app must use an angular front end that leverages the backend API in the above requirement.
-- Work hard and have fun!
 
 ### Pro Tips
 
