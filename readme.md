@@ -77,7 +77,7 @@ After groups have been announced during Project 3 kickoff, teams will have one h
 
 ### Work Flow
 
-Once your team selects an idea, the group **must** go through the [Git Teams & Workflow](https://github.com/ga-wdi-lessons/git-teams)self-directed lesson plan and discuss workflow during project week. Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
+Once your team selects an idea, the group **must** go through the [Git Teams & Workflow](https://github.com/ga-wdi-lessons/git-teams) self-directed lesson plan and discuss workflow during project week. Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
 
 ---
 
