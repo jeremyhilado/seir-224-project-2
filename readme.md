@@ -14,9 +14,9 @@ Your instructors will partner you with other classmates to architect, design and
 ---
 
 ### Requirements
-- This app must contain a back-end API with at least 2 models. No associations are required.
-- This app must use an Angular front-end that leverages the backend API in the above requirement.
-- Work hard and have fun!
+
+- This app must contain a backend API with at least 2 models. No associations are required.
+- This app must use an angular front end that leverages the backend API in the above requirement.
 
 ### Contribution Guidelines
 - Each member of your group must have an individual commit history to your project's repositories.
