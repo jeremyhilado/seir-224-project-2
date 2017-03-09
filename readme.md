@@ -7,7 +7,7 @@ While your last project taught you how to get started with Ruby and Rails, this 
 Your instructors will partner you with other classmates to architect, design and collaboratively build an app with two major components:
 
 1. An API of your own design, built using Rails, which serves JSON.
-2. Front-end Angular code that updates the UI and makes requests to the API using AJAX.
+2. Front-end Angular code that updates the UI and makes requests to the API.
 
 **This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
@@ -20,8 +20,8 @@ Your instructors will partner you with other classmates to architect, design and
 
 ###Contribution Guidelines
 - Each member of your group must have an individual commit history to your project's repositories.
-- Each project should include a Readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
-- Each member of your group is expected to present for an equal amount of time during ([project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md)).
+- Each project should include a readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
+- Each member of your group is expected to present for an equal amount of time during [project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md).
 - During 10-minute daily scrums with an assigned instructor, teams members must share progress. Scrum discussion topics may include goal-setting, time management, accomplishments and individual group contributions. This is **not** time for technical issues. The instructor will check in with groups every day of project week.
 
 ### Pro Tips
