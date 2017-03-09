@@ -69,9 +69,15 @@ For this project, work with your team to build a creative product that you actua
 
 All students are required to submit a Project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is March 10 at 9:00AM.
 
-After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues/).
+After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues/). 
 
 **Teams may not choose an idea submitted by one of their team members.**
+
+---
+
+### Work Flow
+
+Once your team selects an idea, the group **must** go through the [Git Teams & Workflow](https://github.com/ga-wdi-lessons/git-teams)self-directed lesson plan and discuss workflow during project week. Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
 
 ---
 
