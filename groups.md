@@ -1,34 +1,65 @@
 # Groups
 
-<!-- The instructor names indicated are those who will be primarily responsible for giving feedback on each project.
+**Group 1 - Erik**
+- Gurpreet Gill
+- Collin O'Connell
+- Nathaniel Carter
 
-[See here for information on tokens.](readme.md#support)
+**Group 2 - Erik**
+- Justin Giron
+- Isaac Duarte
+- Jared Edwards
 
-# Squads
+**Group 3 - Nayana**
+- Rodney Curl
+- Kevin Keller
+- Ebenezer Williams
 
-## Group 1 (Andy) (1 tokens)
-- Donovan
-- Juliet
-- Thinh
-- Diana
+**Group 4 - Nayana**
+- Mitch Carroll
+- Benjamin Shapiro
+- Habtamu Abere
 
-## Group 2 (Andy) (2 tokens)
-- Bradley
-- Joh G
-- Rob R
+**Group 5 - Adrian**
+- Nyketha Lyken
+- Hannah Schuster
+- Will Hawkins
 
-## Group 3 (James) (3 tokens)
-- Rob K
-- Angel
-- Adrienne
+**Group 6 - Adrian**
+- Lisa Burr
+- Justin Shin
+- Elena Santana
 
-## Group 4 (James) (2 tokens)
-- Drew
-- Ba
-- Rob Z
+**Group 7 - James**
+- Taylor Scott
+- Samuel Clements
+- Bedig Galladian
+- Malcolm Johnson
 
-## Group 5 (Nayana) (3 tokens)
-- Sam
-- EJ
-- Kevin
-- Jon R -->
+**Group 8 - James**
+- Eric Green
+- Eva Lai
+- Fiona Nataprawira
+- Cabral Sylvester
+
+**Group 9 - Angel**
+- Adam Whitehurst
+- Maikel Nabil
+- Dominick Houston
+- Aaron Andrews
+
+**Group 10 - Angel**
+- Natasha Clark
+- Wes Coffay
+- Laura Goldstein
+
+**Group 11 - Andy**
+- Erica Norby
+- Savraj Singh
+- Dan Lin
+
+**Group 12 - Andy**
+- Andy Flickinger
+- Chris Wightman
+- Travis Batts
+- Francisco Caballero
