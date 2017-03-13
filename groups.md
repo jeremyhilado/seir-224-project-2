@@ -48,7 +48,7 @@
 - Dominick Houston
 - Aaron Andrews
 
-**Group 10 - Angel** (Tokens Left: 3)
+**Group 10 - Angel** (Tokens Left: 2)
 - Natasha Clark
 - Wes Coffay
 - Laura Goldstein
