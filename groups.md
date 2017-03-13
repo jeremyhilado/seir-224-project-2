@@ -36,7 +36,7 @@
 - Bedig Galladian
 - Malcolm Johnson
 
-**Group 8 - James** (Tokens Left: 3)
+**Group 8 - James** (Tokens Left: 2)
 - Eric Green
 - Eva Lai
 - Fiona Nataprawira
