@@ -25,7 +25,7 @@
 - Hannah Schuster
 - Will Hawkins
 
-**Group 6 - Adrian** (Tokens Left: 3)
+**Group 6 - Adrian** (Tokens Left: 2)
 - Lisa Burr
 - Justin Shin
 - Elena Santana
@@ -48,12 +48,12 @@
 - Dominick Houston
 - Aaron Andrews
 
-**Group 10 - Angel** (Tokens Left: 2)
+**Group 10 - Angel** (Tokens Left: 1)
 - Natasha Clark
 - Wes Coffay
 - Laura Goldstein
 
-**Group 11 - Andy** (Tokens Left: 3)
+**Group 11 - Andy** (Tokens Left: 2)
 - Erica Norby
 - Savraj Singh
 - Dan Lin
