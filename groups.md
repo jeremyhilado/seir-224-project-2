@@ -1,6 +1,6 @@
 # Groups
 
-**Group 1 - Erik** (Tokens Left: 3)
+**Group 1 - Erik** (Tokens Left: 2)
 - Gurpreet Gill
 - Collin O'Connell
 - Nathaniel Carter
@@ -42,7 +42,7 @@
 - Fiona Nataprawira
 - Cabral Sylvester
 
-**Group 9 - Angel** (Tokens Left: 3)
+**Group 9 - Angel** (Tokens Left: 2)
 - Adam Whitehurst
 - Maikel Nabil
 - Dominick Houston
