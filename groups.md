@@ -15,7 +15,7 @@
 - Kevin Keller
 - Ebenezer Williams
 
-**Group 4 - Nayana** (Tokens Left: 1)
+**Group 4 - Nayana** (Tokens Left: 0)
 - Mitch Carroll
 - Benjamin Shapiro
 - Habtamu Abere
@@ -30,7 +30,7 @@
 - Justin Shin
 - Elena Santana
 
-**Group 7 - James** (Tokens Left: 2)
+**Group 7 - James** (Tokens Left: 1)
 - Taylor Scott
 - Samuel Clements
 - Bedig Galladian
