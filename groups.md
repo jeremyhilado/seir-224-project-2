@@ -53,7 +53,7 @@
 - Wes Coffay
 - Laura Goldstein
 
-**Group 11 - Andy** (Tokens Left: 2)
+**Group 11 - Andy** (Tokens Left: 1)
 - Erica Norby
 - Savraj Singh
 - Dan Lin
