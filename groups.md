@@ -36,7 +36,7 @@
 - Bedig Galladian
 - Malcolm Johnson
 
-**Group 8 - James** (Tokens Left: 2)
+**Group 8 - James** (Tokens Left: 1)
 - Eric Green
 - Eva Lai
 - Fiona Nataprawira
@@ -58,7 +58,7 @@
 - Savraj Singh
 - Dan Lin
 
-**Group 12 - Andy** (Tokens Left: 3)
+**Group 12 - Andy** (Tokens Left: 2)
 - Andy Flickinger
 - Chris Wightman
 - Travis Batts
