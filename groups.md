@@ -20,7 +20,7 @@
 - Benjamin Shapiro
 - Habtamu Abere
 
-**Group 5 - Adrian** (Tokens Left: 2)
+**Group 5 - Adrian** (Tokens Left: 1)
 - Nyketha Lyken
 - Hannah Schuster
 - Will Hawkins
@@ -42,13 +42,13 @@
 - Fiona Nataprawira
 - Cabral Sylvester
 
-**Group 9 - Angel** (Tokens Left: 2)
+**Group 9 - Angel** (Tokens Left: 1)
 - Adam Whitehurst
 - Maikel Nabil
 - Dominick Houston
 - Aaron Andrews
 
-**Group 10 - Angel** (Tokens Left: 1)
+**Group 10 - Angel** (Tokens Left: 0)
 - Natasha Clark
 - Wes Coffay
 - Laura Goldstein
