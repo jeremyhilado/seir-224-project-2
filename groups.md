@@ -17,7 +17,7 @@
 - Marcus Miller
 
 **Group 4 - John** (Tokens Left: 3)
-- Matt Caplan
+- Meaghan Doherty
 - Omar Chaudhry
 - Jonathan Wright
 
@@ -28,6 +28,5 @@
 
 **Group 6 - Juan** (Tokens Left: 3)
 - Andres Arango
-- Meaghan Doherty
 - Luisa Gonzalez
 - Curtis Ostle
