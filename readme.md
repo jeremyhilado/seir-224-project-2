@@ -67,7 +67,7 @@ There are three main reasons for this:
 
 For this project, work with your team to build a creative product that you actually think someone will want to use.
 
-All students are required to submit a Project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is March 10 at 9:00AM.
+All students are required to submit a Project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is May 11 at 9:00AM.
 
 After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues/). 
 
