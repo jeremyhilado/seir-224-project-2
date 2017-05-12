@@ -26,7 +26,7 @@
 - Erin Dawson
 - Ick Hyun Kwon
 
-**Group 6 - Juan** (Tokens Left: 3)
+**Group 6 - Juan** (Tokens Left: 2)
 - Andres Arango
 - Luisa Gonzalez
 - Curtis Ostle
