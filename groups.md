@@ -10,13 +10,13 @@
 - Amlak Befekadu
 - Whitney Purdum
 
-**Group 3 - John** (Tokens Left: 3)
+**Group 3 - John** (Tokens Left: 2)
 - Caroline Chen
 - Paul Christian-Brown
 - Conner Johnson
 - Marcus Miller
 
-**Group 4 - John** (Tokens Left: 3)
+**Group 4 - John** (Tokens Left: 2)
 - Meaghan Doherty
 - Omar Chaudhry
 - Jonathan Wright
