@@ -5,7 +5,7 @@
 - Jeong Hoon Koo
 - Stormy Ramsey
 
-**Group 2 - Andy** (Tokens Left: 2)
+**Group 2 - Andy** (Tokens Left: 1)
 - Halimatu Bakarr
 - Amlak Befekadu
 - Whitney Purdum
@@ -21,12 +21,12 @@
 - Omar Chaudhry
 - Jonathan Wright
 
-**Group 5 - Juan** (Tokens Left: 2)
+**Group 5 - Juan** (Tokens Left: 1)
 - Ammar Alasadi
 - Erin Dawson
 - Ick Hyun Kwon
 
-**Group 6 - Juan** (Tokens Left: 2)
+**Group 6 - Juan** (Tokens Left: 1)
 - Andres Arango
 - Luisa Gonzalez
 - Curtis Ostle
