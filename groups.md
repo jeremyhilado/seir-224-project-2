@@ -5,7 +5,7 @@
 - Jeong Hoon Koo
 - Stormy Ramsey
 
-**Group 2 - Andy** (Tokens Left: 3)
+**Group 2 - Andy** (Tokens Left: 2)
 - Halimatu Bakarr
 - Amlak Befekadu
 - Whitney Purdum
