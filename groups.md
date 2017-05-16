@@ -21,7 +21,7 @@
 - Omar Chaudhry
 - Jonathan Wright
 
-**Group 5 - Juan** (Tokens Left: 3)
+**Group 5 - Juan** (Tokens Left: 2)
 - Ammar Alasadi
 - Erin Dawson
 - Ick Hyun Kwon
