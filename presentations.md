@@ -29,22 +29,4 @@ Following the 10-minute presentation, 5 minutes will be allotted for questions. 
 
 ## Presentation Schedule
 
-Presentations will take place from 2:30pm - 4:30pm in Classrooms 5 & 6. Groups will be presenting in their assigned classrooms, which are listed below. Groups must stay in their assigned classroom for the entire presentation period.
-
-#### Classroom 5
-
-- **Group 1:** Gurpeet, Colin, Nathaniel
-- **Group 2:** Justin G., Isaac, Jared
-- **Group 3:** Rodney, Kevin, Ebenezer
-- **Group 4:** Mitch, Benjhamin, Habtamu
-- **Group 5:** Nyketha, Hannah, Will
-- **Group 6:** Lisa, Justin S., Elena
-
-#### Classroom 6
-
-- **Group 7:** Taylor, Samuel, Bedig, Malcolm
-- **Group 8:** Eric, Eva, Fiona, Cabral
-- **Group 9:** Adam, Maikel, Dominick, Aaron
-- **Group 10:** Natasha, Wes, Laura
-- **Group 11:** Erica, Savraj, Dan
-- **Group 12:** Andy, Chris, Travis, Francisco
+Presentations will take place from 2:30pm - 4:30pm in our classrooms. Presentation order will follow the team numbering in [groups.md](groups.md).
