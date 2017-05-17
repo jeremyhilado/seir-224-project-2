@@ -21,7 +21,7 @@ Your instructors will partner you with other classmates to architect, design and
 ### Contribution Guidelines
 - Each member of your group must have an individual commit history to your project's repositories.
 - Each project should include a readme.md that provides information as to the roles of each member of the group. Specifically, it should include the responsibilities of each member and their accomplishments.
-- Each member of your group is expected to present for an equal amount of time during [project presentations](https://github.com/ga-wdi-exercises/project3/blob/wdi14/presentations.md).
+- Each member of your group is expected to present for an equal amount of time during [project presentations](presentations.md).
 - During 10-minute daily scrums with an assigned instructor, teams members must share progress. Scrum discussion topics may include goal-setting, time management, accomplishments and individual group contributions. This is **not** time to address technical issues. The instructor will check in with groups every day of project week.
 
 ### Pro Tips
