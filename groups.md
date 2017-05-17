@@ -1,6 +1,6 @@
 # Groups
 
-**Group 1 - Andy** (Tokens Left: 3)
+**Group 1 - Andy** (Tokens Left: 1)
 - Adam Hoff
 - Jeong Hoon Koo
 - Stormy Ramsey
@@ -21,7 +21,7 @@
 - Omar Chaudhry
 - Jonathan Wright
 
-**Group 5 - Juan** (Tokens Left: 1)
+**Group 5 - Juan** (Tokens Left: 0)
 - Ammar Alasadi
 - Erin Dawson
 - Ick Hyun Kwon
