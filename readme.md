@@ -83,7 +83,7 @@ After groups have been announced during Project 3 kickoff, teams will have one h
 
 ### Attendance
 
-Attendance will be taken every day at 9am. Remember to check in!
+Attendance will be taken every day at 9:00AM. Remember to check in!
 
 ---
 
