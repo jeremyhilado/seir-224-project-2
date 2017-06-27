@@ -19,7 +19,7 @@
 - Scott
 
 
-**Group 4 - Adrian** (Tokens Left: 3)
+**Group 4 - Adrian** (Tokens Left: 2)
 
 - Mark
 - Tedla
