@@ -12,7 +12,7 @@
 - Bao
 - Curry
 
-**Group 3 - Adrian** (Tokens Left: 3)
+**Group 3 - Adrian** (Tokens Left: 2)
 
 - Sonny
 - Antwana
