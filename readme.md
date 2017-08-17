@@ -67,15 +67,15 @@ If you decide to incorporate a map into your project...
 
 For this project, work with your team to build a creative product that you actually think someone will want to use.
 
-All students are required to submit **two Project 3 ideas** as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is June 23rd at 9:00AM.
+All students are required to submit **two Project 3 ideas** as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is August 18th at 9:00AM.
 
-After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea here.
+After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues). Please list all group members in the issue's title. You will update this issue with your project submission by the end of the project week. 
 
 ---
 
 ### Evaluation and Submission
 
-[See the requirements for the contents of the submission here.](evaluation.md#Submission)
+[See the requirements for the contents of the submission here.](evaluation.md)
 
 #### [Submit Your Project Here](https://github.com/ga-dc/project3-gallery/issues)
 
@@ -98,4 +98,4 @@ Each group will be given 3 tokens, redeemable at any time for 15 minutes each wi
 ### Useful Resources
 
 * [Deploying Heroku Apps with Custom Names](https://devcenter.heroku.com/articles/renaming-apps)
-* [Deploying Angular on Rails](https://github.com/ga-wdi-lessons/angular-on-rails/blob/master/walkthrough.md#commit-deploy)
+* [Serving Angular from Rails Example](https://github.com/ga-wdi-exercises/grumblr_angular/tree/add-rails-server)
