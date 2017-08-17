@@ -40,4 +40,4 @@ Each presentation will be at most ten minutes long. Five minutes will then be al
 
 ## Presentation Schedule
 
-Presentations will take place from 3:00pm - 4:30pm in our classrooms. Presentation order will follow the team numbering in [groups.md](groups.md).
+Presentations will take place from 2:30pm - 4:30pm in our classrooms. Presentation order will follow the team numbering in [groups.md](groups.md).
