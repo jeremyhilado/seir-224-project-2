@@ -1,3 +1,31 @@
 # Groups
 
-Groups will be announced Friday, August 18 @10:00am
+### Group 1 - John (Tokens Remaining: 3)
+- Jacob Greenwald 
+- Sanjay Persaud
+- Matthew Filbert
+
+### Group 2 - Andy (Tokens Remaining: 3)
+- Frew Negash
+- Kendall Adkins
+- Charles Cox
+
+### Group 3 - Juan (Tokens Remaining: 3)
+- Patrick Reese
+- Timothy Gafvert
+- Jessa Barre
+
+### Group 4 - Andy (Tokens Remaining: 3)
+- Edwin Guevara
+- Colleen O'Reilly
+- Alex Wandres
+
+### Group 5 - Juan (Tokens Remaining: 3)
+- Rami Taha
+- Jonathan Polakoff
+- Elizabeth Jewell
+
+### Group 6 - John (Tokens Remaining: 3)
+- Luis Wiese
+- Josue Rosales
+- Perry Fustero
