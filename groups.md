@@ -25,7 +25,7 @@
 - Jonathan Polakoff
 - Elizabeth Jewell
 
-### Group 6 - John (Tokens Remaining: 3)
+### Group 6 - John (Tokens Remaining: 2)
 - Luis Wiese
 - Josue Rosales
 - Perry Fustero
