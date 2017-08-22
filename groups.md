@@ -5,7 +5,7 @@
 - Sanjay Persaud
 - Matthew Filbert
 
-### Group 2 - Andy (Tokens Remaining: 3)
+### Group 2 - Andy (Tokens Remaining: 2)
 - Frew Negash
 - Kendall Adkins
 - Charles Cox
@@ -15,12 +15,12 @@
 - Timothy Gafvert
 - Jessa Barre
 
-### Group 4 - Andy (Tokens Remaining: 3)
+### Group 4 - Andy (Tokens Remaining: 2)
 - Edwin Guevara
 - Colleen O'Reilly
 - Alex Wandres
 
-### Group 5 - Juan (Tokens Remaining: 3)
+### Group 5 - Juan (Tokens Remaining: 2)
 - Rami Taha
 - Jonathan Polakoff
 - Elizabeth Jewell
