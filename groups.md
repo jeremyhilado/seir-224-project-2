@@ -20,7 +20,7 @@
 - Colleen O'Reilly
 - Alex Wandres
 
-### Group 5 - Juan (Tokens Remaining: 2)
+### Group 5 - Juan (Tokens Remaining: 1)
 - Rami Taha
 - Jonathan Polakoff
 - Elizabeth Jewell
