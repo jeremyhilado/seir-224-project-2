@@ -10,7 +10,7 @@
 - Kendall Adkins
 - Charles Cox
 
-### Group 3 - Juan (Tokens Remaining: 3)
+### Group 3 - Juan (Tokens Remaining: 1)
 - Patrick Reese
 - Timothy Gafvert
 - Jessa Barre
@@ -20,7 +20,7 @@
 - Colleen O'Reilly
 - Alex Wandres
 
-### Group 5 - Juan (Tokens Remaining: 1)
+### Group 5 - Juan (Tokens Remaining: 0)
 - Rami Taha
 - Jonathan Polakoff
 - Elizabeth Jewell
