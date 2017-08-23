@@ -15,7 +15,7 @@
 - Timothy Gafvert
 - Jessa Barre
 
-### Group 4 - Andy (Tokens Remaining: 2)
+### Group 4 - Andy (Tokens Remaining: 1)
 - Edwin Guevara
 - Colleen O'Reilly
 - Alex Wandres
