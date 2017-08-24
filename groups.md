@@ -1,6 +1,6 @@
 # Groups
 
-### Group 1 - John (Tokens Remaining: 3)
+### Group 1 - John (Tokens Remaining: 2)
 - Jacob Greenwald 
 - Sanjay Persaud
 - Matthew Filbert
