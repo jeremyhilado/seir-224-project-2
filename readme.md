@@ -9,7 +9,7 @@ Your instructors have grouped you with other classmates to design and build an a
 1. An API of your own design, built using Node, Express, and Mongoose, that serves JSON.
 2. Front-end React code that updates the UI and makes requests to the API.
 
-**This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
+**This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. It's important to learn how to work together.
 
 ---
 
@@ -59,7 +59,7 @@ You should split your application into separate repositories, one for your React
 * **Name things appropriately.  Comment as necessary.** Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting)).  Even if it's obvious, comments can help to explain the intent -- the what and why.  This allows the next developer to understand the purpose and decide what can be adjusted to achieve the same goal.
 * **Ensure it is well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?  Organizing the hierarchy is key to understanding.
 
-Teams of developers usually adhere to an agreed-upon set of code-style rules. This reduces issues with reading our colleagues' code. We strongly recommend using [StandardJS linting](https://github.com/standard/standard#install). Instructions for Atom package installation [here](https://github.com/standard/standard#atom). 
+Teams of developers usually adhere to an agreed-upon set of code-style rules. This reduces issues with reading our colleagues' code. We strongly recommend using [StandardJS linting](https://github.com/standard/standard#install). Instructions for Atom package installation [here](https://github.com/standard/standard#atom).
 
 
 ---
@@ -68,14 +68,7 @@ Teams of developers usually adhere to an agreed-upon set of code-style rules. Th
 
 For this project, work with your team to build a creative product that you actually think someone will want to use.
 
-All students are required to submit a Project 3 idea as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is May 11 at 9:00AM.
-
-After groups have been announced during Project 3 kickoff, teams will have one hour to select an idea from all submissions. Teams will then file their selected idea [here](https://github.com/ga-dc/project3-gallery/issues/).
-
-
----
-
-### Work Flow
+All students are required to submit **two Project 3 ideas** as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is August 18th at 9:00AM.
 
 Once your team selects an idea, the group **must** choose a workflow from the [Git Teams & Workflow lesson](https://github.com/ga-wdi-lessons/git-teams). Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
 
@@ -83,7 +76,7 @@ Once your team selects an idea, the group **must** choose a workflow from the [G
 
 ### Evaluation and Submission
 
-[See the requirements for the contents of the submission here.](evaluation.md#Submission)
+[See the requirements for the contents of the submission here.](evaluation.md)
 
 #### [Submit Your Project Here](https://github.com/ga-dc/project3-gallery/issues)
 
@@ -91,7 +84,7 @@ Once your team selects an idea, the group **must** choose a workflow from the [G
 
 ### Attendance
 
-**Attendance will be taken every day at 9am. Remember to check in!**
+Attendance will be taken every day at 9:00AM. Remember to check in!
 
 ---
 
@@ -111,7 +104,7 @@ Each group will be given one token per day, redeemable at any time for 15 minute
 
 ### Bonuses
 
-You should only attempt these bonuses if and only if you've satisfied project requirements. 
+You should only attempt these bonuses if and only if you've satisfied project requirements.
 
 #### User Authorization
 
