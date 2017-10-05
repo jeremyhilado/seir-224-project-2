@@ -10,7 +10,7 @@ Group 2 (Ali)
   - Max
   - Diona
   - Drew
-  - Aalyiah
+  - Aaliyah
 
 Group 3 (James)
   - Spenser
