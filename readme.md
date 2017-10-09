@@ -68,9 +68,9 @@ Teams of developers usually adhere to an agreed-upon set of code-style rules. Th
 
 For this project, work with your team to build a creative product that you actually think someone will want to use.
 
-All students are required to submit **two Project 3 ideas** as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is August 18th at 9:00AM.
+<!-- All students are required to submit **two Project 3 ideas** as an issue [here](https://github.com/ga-wdi-exercises/project3/issues). The deadline for submission is August 18th at 9:00AM. -->
 
-Once your team selects an idea, the group **must** choose a workflow from the [Git Teams & Workflow lesson](https://github.com/ga-wdi-lessons/git-teams). Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
+Once your team selects an idea, the group **must** choose a workflow from the [Git Teams & Workflow lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams). Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
 
 ---
 
@@ -90,7 +90,7 @@ Attendance will be taken every day at 9:00AM. Remember to check in!
 
 ### Support
 
-The instructors will be responding to [Github issues](https://github.com/ga-wdi-exercises/project3/issues).
+The instructors will be responding to [Github issues](https://git.generalassemb.ly/ga-wdi-exercises/project3/issues).
 
 > If you'd like a reference for a good question checkout [this lesson](https://github.com/ga-wdi-lessons/effective_questions)
 
@@ -112,7 +112,7 @@ Consider whether or not you want to introduce a barrier to entry for your applic
 
   > "Do I *really* need to log in just so I can post a link to a GIF?"
 
-[Here](https://github.com/ga-wdi-lessons/express-oauth) is a GA lesson explaining how auth can be implemented in an Express application.
+[Here](https://git.generalassemb.ly/ga-wdi-lessons/express-oauth) is a GA lesson explaining how auth can be implemented in an Express application.
 
 
 #### Maps
