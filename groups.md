@@ -1,19 +1,31 @@
 # Groups
 
-Group 1 (Mike)
-  - Amarinder
-  - Mohamed
-  - Bil
-  - Netsuhe
+## Group 1: Perry
+Stella Gordon-Zigel
+Wilner Charles
+Meg MacIver
 
-Group 2 (Ali)
-  - Max
-  - Diona
-  - Drew
-  - Aaliyah
+## Group 2: Perry
+Ante Bozic
+Dan McQuade
+Darrel Everett Butler
 
-Group 3 (James)
-  - Spenser
-  - Patrick
-  - Melley
-  - Christian
+## Group 3: Andy
+Casey Jordan
+Ross Davis
+Jared Taylor
+
+## Group 4: Andy
+Farris Ismati
+Steven Connors
+Jack Tyburski
+
+## Group 5: Zakk
+Michael Ortiz
+Declan Kurant
+Sarah Yu
+
+## Group 6: Zakk
+Angie Spears
+Sloan Holzman
+Troy Sipprelle

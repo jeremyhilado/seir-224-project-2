@@ -2,7 +2,7 @@
 
 **Each member of the group** must participate in the presentation.
 
-Each presentation will be at most ten minutes long. Five minutes will then be allotted for questions from the class. Take turns answering questions during the Q & A. We suggest the following structure...
+Each presentation will be at most ten minutes long. We recommend that you to plan your presentation ahead of time and to practice running through it at least once. Five minutes will then be allotted for questions from the class. Take turns answering questions during the Q & A. We suggest the following structure:
 
 #### Introduction
 
