@@ -25,7 +25,7 @@
 * Declan Kurant
 * Sarah Yu
 
-## Group 6: Zakk (Tokens Left: 3)
+## Group 6: Zakk (Tokens Left: 2)
 * Angie Spears
 * Sloan Holzman
 * Troy Sipprelle
