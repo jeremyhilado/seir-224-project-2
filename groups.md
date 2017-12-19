@@ -1,6 +1,6 @@
 # Groups
 
-## Group 1: Perry (Tokens Left: 3)
+## Group 1: Perry (Tokens Left: 2)
 * Stella Gordon-Zigel
 * Wilner Charles
 * Meg MacIver
