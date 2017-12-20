@@ -10,7 +10,7 @@
 * Dan McQuade
 * Darrel Everett Butler
 
-## Group 3: Andy (Tokens Left: 2)
+## Group 3: Andy (Tokens Left: 1)
 * Casey Jordan
 * Ross Davis
 * Jared Taylor
