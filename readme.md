@@ -128,7 +128,7 @@ Consider whether or not you want to introduce a barrier to entry for your applic
 
   > "Do I *really* need to log in just so I can post a link to a GIF?"
 
-[Here](https://git.generalassemb.ly/ga-wdi-exercises/express-passport-local-authentication) is a GA lesson explaining how auth can be implemented in an Express application.
+[Here](https://git.generalassemb.ly/ga-wdi-lessons/express-passport) is a GA lesson explaining how auth can be implemented in an Express application.
 
 #### Maps
 
