@@ -1,4 +1,4 @@
-# ## Groups
+## Groups
 
 ## Group 1 - Ali
 Justin
