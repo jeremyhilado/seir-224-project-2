@@ -18,8 +18,9 @@ Your instructors have grouped you with other classmates to design and build an a
 > ### *Do not use Redux for this project*
 
 #### Back-End Requirements
-  - This app must contain a Node, Express, and Mongoose backend API with at least 2 *non-user models*. No associations are required.
+  - This app must contain a Node, Express, and Mongoose backend API with at least 2 models. No associations are required. User authentication is **strongly discouraged since it is often a major stumbling block**.
   - Must have Create, Read, Update, and Destroy functionality.
+  
 
 #### Front-End Requirements
   - This app must use a React front end that leverages the backend API in the above requirement.
