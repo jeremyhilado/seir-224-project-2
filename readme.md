@@ -2,7 +2,7 @@
 
 ### Overview
 
-While your last project taught you how to get started with Ruby on Rails, this project will have you building another full stack application, but this time purely in JavaScript with a React front-end.
+While your last project taught you how to get started with writing a fullstack application in JavaScript using Express, Mongoose, and Node, this project will have you building another full stack application, but this time with a React front-end.
 
 Your instructors have grouped you with other classmates to design and build an app with two major components:
 
@@ -20,7 +20,6 @@ Your instructors have grouped you with other classmates to design and build an a
 #### Back-End Requirements
   - This app must contain a Node, Express, and Mongoose backend API with at least 2 models. No associations are required. User authentication is **strongly discouraged since it is often a major stumbling block**.
   - Must have Create, Read, Update, and Destroy functionality.
-  
 
 #### Front-End Requirements
   - This app must use a React front end that leverages the backend API in the above requirement.
@@ -32,17 +31,24 @@ Your instructors have grouped you with other classmates to design and build an a
 
     > We strongly recommend deploying your back-end and front-end separately. This will make it far easier to debug your deployed applications and manage your deployments.
 
+---
+
 ### App Organization
 
 You should split your application into separate repositories, one for your React front-end and another for your Node-Express-Mongoose API.
 
 [See deploying to Heroku with MLAB cloud-hosted MongoDB here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
 
+---
+
 ### Contribution Guidelines
+
   - Each member of your group ***must have an individual commit history*** to your project's repositories (Multiple commits per group member).
   - Each project should include a `readme.md` that defines the roles of each group member. Specifically, it should include the responsibilities of each member and their contributions.
   - Each member of your group is expected to present for an equal amount of time during [project presentations](presentations.md), which last at least 10 minutes per group.
   - During 10-minute daily scrums with an assigned instructor, teams members must share progress. Scrum discussion topics may include goal-setting, time management, goal progress, and individual group contributions. This is **not** time to address technical issues. The instructor will check in with groups every day of project week.
+
+---
 
 ### Process
 
@@ -51,6 +57,8 @@ You should split your application into separate repositories, one for your React
 * **Don't hesitate** to write throwaway code to solve short-term problems.
 * **Read the docs** for whatever technologies / frameworks / API's you plan to use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
 * **Continuously Deploy** your code.
+
+---
 
 ### Code
 
@@ -75,6 +83,17 @@ If you're struggling to come up with your own project ideas, checkout [r/startup
 
 Once your team selects an idea, the group **must** choose a workflow from the [Git Teams & Workflow lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams). Be prepared to share your team's plans with your assigned instructor at the first round of scrum.
 
+#### Project Idea Submission Deadline
+
+Project ideas will be due January 29th, at 12 pm.
+
+Planning submissions must include:
+  1. ERDs for models
+  2. Rough wireframes for your views and user interface
+  3. MVP Roadmap, which would include...
+    - When you will have your models done by
+    - Your schedule of creating components, adding features`
+
 ---
 
 ### Evaluation and Submission
@@ -82,8 +101,6 @@ Once your team selects an idea, the group **must** choose a workflow from the [G
 [See the requirements for the contents of the submission here.](evaluation.md)
 
 #### [Submit Your Project Here](https://github.com/ga-dc/project3-gallery/issues)
-
----
 
 ### Attendance
 
@@ -111,8 +128,7 @@ Consider whether or not you want to introduce a barrier to entry for your applic
 
   > "Do I *really* need to log in just so I can post a link to a GIF?"
 
-[Here](https://git.generalassemb.ly/ga-wdi-lessons/express-oauth) is a GA lesson explaining how auth can be implemented in an Express application.
-
+[Here](https://git.generalassemb.ly/ga-wdi-exercises/express-passport-local-authentication) is a GA lesson explaining how auth can be implemented in an Express application.
 
 #### Maps
 
