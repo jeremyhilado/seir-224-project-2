@@ -1,31 +1,41 @@
-# Groups
+# ## Groups
 
-## Group 1: Perry (Tokens Left: 2)
-* Stella Gordon-Zigel
-* Wilner Charles
-* Meg MacIver
+## Group 1 - Ali
+Justin
+Natalee
+Shelley
+Rashad
 
-## Group 2: Perry (Tokens Left: 3)
-* Ante Bozic
-* Dan McQuade
-* Darrel Everett Butler
+## Group 2 - James
+Hammad
+Wade
+Savannah
+Kathy
 
-## Group 3: Andy (Tokens Left: 1)
-* Casey Jordan
-* Ross Davis
-* Jared Taylor
+## Group 3 - James
+Gwen
+Clifford
+Rindy
 
-## Group 4: Andy (Tokens Left: 3)
-* Farris Ismati
-* Steven Connors
-* Jack Tyburski
+## Group 4 - Mike
+Zach
+Christopher
+Terrence
 
-## Group 5: Zakk (Tokens Left: 3)
-* Michael Ortiz
-* Declan Kurant
-* Sarah Yu
+## Group 5 - Ali
+Brian
+Temicka
+Neechie
+Zelalem
 
-## Group 6: Zakk (Tokens Left: 2)
-* Angie Spears
-* Sloan Holzman
-* Troy Sipprelle
+## Group 6 - Max
+Kevon
+Ryan
+Devon
+Annette
+
+## Group 7 - Mike
+Sandro
+Marquet
+Francis
+Alonzo
