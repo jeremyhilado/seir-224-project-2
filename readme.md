@@ -110,7 +110,7 @@ Attendance will be taken every day at 9:00AM. Remember to check in! You are requ
 
 ### Support
 
-Each group will be given three tokens, redeemable at any time for 15 minutes each with an instructor of your choice. Tokens cannot be transferred between groups.
+Each group will be given four tokens, redeemable at any time for 15 minutes each. You can use one token per instructor. Tokens cannot be transferred between groups.
 
 <!-- ### Useful Resources -->
 
