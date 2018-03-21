@@ -1,31 +1,31 @@
 # Groups
 
-## Group 1: Perry
-Stella Gordon-Zigel
-Wilner Charles
-Meg MacIver
+## Helium:
+Hyojin Sarchet
+Kevin Buckley
+Ai Yen Tam
 
-## Group 2: Perry
-Ante Bozic
-Dan McQuade
-Darrel Everett Butler
+## Neon:
+Mahwash Mahr
+Brandon Sears
+Hannah Aurand
 
-## Group 3: Andy
-Casey Jordan
-Ross Davis
-Jared Taylor
+## Argon:
+Grant Nathaniel Brown
+Samuel Haile
+Sam Gehret
 
-## Group 4: Andy
-Farris Ismati
-Steven Connors
-Jack Tyburski
+## Krypton:
+Laura Haft
+Ruqayyah (Qya) Ahmad
+Angela Malone
 
-## Group 5: Zakk
-Michael Ortiz
-Declan Kurant
-Sarah Yu
+## Xenon:
+Mei Chen
+Nhi Hong Nguyen
+Daniel Freudberg
 
-## Group 6: Zakk
-Angie Spears
-Sloan Holzman
-Troy Sipprelle
+## Radon:
+Hoangphuc Timmy Le
+Jeffrey Heller
+Jonathan Fragale
