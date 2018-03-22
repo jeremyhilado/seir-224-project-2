@@ -1,4 +1,4 @@
-# Groups
+## Groups
 
 ## Helium:
 * Hyojin Sarchet

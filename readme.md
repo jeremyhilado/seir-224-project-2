@@ -21,7 +21,7 @@ together.
 
 ### Technical Requirements
 
-#### Back-End Requirements
+**Back-End Requirements:**
 
 - Your back-end must be a Node, Express, and Mongoose API with at least 2
   non-user models. No associations are required.
@@ -29,13 +29,16 @@ together.
   app (i.e. You don't need full CRUD on every model, just full CRUD throughout
   your models).
 
-#### Front-End Requirements
+**Front-End Requirements:**
 
 - Your front-end must use React and leverage the backend API in the above
   requirements.
 - You must use React Router to handle multiple views.
 - You must communicate with the back-end API RESTfully to Create, Read, Update,
   and Destroy resources (using either `fetch` or `axios`).
+
+Review the [Rubric](evaluation.md) for the specifics of how your project will be
+graded.
 
 ### Collaboration
 
@@ -88,7 +91,7 @@ welcome to continue working on it over the course of WDI and beyond!
 With your submission please include any questions you'd like answered, or
 specific things on which you'd like us to focus when giving feedback.
 
-### Necessary Deliverables
+## Necessary Deliverables
 
 Your submission must include **all** of the following:
 
@@ -110,37 +113,38 @@ Your project is due on the last day of Project Week (the exact date is in your
 course calendar). Create an issue on [the project3-gallery
 repository](https://github.com/ga-dc/project3-gallery) containing:
 
-* A link to your deployed application
-* A link to your Project 3 Github repositories (Do not fork this repo)
+- A link to your deployed application
+- A link to your Project 3 Github repositories (Do not fork this repo)
 
 The repository for your backend API should include:
 
-* A working JSON API (built by your team) built using Express and Mongoose that meets the technical requirements above.
-* Frequent commits dating back to the very beginning of the project.
-* A `readme.md` file in the root of your repo that follows [good standards of
+- A working JSON API (built by your team) built using Express and Mongoose that
+  meets the technical requirements above.
+- Frequent commits dating back to the very beginning of the project.
+- A `readme.md` file in the root of your repo that follows [good standards of
   documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
-* A `planning/` directory in the root of your repo containing a diagram mapping
+- A `planning/` directory in the root of your repo containing a diagram mapping
   out your project domain. You are welcome to include other planning documents
   (e.g., wireframes, user stories).
-* A link to your hosted, working API in the URL section of your Github
-  repo:
+- A link to your hosted, working API in the URL section of your Github repo:
 
 > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
 The repository for the frontend of your application should include:
 
-* A working frontend application (built by your team) built with React and React Router that meets the technical requirements above.
-* Frequent commits dating back to the very beginning of the project.
-* A `readme.md` file in the root of your repo that follows [good standards of
+- A working frontend application (built by your team) built with React and React
+  Router that meets the technical requirements above.
+- Frequent commits dating back to the very beginning of the project.
+- A `readme.md` file in the root of your repo that follows [good standards of
   documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
-* A `planning/` directory in the root of your repo containing a diagram mapping
+- A `planning/` directory in the root of your repo containing a diagram mapping
   out your project domain. You are welcome to include other planning documents
   (e.g., wireframes, user stories).
-* A link to your hosted, working application in the URL section of your Github
+- A link to your hosted, working application in the URL section of your Github
   repo:
 
 > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
@@ -149,17 +153,18 @@ The repository for the frontend of your application should include:
 
 ### In-person Support
 
-Instructors will not be holding open office hours during Project 3 project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your team.
-
-Each team will be given 3 (three) tokens, redeemable at any time, for 15 minutes
+Each team will be given 3 (three) tokens, redeemable at any time, for 20 minutes
 with an instructor. Tokens cannot be transferred between groups - there is no
 black market for tokens.
 
-Additionally, an instructor will be assigned to your group and will check in
-with your team every morning for about 15 minutes. The purpose of these
-check-ins is not to discuss technical questions, but to answer questions about
-workflow, collaborating, communicating or anything else related to working in a
-team.
+Instructors will not be holding open office hours during project week. This is
+to give you the opportunity to solve issues and errors you run in to on your own
+and with your team.
+
+An instructor will be assigned to each team and wil check in with your team
+every morning for about 15 minutes. The purpose of these check-ins is not to
+discuss technical questions, but to answer questions about workflow,
+collaboration, communication or anything else related to working in a team.
 
 ## GitHub Issues
 
@@ -168,12 +173,15 @@ GitHub, on the issues section of this repo. This is to mirror "in-the-wild"
 practices. Developers often interact with (and receive help from) each other via
 GitHub issues.
 
-We've provided a template for you to fill in when posting an issue to receive help. The more detailed you make your issue, the easier it will be for us to help you. That, and the added benefit that the more you think through your issue, the more likely you are to solve it yourself!
+We've provided a template for you to fill in when posting an issue to receive
+help. The more detailed you make your issue, the easier it will be for us to
+help you. That, and the added benefit that the more you think through your
+issue, the more likely you are to solve it yourself!
 
 A good GitHub issue has the following:
 
-* A detailed explanation of what the issue or error is
-* An even more detailed explanation for why you think the error is happening
+- A detailed explanation of what the issue or error is
+- An even more detailed explanation for why you think the error is happening
   (remember that all bugs and errors happen for logical reasons!).
 
 ## App Organization
@@ -201,6 +209,25 @@ here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
   management, goal progress, and individual group contributions. This is **not**
   time to address technical issues. The instructors will check in with groups
   every day of project week.
+
+## Project Ideas
+
+For this project, work with your team to build a creative product that you think
+someone will want to use.
+
+> If you have an idea that you've been itching to make, save it for your Project
+> 4. You can build whatever you want for Project 4, the purpose of this project
+>    is to build what you **and your teammates** want to build
+
+If you're struggling to come up with your own project ideas, checkout
+[r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
+[requestforstartup.co](https://requestforstartup.co/).
+
+Once your team selects an idea, the group **must** choose a workflow from the
+[Git Teams & Workflow
+lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams). Be prepared to
+share your team's plans with your assigned instructor at the first round of
+scrum.
 
 ## Tips
 
@@ -244,30 +271,6 @@ Teams of developers usually adhere to an agreed-upon set of code-style rules.
 This reduces issues with reading our colleagues' code. We strongly recommend
 using [StandardJS linting](https://github.com/standard/standard#install) or
 [PrettierJS](https://github.com/prettier/prettier).
-
-## Project Ideas
-
-For this project, work with your team to build a creative product that you
-think someone will want to use.
-
-> If you have an idea that you've been itching to make, save it for your Project
-> 4. You can build whatever you want for Project 4, the purpose of this project
-> is to build what you **and your teammates** want to build
-
-If you're struggling to come up with your own project ideas, checkout
-[r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
-[requestforstartup.co](https://requestforstartup.co/).
-
-Once your team selects an idea, the group **must** choose a workflow from the
-[Git Teams & Workflow
-lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams). Be prepared to
-share your team's plans with your assigned instructor at the first round of
-scrum.
-
-## Evaluation
-
-Your application and how your group collaborates will be evaluated on the
-[rubric](evaluation.md) for this project.
 
 ## Plagiarism
 
