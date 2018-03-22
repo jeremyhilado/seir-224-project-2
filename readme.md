@@ -1,21 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a Full Stack MERN Application
 
-## Overview
-
 Your last project taught you how to build a full stack application with Express,
 Handlebars and Mongoose. This project will have you building another full stack
-application, but this time with a React front-end.
+application but this time with a React front-end.
 
-Your instructors have grouped you with other classmates to design and build an
-app with two major components:
+Your instructors have organized you and your classmates into groups to design
+and build an app with two major components:
 
 1. An API of your own design (built using Node, Express, and Mongoose) that
    serves JSON.
 2. A front-end React application that updates the UI and makes requests to the
    API.
 
-**This is meant to push you both technically and collaboratively.**  You will be
-joining a development team during your career.  Working collaboratively is a
+**This is meant to push you both technically and collaboratively.** You will be
+joining a development team during your career. Working collaboratively is a
 learned skill, just like programming. It's important to learn how to work
 together.
 
@@ -38,12 +36,17 @@ together.
 - You must use React Router to handle multiple views.
 - You must communicate with the back-end API RESTfully to Create, Read, Update,
   and Destroy resources (using either `fetch` or `axios`).
-  
+
 ### Collaboration
 
-- Every team member must have roughly the same number of individual commits in the commit history for your app (dividing responsibilities between different parts of the app is fine, but every team member must have commits in the project).
-- Every team must follow a [Git Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows)
-- Every team member must speak for roughly the same amount of time during the group [presentation](presentations.md]
+- Every team member must have roughly the same number of individual commits in
+  the commit history for your app (dividing responsibilities between different
+  parts of the app is fine, but every team member must have commits in the
+  project).
+- Every team must follow a [Git
+  Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows)
+- Every team member must speak for roughly the same amount of time during the
+  group [presentation](presentations.md]
 
 ### Deployment
 
@@ -72,6 +75,107 @@ If your application uses physical locations, consider adding a map ***as a bonus
 feature*** to your application. [Check out this Google Maps component
 library](https://tomchentw.github.io/react-google-maps/).
 
+## Submission
+
+***DO NOT FORK THIS REPOSITORY!*** Create a **new** repository. Then, submit
+your project as an issue to this repo:
+
+[github.com/ga-dc/project3-gallery](https://github.com/ga-dc/project3-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
+
+Your team must turn in something before presentations begin. However, you are
+welcome to continue working on it over the course of WDI and beyond!
+
+With your submission please include any questions you'd like answered, or
+specific things on which you'd like us to focus when giving feedback.
+
+### Necessary Deliverables
+
+Your submission must include **all** of the following:
+
+### Project Idea and Initial Planning
+
+By the end of Day 1 of Project Week, you need to submit:
+
+1. Your project idea (a brief 2-3 sentence description of your app)
+2. A list of your models and their properties
+
+These and any other planning assets (wireframes, user stories, etc) should go
+inside a `planning/` directory inside one of your project repositories. Planning
+and Process is one category by which we will be [evaluating your
+project](evaluation.md).
+
+### Final Application
+
+Your project is due on the last day of Project Week (the exact date is in your
+course calendar). Create an issue on [the project3-gallery
+repository](https://github.com/ga-dc/project3-gallery) containing:
+
+* A link to your deployed application
+* A link to your Project 3 Github repositories (Do not fork this repo)
+
+The repository for your backend API should include:
+
+* A working JSON API (built by your team) built using Express and Mongoose that meets the technical requirements above.
+* Frequent commits dating back to the very beginning of the project.
+* A `readme.md` file in the root of your repo that follows [good standards of
+  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
+  (i.e. explanations of the technologies used, the approach taken, features,
+  installation instructions, unsolved problems, etc.)
+* A `planning/` directory in the root of your repo containing a diagram mapping
+  out your project domain. You are welcome to include other planning documents
+  (e.g., wireframes, user stories).
+* A link to your hosted, working API in the URL section of your Github
+  repo:
+
+> ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
+
+The repository for the frontend of your application should include:
+
+* A working frontend application (built by your team) built with React and React Router that meets the technical requirements above.
+* Frequent commits dating back to the very beginning of the project.
+* A `readme.md` file in the root of your repo that follows [good standards of
+  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
+  (i.e. explanations of the technologies used, the approach taken, features,
+  installation instructions, unsolved problems, etc.)
+* A `planning/` directory in the root of your repo containing a diagram mapping
+  out your project domain. You are welcome to include other planning documents
+  (e.g., wireframes, user stories).
+* A link to your hosted, working application in the URL section of your Github
+  repo:
+
+> ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
+
+## Asking For Help
+
+### In-person Support
+
+Instructors will not be holding open office hours during Project 3 project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your team.
+
+Each team will be given 3 (three) tokens, redeemable at any time, for 15 minutes
+with an instructor. Tokens cannot be transferred between groups - there is no
+black market for tokens.
+
+Additionally, an instructor will be assigned to your group and will check in
+with your team every morning for about 15 minutes. The purpose of these
+check-ins is not to discuss technical questions, but to answer questions about
+workflow, collaborating, communicating or anything else related to working in a
+team.
+
+## GitHub Issues
+
+Most of the support instructors will be offering during this project will be via
+GitHub, on the issues section of this repo. This is to mirror "in-the-wild"
+practices. Developers often interact with (and receive help from) each other via
+GitHub issues.
+
+We've provided a template for you to fill in when posting an issue to receive help. The more detailed you make your issue, the easier it will be for us to help you. That, and the added benefit that the more you think through your issue, the more likely you are to solve it yourself!
+
+A good GitHub issue has the following:
+
+* A detailed explanation of what the issue or error is
+* An even more detailed explanation for why you think the error is happening
+  (remember that all bugs and errors happen for logical reasons!).
+
 ## App Organization
 
 You should split your application into separate repositories, one for your React
@@ -84,7 +188,7 @@ here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
 
 - Each member of your group ***must have an individual commit history*** to your
   project's repositories (Multiple commits per group member).
-- One of your repositories (backend or frontend) must include a `plannin/`
+- One of your repositories (backend or frontend) must include a `planning/`
   directory with wireframes, user stories, technical goals (mvp, bronze, silver
   and gold) and the role of each group member in building the application.
   Specifically, it should include the responsibilities of each member and their
@@ -98,7 +202,9 @@ here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
   time to address technical issues. The instructors will check in with groups
   every day of project week.
 
-## Process
+## Tips
+
+### Process
 
 - **Keep user stories small** and well-defined. Remember: user stories focus on
   what a user *needs*, not what development tasks need to be accomplished.
@@ -112,7 +218,7 @@ here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
 - **Continuously Deploy** your code. Like, deploy at least once a day - idealy
   twice a day.
 
-## Code
+### Code
 
 - **Keep your code DRY** and build your APIs RESTful.
 - **Be consistent** with your code style. You're working in teams, but you're
@@ -142,11 +248,11 @@ using [StandardJS linting](https://github.com/standard/standard#install) or
 ## Project Ideas
 
 For this project, work with your team to build a creative product that you
-actually think someone will want to use.
+think someone will want to use.
 
 > If you have an idea that you've been itching to make, save it for your Project
 > 4. You can build whatever you want for Project 4, the purpose of this project
->    is to build what you **and your teammates** want to build
+> is to build what you **and your teammates** want to build
 
 If you're struggling to come up with your own project ideas, checkout
 [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
@@ -162,21 +268,6 @@ scrum.
 
 Your application and how your group collaborates will be evaluated on the
 [rubric](evaluation.md) for this project.
-
-## Submission
-
-### [Submit Your Project Here](https://github.com/ga-dc/project3-gallery/issues)
-
-## Attendance
-
-Attendance will be taken every day at 9:00AM. Remember to check in! You are
-required to work on campus all day, every day of project week.
-
-## Support
-
-Each group will be given three tokens, redeemable at any time for 15 minutes
-each with an instructor of your choice. Tokens cannot be transferred between
-groups.
 
 ## Plagiarism
 
