@@ -29,6 +29,12 @@ answering questions during the Q & A. We suggest the following structure:
 - How did you decide who would have which responsibilities?
 - What would you change about your planning process?
 
+## The Workflow
+
+- What [Git Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows) did you follow?
+- What did you like about this workflow; what did you dislike?
+- Did you run into any challenges with this workflow? How did you solve them?
+
 ## The Week
 
 - What was your week like?

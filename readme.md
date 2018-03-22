@@ -38,8 +38,14 @@ together.
 - You must use React Router to handle multiple views.
 - You must communicate with the back-end API RESTfully to Create, Read, Update,
   and Destroy resources (using either `fetch` or `axios`).
+  
+### Collaboration
 
-#### Deployment
+- Every team member must have roughly the same number of individual commits in the commit history for your app (dividing responsibilities between different parts of the app is fine, but every team member must have commits in the project).
+- Every team must follow a [Git Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows)
+- Every team member must speak for roughly the same amount of time during the group [presentation](presentations.md]
+
+### Deployment
 
 - Your API must be deployed to Heroku and your front-end must be deployed to
   GitHub pages or Surge. Applications that are not deployed will not be
@@ -48,6 +54,23 @@ together.
 > We strongly recommend deploying your back-end and front-end separately. This
 > will make it far easier to debug your deployed applications and manage your
 > deployments.
+
+### Bonus Requirements
+
+You should only attempt these bonuses if and only if you've satisfied the base
+technical requirements for this project.
+
+#### User Authorization
+
+Consider whether or not you want to introduce a barrier to entry for your
+application. Does it fit in with the idea of your application? User
+authorization is tricky.
+
+#### Maps
+
+If your application uses physical locations, consider adding a map ***as a bonus
+feature*** to your application. [Check out this Google Maps component
+library](https://tomchentw.github.io/react-google-maps/).
 
 ## App Organization
 
@@ -154,23 +177,6 @@ required to work on campus all day, every day of project week.
 Each group will be given three tokens, redeemable at any time for 15 minutes
 each with an instructor of your choice. Tokens cannot be transferred between
 groups.
-
-## Bonuses
-
-You should only attempt these bonuses if and only if you've satisfied the base
-technical requirements for this project.
-
-### User Authorization
-
-Consider whether or not you want to introduce a barrier to entry for your
-application. Does it fit in with the idea of your application? User
-authorization is tricky.
-
-### Maps
-
-If your application uses physical locations, consider adding a map ***as a bonus
-feature*** to your application. [Check out this Google Maps component
-library](https://tomchentw.github.io/react-google-maps/).
 
 ## Plagiarism
 
