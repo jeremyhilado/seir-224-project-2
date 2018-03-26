@@ -1,41 +1,31 @@
 ## Groups
 
-## Group 1 - Ali
-Justin
-Natalee
-Shelley
-Rashad
+## Helium:
+* Hyojin Sarchet
+* Kevin Buckley
+* Ai Yen Tam
 
-## Group 2 - James
-Hammad
-Wade
-Savannah
-Kathy
+## Neon:
+* Mahwash Mahr
+* Brandon Sears
+* Hannah Aurand
 
-## Group 3 - James
-Gwen
-Clifford
-Rindy
+## Argon:
+* Grant Nathaniel Brown
+* Samuel Haile
+* Sam Gehret
 
-## Group 4 - Mike
-Zach
-Christopher
-Terrence
+## Krypton:
+* Laura Haft
+* Ruqayyah (Qya) Ahmad
+* Angela Malone
 
-## Group 5 - Ali
-Brian
-Temicka
-Neechie
-Zelalem
+## Xenon:
+* Mei Chen
+* Nhi Hong Nguyen
+* Daniel Freudberg
 
-## Group 6 - Max
-Kevon
-Ryan
-Devon
-Annette
-
-## Group 7 - Mike
-Sandro
-Marquet
-Francis
-Alonzo
+## Radon:
+* Hoangphuc Timmy Le
+* Jeffrey Heller
+* Jonathan Fragale
