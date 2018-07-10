@@ -1,31 +1,26 @@
 ## Groups
 
-## Helium: (Jimmy)
-* Hyojin Sarchet
-* Kevin Buckley
-* Ai Yen Tam
+## Helium:
+* Michelle
+* Daniel P
+* Maseeh
 
-## Neon: (Jimmy)
-* Mahwash Mahr
-* Brandon Sears
-* Hannah Aurand
+## Neon:
+* Terry
+* Jack
+* Marsel
 
-## Argon: (Zakk)
-* Grant Nathaniel Brown
-* Samuel Haile
-* Sam Gehret
+## Argon:
+* Noon
+* Malik
+* Mariya
 
-## Krypton: (Zakk)
-* Laura Haft
-* Ruqayyah (Qya) Ahmad
-* Angela Malone
+## Krypton:
+* Isaiah
+* Daniel L
+* Taylor
 
-## Xenon: (Meg)
-* Mei Chen
-* Nhi Hong Nguyen
-* Daniel Freudberg
-
-## Radon: (Meg)
-* Hoangphuc Timmy Le
-* Jeffrey Heller
-* Jonathan Fragale
+## Xenon:
+* Francisco
+* Leah
+* Marissa
