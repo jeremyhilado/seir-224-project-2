@@ -272,6 +272,30 @@ This reduces issues with reading our colleagues' code. We strongly recommend
 using [StandardJS linting](https://github.com/standard/standard#install) or
 [PrettierJS](https://github.com/prettier/prettier).
 
+## Resources
+
+* [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
+  thinking like a designer)
+* [UX Design for
+    Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
+
+## Pre-employment checklist
+
+Make sure you've completed each of these items, so your project looks
+professional and presentable when you go to apply for jobs:
+
+- [ ] Add the deployed URL to repo settings
+- [ ] Add a readme with:
+  - [ ] An embedded screenshot of the app
+  - [ ] Explanations of the **technologies** used
+  - [ ] **Installation instructions** for any dependencies
+  - [ ] Link to your **user stories** – who are your users, what do they want
+    and why?
+  - [ ] Link to your **wireframes** – sketches of major views / interfaces in
+    your application
+  - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
+    to overcome
+
 ## Plagiarism
 
 Take a moment to re-familiarize yourself with the [plagiarism
