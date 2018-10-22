@@ -47,9 +47,9 @@ graded.
   parts of the app is fine, but every team member must have commits in the
   project).
 - Every team must follow a [Git
-  Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows)
+  Workflow](https://git.generalassemb.ly/dc-wdi-react-redux/git-flow-mini-lesson)
 - Every team member must speak for roughly the same amount of time during the
-  group [presentation](presentations.md]
+  group [presentation](presentations.md)
 
 ### Deployment
 
