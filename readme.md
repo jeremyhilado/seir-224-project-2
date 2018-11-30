@@ -40,7 +40,9 @@ It is important to keep in mind the goal of this program and these projects, the
   and Destroy resources (using either `fetch` or `axios`).
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be
-graded. It is ultimately up to your instructors discretion if your project is complete, we want to see you reach your full potential and it is are job to push you toward that.
+graded. 
+
+<b>It is ultimately up to your instructors discretion if your project is complete, we want to see you reach your full potential and it is are job to push you toward that.</b>
 
 ### Collaboration
 
