@@ -14,6 +14,8 @@ The following must be true of your project for it to be considered complete:
 - The backend API for your application is deployed to Heroku and the frontend is deployed to Surge or GitHub Pages
 - The commit history of your repo(s) show a roughly equal number of commits from each group member.
 
+### It is ultimately up to your instructors discretion if your project is complete, we want to see you reach your full potential and it is are job to push you toward that.
+
 ## Evaluation Requirements
 
 We will evaluate your project to the following requirements. While you must achieve at least
