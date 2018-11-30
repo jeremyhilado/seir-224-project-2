@@ -42,7 +42,7 @@ It is important to keep in mind the goal of this program and these projects, the
 Review the [Rubric](evaluation.md) for the specifics of how your project will be
 graded. 
 
-<b>It is ultimately up to your instructors discretion if your project is complete, we want to see you reach your full potential and it is are job to push you toward that.</b>
+<b>It is ultimately up to your instructors discretion if your project is complete. We want to see you reach your full potential and it is our job to push you toward that.</b>
 
 ### Collaboration
 
