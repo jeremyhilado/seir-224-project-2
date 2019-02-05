@@ -19,6 +19,8 @@ together.
 
 ## Requirements
 
+It is important to keep in mind the goal of this program and these projects, they are to utilize the skills you have been taught and the skills that employers care about. You should strive to build projects that will catch an employers eye and get you hired.
+
 ### Technical Requirements
 
 **Back-End Requirements:**
@@ -38,7 +40,9 @@ together.
   and Destroy resources (using either `fetch` or `axios`).
 
 Review the [Rubric](evaluation.md) for the specifics of how your project will be
-graded.
+graded. 
+
+<b>It is ultimately up to your instructors discretion if your project is complete. We want to see you reach your full potential and it is our job to push you toward that.</b>
 
 ### Collaboration
 
@@ -271,6 +275,15 @@ Teams of developers usually adhere to an agreed-upon set of code-style rules.
 This reduces issues with reading our colleagues' code. We strongly recommend
 using [StandardJS linting](https://github.com/standard/standard#install) or
 [PrettierJS](https://github.com/prettier/prettier).
+
+### Hygiene !!!
+
+It is super important and super awesome and well appreciated by team members. We know in a program like this it can be easy to lose focus on this
+when you are trying to get projects done and keep up with the fast pace of the course. 
+
+Please shower and brush, it is the right thing to do for yourself and teammates always, but especially for this week!
+
+
 
 ## Resources
 
