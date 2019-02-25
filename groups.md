@@ -1,26 +1,15 @@
 ## Groups
 
-## Helium:
-* Felix
-* Q
-* Grace
+### Happy
 
-## Neon:
-* Sathya
-* Marichka
+### Dopey
 
-## Argon:
-* Nick
-* Luis
+### Sleepy
 
-## Krypton:
-* Juan
-* Mike
-* Ezana
+### Bashful
 
-<!--
-## Xenon:
-* 
-* 
-* 
--->
+### Doc
+
+### Grumpy
+
+### Sneezy
