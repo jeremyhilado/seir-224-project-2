@@ -157,7 +157,7 @@ The repository for the frontend of your application should include:
 
 ### In-person Support
 
-Each team will be given 3 (three) tokens, redeemable at any time, for 20 minutes
+Each team will be given 3 (three) tokens, redeemable at any time during regular class and Study Hall time (not including evening Office hours), for 20 minutes
 with an instructor. Tokens cannot be transferred between groups - there is no
 black market for tokens.
 
