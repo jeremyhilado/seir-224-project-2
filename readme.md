@@ -193,8 +193,7 @@ A good GitHub issue has the following:
 You should split your application into separate repositories, one for your React
 front-end and another for your Node-Express-Mongoose backend API.
 
-[See deploying to Heroku with MLAB cloud-hosted MongoDB
-here](https://git.generalassemb.ly/ga-wdi-lessons/express-mongoose-mlab-deploy).
+[See deploying to Heroku with MongoDB Atlas here](https://git.generalassemb.ly/dc-wdi-node-express/heroku-mlab-deployment).
 
 ## Contribution Guidelines
 
