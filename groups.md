@@ -1,15 +1,24 @@
 ## Groups
 
-### Happy
+### GROUP 1
+Danny
+Zack
+Devin
 
-### Dopey
+### GROUP 2
+Melissa
+Frederick
+Kirran
 
-### Sleepy
+### GROUP 3
+Nathan
+Gabriella
+Derek
 
-### Bashful
+### GROUP 4
+Tanya
+Rasha
 
-### Doc
-
-### Grumpy
-
-### Sneezy
+### GROUP 5
+Adam
+Atasha

@@ -32,7 +32,7 @@ employers eye and get you hired.
   non-user models. No associations are required.
 - Must have Create, Read, Update, and Destroy functionality built throughout the
   app (i.e. You don't need full CRUD on every model, just full CRUD throughout
-  your models).
+  your models where it makes sense).
 
 **Front-End Requirements:**
 
@@ -195,7 +195,7 @@ A good GitHub issue has the following:
 You should split your application into separate repositories, one for your React
 front-end and another for your Node-Express-Mongoose backend API.
 
-[See deploying to Heroku with MongoDB Atlas here](https://git.generalassemb.ly/dc-wdi-node-express/heroku-mlab-deployment).
+[See deploying to Heroku with MongoDB Atlas here](https://git.generalassemb.ly/dc-wdi-node-express/heroku-atlas-deployment).
 
 ## Contribution Guidelines
 
