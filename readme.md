@@ -1,8 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #3: Building a Full Stack MERN Application
 
-Your last project taught you how to build a full stack application with Express,
-Handlebars and Mongoose. This project will have you building another full stack
-application but this time with a React front-end.
+Your last project taught you how to build an API application with Express and
+Mongoose. This project will have you build a full stack application with a
+similar API backend as well as a React front-end.
 
 Your instructors have organized you and your classmates into groups to design
 and build an app with two major components:
@@ -42,8 +42,8 @@ employers eye and get you hired.
 - You must communicate with the back-end API RESTfully to Create, Read, Update,
   and Destroy resources (using either `fetch` or `axios`).
 
-Review the [Rubric](evaluation.md) for the specifics of how your project will be
-graded.
+Review the [Rubric](./evaluation.md) for the specifics of how your project will
+be graded.
 
 ### Collaboration
 
@@ -51,16 +51,16 @@ graded.
   the commit history for your app (dividing responsibilities between different
   parts of the app is fine, but every team member must have commits in the
   project).
-- Every team must follow a [Git
-  Workflow](https://git.generalassemb.ly/dc-wdi-react-redux/git-flow-mini-lesson)
+- Every team must follow a
+  [Git Workflow](https://git.generalassemb.ly/dc-wdi-react-redux/git-teams)
 - Every team member must speak for roughly the same amount of time during the
-  group [presentation](presentations.md)
+  group [presentation](./presentations.md)
 
 ### Deployment
 
 - Your API must be deployed to Heroku and your front-end must be deployed to
-  GitHub pages or Surge. Applications that are not deployed will not be
-  considered complete.
+  GitHub pages or Surge. Applications that are not deployed will be considered
+  incomplete.
 
 > We strongly recommend deploying your back-end and front-end separately. This
 > will make it far easier to debug your deployed applications and manage your
@@ -79,13 +79,13 @@ authorization is tricky.
 
 #### Maps
 
-If your application uses physical locations, consider adding a map ***as a bonus
-feature*** to your application. [Check out this Google Maps component
-library](https://tomchentw.github.io/react-google-maps/).
+If your application uses physical locations, consider adding a map **_as a bonus
+feature_** to your application.
+[Check out this Google Maps component library](https://tomchentw.github.io/react-google-maps/).
 
 ## Submission
 
-***DO NOT FORK THIS REPOSITORY!*** Create a **new** repository. Then, submit
+**_DO NOT FORK THIS REPOSITORY!_** Create a **new** repository. Then, submit
 your project as an issue to this repo:
 
 [github.com/ga-dc/project3-gallery](https://github.com/ga-dc/project3-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
@@ -108,15 +108,16 @@ By the end of Day 1 of Project Week, you need to submit:
 2. A list of your models and their properties
 
 These and any other planning assets (wireframes, user stories, etc) should go
-inside a `planning/` directory inside one of your project repositories. Planning
-and Process is one category by which we will be [evaluating your
-project](evaluation.md).
+inside a `planning/` directory inside at least one of your project repositories.
+Planning and Process is one category by which we will be
+[evaluating your project](./evaluation.md).
 
 ### Final Application
 
 Your project is due on the last day of Project Week (the exact date is in your
-course calendar). Create an issue on [the project3-gallery
-repository](https://github.com/ga-dc/project3-gallery) containing:
+course calendar). Create an issue on
+[the project3-gallery repository](https://github.com/ga-dc/project3-gallery)
+containing:
 
 - A link to your deployed application
 - A link to your Project 3 Github repositories (Do not fork this repo)
@@ -126,8 +127,8 @@ The repository for your backend API should include:
 - A working JSON API (built by your team) built using Express and Mongoose that
   meets the technical requirements above.
 - Frequent commits dating back to the very beginning of the project.
-- A `readme.md` file in the root of your repo that follows [good standards of
-  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
+- A `readme.md` file in the root of your repo that follows
+  [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
 - A `planning/` directory in the root of your repo containing a diagram mapping
@@ -142,8 +143,8 @@ The repository for the frontend of your application should include:
 - A working frontend application (built by your team) built with React and React
   Router that meets the technical requirements above.
 - Frequent commits dating back to the very beginning of the project.
-- A `readme.md` file in the root of your repo that follows [good standards of
-  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
+- A `readme.md` file in the root of your repo that follows
+  [good standards of documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
 - A `planning/` directory in the root of your repo containing a diagram mapping
@@ -199,7 +200,7 @@ front-end and another for your Node-Express-Mongoose backend API.
 
 ## Contribution Guidelines
 
-- Each member of your group ***must have an individual commit history*** to your
+- Each member of your group **_must have an individual commit history_** to your
   project's repositories (Multiple commits per group member).
 - One of your repositories (backend or frontend) must include a `planning/`
   directory with wireframes, user stories, technical goals (mvp, bronze, silver
@@ -220,26 +221,25 @@ front-end and another for your Node-Express-Mongoose backend API.
 For this project, work with your team to build a creative product that you think
 someone will want to use.
 
-> If you have an idea that you've been itching to make, save it for your Project
-> 4. You can build whatever you want for Project 4, the purpose of this project
->    is to build what you **and your teammates** want to build
+> If you have an idea that you've been itching to make, save it for your
+> Project 4. You can build whatever you want for Project 4, the purpose of this
+> project is to build what you **and your teammates** want to build
 
 If you're struggling to come up with your own project ideas, checkout
 [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
 [requestforstartup.co](https://requestforstartup.co/).
 
 Once your team selects an idea, the group **must** choose a workflow from the
-[Git Teams & Workflow
-lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams). Be prepared to
-share your team's plans with your assigned instructor at the first round of
-scrum.
+[Git Teams & Workflow lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams).
+Be prepared to share your team's plans with your assigned instructor at the
+first round of scrum.
 
 ## Tips
 
 ### Process
 
 - **Keep user stories small** and well-defined. Remember: user stories focus on
-  what a user *needs*, not what development tasks need to be accomplished.
+  what a user _needs_, not what development tasks need to be accomplished.
 - **Write pseudocode** before you write actual code. Thinking through the logic
   first helps.
 - **Write tests** that translate your pseudocode into requirements for the code
@@ -247,7 +247,7 @@ scrum.
 - Don't hesitate to **write throwaway code** to solve short-term problems.
 - **Read the docs** for whatever technologies / frameworks / API's you plan to
   use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
-- **Continuously Deploy** your code. Like, deploy at least once a day - idealy
+- **Continuously Deploy** your code. Like, deploy at least once a day - ideally
   twice a day.
 
 ### Code
@@ -264,12 +264,13 @@ scrum.
 - **Name things appropriately. Comment as necessary.** Do your naming
   conventions make sense? Would another developer be able to look at your app
   and understand what everything is? (See
-  ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting)).  Even
-  if it's obvious, comments can help to explain the intent -- the what and why.
-  This allows the next developer to understand the purpose and decide what can
-  be adjusted to achieve the same goal.
+  ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting) and
+  [Code Tells you How, Comments Tell you Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)).
+  Even if it's obvious, comments can help to explain the intent -- the what and
+  why. This allows the next developer to understand the purpose and decide what
+  can be adjusted to achieve the same goal.
 - **Ensure it is well-formatted.** Are you indenting consistently? Can we find
-  the start and end of every div, curly brace, etc?  Organizing the hierarchy is
+  the start and end of every div, curly brace, etc? Organizing the hierarchy is
   key to understanding.
 
 Teams of developers usually adhere to an agreed-upon set of code-style rules.
@@ -279,10 +280,9 @@ using [StandardJS linting](https://github.com/standard/standard#install) or
 
 ## Resources
 
-* [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
+- [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
   thinking like a designer)
-* [UX Design for
-    Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
+- [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
 
 ## Pre-employment checklist
 
@@ -295,37 +295,37 @@ for jobs by completing some (or all) of the following:
   - [ ] Explanations of the **technologies** used
   - [ ] **Installation instructions** for any dependencies
   - [ ] Link to your **user stories** – who are your users, what do they want
-    and why?
+        and why?
   - [ ] Link to your **wireframes** – sketches of major views / interfaces in
-    your application
+        your application
   - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
-    to overcome
+        to overcome
 - [ ] Add your project to your portfolio site
   - [ ] Include an image, title, and brief description
   - [ ] Link to both the deployed project and the repository on GitHub
 - [ ] Write and share a post linking to your project on LinkedIn. Be sure to
-    include:
-    - An image/screenshot of your project
-    - A link to the deployed version of your project
-    - A brief description of the project, mentioning that you are a new
-        developer
-    - Appropriate tags for your post: `#webdevelopment`, `#developers`, `#softwaredevelopment`, `#softwareengineers`
+      include:
+  - An image/screenshot of your project
+  - A link to the deployed version of your project
+  - A brief description of the project, mentioning that you are a new developer
+  - Appropriate tags for your post: `#webdevelopment`, `#developers`,
+    `#softwaredevelopment`, `#softwareengineers`
 - [ ] Write and share a post linking to your project on Twitter. Be sure to
-    include:
-    - An image/screenshot of your project
-    - A link to the deployed version of your project
+      include:
+  - An image/screenshot of your project
+  - A link to the deployed version of your project
 - [ ] Write and publish a brief blog post about your project to Medium or
-    Dev.to:
-    - Include what you decided to build, how you approached building, the
-        "phases" you went through, one particularly challenging technical hurdle
-        and how you overcame it, and a conclusion
-    - Include lots of images, code snippets, and screenshots
-    - Include a link to your repo and deployed project
+      Dev.to:
+  - Include what you decided to build, how you approached building, the "phases"
+    you went through, one particularly challenging technical hurdle and how you
+    overcame it, and a conclusion
+  - Include lots of images, code snippets, and screenshots
+  - Include a link to your repo and deployed project
 
 ## Plagiarism
 
-Take a moment to re-familiarize yourself with the [plagiarism
-policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md),
+Take a moment to re-familiarize yourself with the
+[plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md),
 specifically on using work you find online and on work you do with other
 students.
 
