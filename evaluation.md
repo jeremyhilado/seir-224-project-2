@@ -1,30 +1,50 @@
-# Evaluation Criteria
+# Project Evaluation
 
-| Score | Definition |
-| --- | --- |
-| 0 | Incomplete |
-| 1 | Progressing |
-| 2 | Performing |
-| 3 | Excelling |
+We use the following rubric for our evaluation, but ultimately it is up to your
+instructors as to whether your project is complete.
 
 ## Hard Requirements
 
-The following must be true of your project for it to be considered complete:
+The following **_must_** be met in order for the project to be considered
+complete:
 
-- The backend API for your application is deployed to Heroku and the frontend is deployed to Surge or GitHub Pages
-- The commit history of your repo(s) show a roughly equal number of commits from each group member.
+- The app is deployed fully deployed (both the front-end and the back-end).
+- New repos with the students' project code are included in the submission.
+- Students include a `planning/` directory that sufficiently demonstrates their
+  team's planning process.
+- The repos have a README that adequately documents the project.
+- The commit history of your repos show a roughly equal number of commits from
+  each group member
 
-### It is ultimately up to your instructors discretion if your project is complete, we want to see you reach your full potential and it is our job to push you toward that.
+## Criteria
 
-## Evaluation Requirements
+We will evaluate your project according to the following criteria:
 
-We will evaluate your project to the following requirements. While you must achieve at least
-"Progressing" for each category, we strongly encourage you to aim for "Performing" or "Excelling".
+- **Code Quality:** Is the code well formatted? Is the code easy to read and
+  understand? Does the code follow best practices?
+- **Technical Requirements:** How does the project stack up to the requirements
+  for this project? Is the developer making use of the material we've covered in
+  a way that makes sense?
+- **Creativity & Interface:** Is the application easy to navigate? Does it work
+  well in every major browser? Is it responsive? Does it incorporate modern UI
+  Themes?
+- **Functionality:** Does the application work without errors or bugs? Does it
+  present a complete app, where every feature is fully implemented in a way that
+  makes sense?
+- **Presentation:** Is there adequate documentation? Is the repository well
+  organized and free of clutter?
 
-| Category                        | Incomplete                                                                                                                    | Progressing                                                                                                                                                                                           | Performing                                                                                                                                                             | Excelling                                                                                                                                                                                                          |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Back-end Technology             | No back-end present or unable to persist data and return JSON                                                                | Less than two models                                                                                                                                                                         | Includes 2 models                                                                                                                                                      | Includes 2 or more well-structured models, and advanced functionality such as authorization, 3rd-party API integration(s), or other technology not covered in class                                                        |
-| Front-end Technology            | No use of React                                                                                                        | Basic front-end built with a few React components                                                                                                                                                    | Front-end makes appropriate use of React and React Router.                                                        | In addition to appropriate use of React and React Router, the application includes 1 advanced React topic or material not covered in class.                                                                             |
-| Code Quality                    | Minimal functional code is present                                                                                            | Code lacks proper formatting, includes commented out or non-functional code, or otherwise contains major issues of quality (DRY, naming, etc)                                                           | Code is well-formatted, well-named, and contains few style / quality issues                                                                                            | No major code quality issues, and follows React best practices such as container/presentation component separation|
-| Deployment and Functionality    | Application is not deployed, and/or contains minimal functionality                                                               | Application contains minimal functionality, but deployment is non-functional, or application contains major errors when used                                                                          | Application contains no major errors, is deployed, and contains a sufficient amount of functionality.                            | App has advanced functionality that works with minimal errors, and may make use of advanced tools such as APIs, plugins, etc. App may be deployed to a service other than Heroku (e.g. Digital Ocean).             |
-| Planning / Process / Submission | No submission received, or submission does not contain basic documentation of planning (ERD, wireframes, commit history, etc) | App is submitted, with basic evidence of planning. Documentation exists, but lacks common areas such as setup instructions, description of application functionality and link to deployed application | Submission contains clear evidence of planning, adequate documentation, include all from previous category, as well as additional information such as unsolved issues. | Submission includes everything in previous category, as well as evidence of proper teamwork, such as feature branching, code review, github issue / user story tracking, and justification of technical decisions. |
+## Scoring
+
+Each of the above categories will be scored according to the following:
+
+| Score | Description |
+| ----- | ----------- |
+| 0     | Incomplete  |
+| 1     | Progressing |
+| 2     | Performing  |
+| 3     | Excelling   |
+
+For a project to be considered complete, you must achieve at least "Progressing"
+in each category. However, at a minimum, you should aim to achieve "Performing"
+in every category.

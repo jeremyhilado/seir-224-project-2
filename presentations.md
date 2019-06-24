@@ -31,7 +31,9 @@ answering questions during the Q & A. We suggest the following structure:
 
 ## The Workflow
 
-- What [Git Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows) did you follow?
+- What
+  [Git Workflow](https://git.generalassemb.ly/ga-wdi-lessons/git-teams#git-workflows-5-min--055)
+  did you follow?
 - What did you like about this workflow; what did you dislike?
 - Did you run into any challenges with this workflow? How did you solve them?
 
@@ -50,4 +52,3 @@ answering questions during the Q & A. We suggest the following structure:
 ## Presentation Schedule
 
 Presentations will take place from 1:30pm - 3:00pm in our classroom.
-Presentation order will follow the team numbering in [groups.md](groups.md).
