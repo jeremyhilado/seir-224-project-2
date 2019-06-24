@@ -1,24 +1,18 @@
-## Groups
+# Groups
 
-### GROUP 1
-Danny
-Zack
-Devin
+## GROUP 1
 
-### GROUP 2
-Melissa
-Frederick
-Kirran
+- Shak
+- Sean
+- Jordan
+
+## GROUP 2
+
+- Shane
+- Melika
+- Paula
 
 ### GROUP 3
-Nathan
-Gabriella
-Derek
 
-### GROUP 4
-Tanya
-Rasha
-
-### GROUP 5
-Adam
-Atasha
+- David
+- Ellison
