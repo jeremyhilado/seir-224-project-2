@@ -221,13 +221,18 @@ front-end and another for your Node-Express-Mongoose backend API.
 For this project, work with your team to build a creative product that you think
 someone will want to use.
 
-> If you have an idea that you've been itching to make, save it for your
+> TIP: If you have an idea that you've been itching to make, save it for your
 > Project 4. You can build whatever you want for Project 4, the purpose of this
 > project is to build what you **and your teammates** want to build
 
 If you're struggling to come up with your own project ideas, checkout
 [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
 [requestforstartup.co](https://requestforstartup.co/).
+
+> TIP: The best projects tend to be MVP versions of popular applications with
+> a unique twist. If there's popular application that you use frequently (think
+> Twitter, Facebook, Instagram, Evernote, etc), think about how you could create
+> your own unique version of it.
 
 Once your team selects an idea, the group **must** choose a workflow from the
 [Git Teams & Workflow lesson](https://git.generalassemb.ly/ga-wdi-lessons/git-teams).
@@ -238,8 +243,6 @@ first round of scrum.
 
 ### Process
 
-- **Keep user stories small** and well-defined. Remember: user stories focus on
-  what a user _needs_, not what development tasks need to be accomplished.
 - **Write pseudocode** before you write actual code. Thinking through the logic
   first helps.
 - **Write tests** that translate your pseudocode into requirements for the code
@@ -283,44 +286,6 @@ using [StandardJS linting](https://github.com/standard/standard#install) or
 - [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
   thinking like a designer)
 - [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
-
-## Pre-employment checklist
-
-Make sure your project looks professional and presentable when you go to apply
-for jobs by completing some (or all) of the following:
-
-- [ ] Add the deployed URL to repo settings
-- [ ] Add a readme with:
-  - [ ] An embedded screenshot of the app
-  - [ ] Explanations of the **technologies** used
-  - [ ] **Installation instructions** for any dependencies
-  - [ ] Link to your **user stories** – who are your users, what do they want
-        and why?
-  - [ ] Link to your **wireframes** – sketches of major views / interfaces in
-        your application
-  - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
-        to overcome
-- [ ] Add your project to your portfolio site
-  - [ ] Include an image, title, and brief description
-  - [ ] Link to both the deployed project and the repository on GitHub
-- [ ] Write and share a post linking to your project on LinkedIn. Be sure to
-      include:
-  - An image/screenshot of your project
-  - A link to the deployed version of your project
-  - A brief description of the project, mentioning that you are a new developer
-  - Appropriate tags for your post: `#webdevelopment`, `#developers`,
-    `#softwaredevelopment`, `#softwareengineers`
-- [ ] Write and share a post linking to your project on Twitter. Be sure to
-      include:
-  - An image/screenshot of your project
-  - A link to the deployed version of your project
-- [ ] Write and publish a brief blog post about your project to Medium or
-      Dev.to:
-  - Include what you decided to build, how you approached building, the "phases"
-    you went through, one particularly challenging technical hurdle and how you
-    overcame it, and a conclusion
-  - Include lots of images, code snippets, and screenshots
-  - Include a link to your repo and deployed project
 
 ## Plagiarism
 
