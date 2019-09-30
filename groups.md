@@ -1,18 +1,27 @@
 # Groups
 
-## GROUP 1
+## Group A
 
-- Shak
-- Sean
-- Jordan
+- Candy
+- Domo
+- Malika
+- Walter
 
-## GROUP 2
+## Group B
 
-- Shane
-- Melika
-- Paula
+- Christopher O
+- Christopher W
+- Will
+- Yousef
 
-### GROUP 3
+## Group C
 
-- David
-- Ellison
+- Tiff
+- Tymothy
+- Zach
+
+## Group D
+
+- George
+- Paul
+- Torrey
