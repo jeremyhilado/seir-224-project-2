@@ -91,7 +91,7 @@ your project as an issue to this repo:
 [github.com/ga-dc/project3-gallery](https://github.com/ga-dc/project3-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
 
 Your team must turn in something before presentations begin. However, you are
-welcome to continue working on it over the course of WDI and beyond!
+welcome to continue working on it over the course of SEI and beyond!
 
 With your submission please include any questions you'd like answered, or
 specific things on which you'd like us to focus when giving feedback.
@@ -229,8 +229,8 @@ If you're struggling to come up with your own project ideas, checkout
 [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
 [requestforstartup.co](https://requestforstartup.co/).
 
-> TIP: The best projects tend to be MVP versions of popular applications with
-> a unique twist. If there's popular application that you use frequently (think
+> TIP: The best projects tend to be MVP versions of popular applications with a
+> unique twist. If there's popular application that you use frequently (think
 > Twitter, Facebook, Instagram, Evernote, etc), think about how you could create
 > your own unique version of it.
 
