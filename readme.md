@@ -157,6 +157,11 @@ The repository for the frontend of your application should include:
 
 ## Asking For Help
 
+### Scrums
+
+Once a day, typically in the morning, the instructors will have 10 minute scrum
+meetings with each group to talk about progress and planning.
+
 ### In-person Support
 
 Each team will be given 3 (three) tokens, redeemable at any time during regular
