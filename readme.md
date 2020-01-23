@@ -169,11 +169,6 @@ Instructors will not be holding open office hours during project week. This is
 to give you the opportunity to solve issues and errors you run in to on your own
 and with your team.
 
-An instructor will be assigned to each team and wil check in with your team
-every morning for about 15 minutes. The purpose of these check-ins is not to
-discuss technical questions, but to answer questions about workflow,
-collaboration, communication or anything else related to working in a team.
-
 ## App Organization
 
 You should split your application into separate repositories, one for your React
