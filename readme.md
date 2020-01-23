@@ -59,7 +59,7 @@ be graded.
 ### Deployment
 
 - Your API must be deployed to Heroku and your front-end must be deployed to
-  GitHub pages or Surge. Applications that are not deployed will be considered
+  GitHub pages or Netlify. Applications that are not deployed will be considered
   incomplete.
 
 > We strongly recommend deploying your back-end and front-end separately. This
