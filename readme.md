@@ -86,9 +86,7 @@ feature_** to your application.
 ## Submission
 
 **_DO NOT FORK THIS REPOSITORY!_** Create a **new** repository. Then, submit
-your project as an issue to this repo:
-
-[github.com/ga-dc/project3-gallery](https://github.com/ga-dc/project3-gallery/issues/new)
+your project as an issue to this repo.
 
 Your team must turn in something before presentations begin. However, you are
 welcome to continue working on it over the course of SEI and beyond!
