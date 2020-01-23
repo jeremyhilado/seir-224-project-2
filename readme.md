@@ -52,7 +52,7 @@ be graded.
   parts of the app is fine, but every team member must have commits in the
   project).
 - Every team must follow a
-  [Git Workflow](https://git.generalassemb.ly/dc-wdi-react-redux/git-teams)
+  [Git Workflow](https://git.generalassemb.ly/seir-1118/git-teams)
 - Every team member must speak for roughly the same amount of time during the
   group [presentation](./presentations.md)
 
@@ -115,9 +115,7 @@ Planning and Process is one category by which we will be
 ### Final Application
 
 Your project is due on the last day of Project Week (the exact date is in your
-course calendar). Create an issue on
-[the project3-gallery repository](https://github.com/ga-dc/project3-gallery)
-containing:
+course calendar). Create an issue on this repo containing:
 
 - A link to your deployed application
 - A link to your Project 3 Github repositories (Do not fork this repo)
@@ -178,30 +176,12 @@ every morning for about 15 minutes. The purpose of these check-ins is not to
 discuss technical questions, but to answer questions about workflow,
 collaboration, communication or anything else related to working in a team.
 
-## GitHub Issues
-
-Most of the support instructors will be offering during this project will be via
-GitHub, on the issues section of this repo. This is to mirror "in-the-wild"
-practices. Developers often interact with (and receive help from) each other via
-GitHub issues.
-
-We've provided a template for you to fill in when posting an issue to receive
-help. The more detailed you make your issue, the easier it will be for us to
-help you. That, and the added benefit that the more you think through your
-issue, the more likely you are to solve it yourself!
-
-A good GitHub issue has the following:
-
-- A detailed explanation of what the issue or error is
-- An even more detailed explanation for why you think the error is happening
-  (remember that all bugs and errors happen for logical reasons!).
-
 ## App Organization
 
 You should split your application into separate repositories, one for your React
 front-end and another for your Node-Express-Mongoose backend API.
 
-[See deploying to Heroku with MongoDB Atlas here](https://git.generalassemb.ly/dc-wdi-node-express/heroku-atlas-deployment).
+[See deploying to Heroku with MongoDB Atlas here](https://git.generalassemb.ly/seir-1118/heroku-atlas-deployment).
 
 ## Contribution Guidelines
 
@@ -295,7 +275,7 @@ using [StandardJS linting](https://github.com/standard/standard#install) or
 ## Plagiarism
 
 Take a moment to re-familiarize yourself with the
-[plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md),
+[plagiarism policy](https://git.generalassemb.ly/seir-1118/administrative/blob/master/plagiarism.md),
 specifically on using work you find online and on work you do with other
 students.
 
