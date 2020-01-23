@@ -33,6 +33,7 @@ employers eye and get you hired.
 - Must have Create, Read, Update, and Destroy functionality built throughout the
   app (i.e. You don't need full CRUD on every model, just full CRUD throughout
   your models where it makes sense).
+- You must have a test for each of your routes
 
 **Front-End Requirements:**
 
@@ -41,6 +42,8 @@ employers eye and get you hired.
 - You must use React Router to handle multiple views.
 - You must communicate with the back-end API RESTfully to Create, Read, Update,
   and Destroy resources (using either `fetch` or `axios`).
+- Your frontend must be responsive and work on mobile phones, tablets, and desktops
+- You must have at least one test for each of your components
 
 Review the [Rubric](./evaluation.md) for the specifics of how your project will
 be graded.
