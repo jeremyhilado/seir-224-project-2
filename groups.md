@@ -1,27 +1,52 @@
 # Groups
 
-## Group A
+Kenny
+----
+Aldo
+Arty
+Shahzad
+Muhammad
 
-- Candy
-- Domo
-- Malika
-- Walter
+Carlos
+--------
+Joe
+Vy
+Andrew
+Heather
 
-## Group B
 
-- Christopher O
-- Christopher W
-- Will
-- Yousef
+Nathaniel
+----------
+James
+Mark
+Kirsten
+Amy
 
-## Group C
+Ali
+-----
+Srikar
+David M.
+Sem
+Mike S.
 
-- Tiff
-- Tymothy
-- Zach
 
-## Group D
+Joe
+------
+Jen
+Danny
+Kassidy
+Nicole
 
-- George
-- Paul
-- Torrey
+
+Kenny
+-------
+Kyle
+Mike G.
+Ray
+
+
+Nathaniel
+--------
+David L.
+Phil
+Dean
