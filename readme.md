@@ -51,6 +51,19 @@ Show us what you've got!
 
 * **Commit early, commit often.**  Don't be afraid to break something because you can always go back in time to a previous version.
 
+
+## Check out these websites for inspiration
+- https://www.foursquare.com
+- https://www.nike.com
+- https://www.airbnb.com
+- https://www.stripe.com
+- https://www.etsy.com
+- https://www.moma.org
+- https://www.nytimes.com
+- https://www.mint.com
+- https://www.popeyes.com
+- https://www.bk.com/menu/burgers
+
 ## Planning
 
 1. [Watch this video on the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
