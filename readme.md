@@ -39,7 +39,7 @@ Show us what you've got!
 #### A Professional README
 - Refer to this [blog](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) as a great resource on how to create a readme.
 
-###### For the proposal:
+### For the proposal:
 **Refer to the [project worksheet](/project-worksheet.md) file in this repo for structuring your Proposal.**
 
 #### For the project:
