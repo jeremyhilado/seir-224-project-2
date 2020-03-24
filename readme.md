@@ -86,10 +86,10 @@ black market for tokens.
 
 Instructors will not be holding open office hours during project week. This is
 to give you the opportunity to solve issues and errors you run in to on your own
-and with your classmates. Dan, however, will still hold his office hours as planned.
+and with your classmates. Jared, however, will still hold his office hours as planned.
 
 An instructor will be assigned to each team and wil check in with your team
-every morning for about 15 minutes. The purpose of these check-ins is not to
+every day for about 15 minutes. The purpose of these check-ins is not to
 discuss technical questions, but to answer questions about workflow and get a status checkin.
 
 #### Maximizing Effectiveness of Support Sessions
