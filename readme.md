@@ -40,7 +40,7 @@ Show us what you've got!
 - Refer to this [blog](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) as a great resource on how to create a readme.
 
 #### A Killer Project Proposal:
-**Refer to the [project worksheet](/project-worksheet.md) file in this repo for structuring your Proposal.**
+- Refer to the [project worksheet](/project-worksheet.md) file in this repo for structuring your Proposal.
 
 #### For the project:
 - A git repository hosted on GitHub, with a link to your hosted project, and **frequent** commits dating back to the very beginning of the project (YOUR APP SHOULD BE LOCATED IN A SEPARATE STANDING REPO. DO NOT build your app in this repository. YOU MUST initiate a new repo on your GitHub account.) 
