@@ -19,10 +19,10 @@ Show us what you've got!
         [More APIs](https://github.com/abhishekbanthia/Public-APIs)  
 	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-pirates/apis)
     - TRY OUT your API in the browser by making an fetch request before you get too emotionally invested in it, to make sure it works the way you think it does...**YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
-- Use React Router.
+- Include React Router with at least 2 routes
 - Have at least 5 separate components, using a readable file structure.
 - Be built using Create React App.
-- Implement responsive design.
+- Implement responsive design using flexbox, grid, or another css framework.
 - Use React Hooks
 - Be deployed via [Netlify](https://www.netlify.com/).
 
@@ -52,7 +52,7 @@ Show us what you've got!
 * **Commit early, commit often.**  Don't be afraid to break something because you can always go back in time to a previous version.
 
 
-## Check out these websites for inspiration
+## Check out these awesome websites for inspiration
 - https://www.foursquare.com
 - https://www.nike.com
 - https://www.airbnb.com
@@ -63,25 +63,6 @@ Show us what you've got!
 - https://www.mint.com
 - https://www.popeyes.com
 - https://www.bk.com/menu/burgers
-
-## Planning
-
-1. [Watch this video on the Minimum Viable Product](https://www.youtube.com/watch?v=1FoCbbbcYT8)
-
-2. **Begin with the end in mind**. Spend a dedicated block of time to planning with ***wireframes*** and ***user stories*** so you don't waste time building things you don't need.
-3. **Write pseudocode before you write actual code**. Thinking through the logic of something helps streamline your process.
-4. **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just use your list of user stories as a ***todo list***, but try to avoid this. If you keep your user stories small and focused on what a user cares about being able to do. This will help you prioritize your tasks and which features to build first.
-
-> [Definition of User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
-
-## Building Out from your Plan
-
-After planning your app: 
-
-1. Create your React architecture
-2. Build your Components
-3. Decided on your CSS styling.
-3. Add new features!
 
 ## Getting Unstuck
 
