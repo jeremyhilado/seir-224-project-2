@@ -20,14 +20,11 @@ Show us what you've got!
 	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-pirates/apis)
     - TRY OUT your API in the browser by making an fetch request before you get too emotionally invested in it, to make sure it works the way you think it does...**YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
 - Use React Router.
-- Have at least 6 separate components, using a readable file structure.
+- Have at least 5 separate components, using a readable file structure.
 - Be built using Create React App.
-- Be styled with CSS.
-- Use Flexbox or CSS Grid for layouts.
-- Use functional components and class components appropriately.
+- Implement responsive design.
+- Use React Hooks
 - Be deployed via [Netlify](https://www.netlify.com/).
-
-- **Optionally, you may incorporate a component library to design your app with approval, or use Next.js or Gatsby instead of React Router and Create React App**
 
 #### Your code must:
 
@@ -39,20 +36,11 @@ Show us what you've got!
 - No pre-loaded `create-react-app` files or code.
 
 ## Necessary Deliverables
-#### A README with the following:
-
-**Refer to the [project worksheet](/project-worksheet.md) file in this repo for structuring your README.**
+#### A Professional README
+- Refer to this [blog](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) as a great resource on how to create a readme.
 
 ###### For the proposal:
-- A collection of wireframes - hand-drawn or digitally created - outlining the important pages of your site, as well as the critical states of your project, drawing a component hierarchy would be a great way to indicate which components need state and which components need props.
-- A proposal including:
-	- A description of the project you'll be building with the objective described in non-technical language.
-	- An explanation of the major problems you plan to face while implementing this app.
-	- An explanation of how you foresee yourself solving the aforementioned problems.
-	- A visual of your component hierarchy.  
-	- A link to the API you plan to use.  
-	- A section clearly defining MVP and POST MVP.
-	- If you plan on incorporating a component library, include a link in your proposal.
+**Refer to the [project worksheet](/project-worksheet.md) file in this repo for structuring your Proposal.**
 
 #### For the project:
 - A git repository hosted on GitHub, with a link to your hosted project, and **frequent** commits dating back to the very beginning of the project (YOUR APP SHOULD BE LOCATED IN A SEPARATE STANDING REPO. DO NOT build your app in this repository. YOU MUST initiate a new repo on your GitHub account.) 
