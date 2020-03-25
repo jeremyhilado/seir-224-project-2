@@ -5,7 +5,7 @@ Let's kick it up a notch and build a modular and modern front end application us
 
 Like with project one, the Unit 2 project is a chance to be creative and build something you should be proud of. You will be working individually for this project, but we'll be guiding you along the process and helping as you go. 
 
-You must submit your idea to your squad leader by noon EST Monday.
+You must submit your full project proposal to your squad leader by 10AM EST Friday.
 
 Show us what you've got!
 
