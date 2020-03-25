@@ -22,6 +22,7 @@ Show us what you've got!
 - Include React Router with at least 2 routes
 - Have at least 5 separate components, using a readable file structure.
 - Be built using Create React App.
+- Built mobile first 
 - Implement responsive design using flexbox, grid, or another css framework.
 - Use React Hooks
 - Be deployed via [Netlify](https://www.netlify.com/).
