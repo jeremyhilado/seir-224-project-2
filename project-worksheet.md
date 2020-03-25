@@ -14,6 +14,11 @@ Use this section to describe your final project and perhaps any links to relevan
 Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
 
 
+```
+{data: {} }
+```
+
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
