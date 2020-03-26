@@ -11,7 +11,7 @@ My project will be a music website where users can search for an artist and it r
 
 ## API
 
-I'm still researching APIs. The API docs I've seen seem to be much more complicated than the examples we've worked with in class so far so I am still trying to figure out how to use them.
+I'm still researching APIs. The API docs I've seen seem to be much more complicated than the examples we've worked with in class so far so I am still doing research to find one I can figure out how to use.
 
 
 ```
