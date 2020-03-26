@@ -7,11 +7,11 @@
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+My project will be a music website where users can search for an artist and it returns that artist's catalog and also similar artists.
 
 ## API
 
-Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
+I'm still researching APIs. The API docs I've seen seem to be much more complicated than the examples we've worked with in class so far so I am still trying to figure out how to use them.
 
 
 ```
