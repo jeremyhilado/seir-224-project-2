@@ -6,6 +6,7 @@ import Footer from './Components/Footer'
 import Form from './Components/Form'
 import Nav from './Components/Nav'
 import SearchResults from './Components/SearchResults'
+import {Route} from 'react-router-dom'
 
 function App() {
 
@@ -46,7 +47,10 @@ function App() {
       <header className="nav">
       </header>
       <main>
-        <Form handleSubmit={handleSubmit} />
+        <Route 
+          exact path='/'
+          render={data => <Form handleSubmit={handleSubmit} />}
+        />
       </main>
     </div>
   );
