@@ -7,7 +7,7 @@
 
 ## Project Description
 
-My project will be a music website where users can search for an artist and it returns that artist's catalog and also similar artists.
+My project will be a music website where users can search for an artist via a form and then gets shown a list of matching search results. The user can then click on a specific artist and be shown the artist's biography, top tracks, album catalog and also similar artists. It will also contain pictures of the artist and album cover art.
 
 ## API
 
