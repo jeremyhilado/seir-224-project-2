@@ -84,10 +84,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Adding Footer | H | 1 hr | - | - |
 | Addding Search Results | H | 5 hrs | - | - |
 | Addding Artist Detail | H | 6 hrs | - | - |
+| Deployment | H | 4 hrs | - | - |
+| Testing | H | 3 hrs | - | - |
+| Adding Styling | M | 5 hrs | - | - |
 | Adding About Page | M | 2 hrs | - | - |
 | Adding Current Top Artist to Home Page | L | 4 hrs | - | - |
 | Embed YouTube Videos to Artist Detail | L | 4 hrs | - | - |
-| Total | | 30 hrs | - | - |
+| Total | | 42 hrs | - | - |
+
+[Time Priority Matrix](https://res.cloudinary.com/do6tcpizk/image/upload/v1585328064/Project%202%20React%20App/Time_Priority_Matrix_nxy0ig.jpg)
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
