@@ -2,7 +2,7 @@
 
 ## Project Links
 
-- [add your github repo link]()
+- [GitHub Repo Link](https://github.com/jeremyhilado/seir-224-project-2)
 - [add your deployment link]()
 
 ## Project Description
@@ -11,20 +11,41 @@ My project will be a music website where users can search for an artist and it r
 
 ## API
 
-I'm still researching APIs. The API docs I've seen seem to be much more complicated than the examples we've worked with in class so far so I am still doing research to find one I can figure out how to use.
+https://www.theaudiodb.com/api/v1/json/1/search.php?s=coldplay
 
 
 ```
-{data: {} }
+Object {artists: Array[1]}
+artists: Array[1]
+0: Object
+idArtist: "111239"
+strArtist: "Coldplay"
+strArtistStripped: null
+strArtistAlternate: ""
+strLabel: "Parlophone"
+idLabel: "45114"
+intFormedYear: "1996"
+intBornYear: "1996"
+intDiedYear: null
+strDisbanded: null
+strStyle: "Rock/Pop"
+strGenre: "Alternative Rock"
+strMood: "Happy"
+strWebsite: "www.coldplay.com"
+strFacebook: "www.facebook.com/coldplay"
+strTwitter: "www.twitter.com/coldplay"
+strBiographyEN: "Coldplay are a British alternative rock band formed in 1996 by lead vocalist Chris Martin and lead guitarist Jonny Buckland at University College London. After they formed Pectoralz, Guy Berryman joined the group as a bassist and they changed their name to Starfish. Will Champion joined as a drummer, backing vocalist, and multi-instrumentalist, completing the line-up. Manager Phil Harvey is often considered an unofficial fifth member. The band renamed themselves "Coldplay" in 1998, before recording and releasing three EPs; Safety in 1998, Brothers & Sisters as a single in 1999 and The Blue Room in the same year. The latter was their first release on a major label, after signing to Parlophone.
 ```
 
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
+- [Home - Wireframe](https://res.cloudinary.com/do6tcpizk/image/upload/v1585283886/Project%202%20React%20App/Home_Page_kjimbs.jpg)
+- [Search Results - Wireframe](https://res.cloudinary.com/do6tcpizk/image/upload/v1585283887/Project%202%20React%20App/Search_Results_iutp7t.jpg)
+- [Artist Detail - Wireframe](https://res.cloudinary.com/do6tcpizk/image/upload/v1585283887/Project%202%20React%20App/Artist_Detail_nxeuop.jpg)
+- [About - Wireframe](https://res.cloudinary.com/do6tcpizk/image/upload/v1585283891/Project%202%20React%20App/About_Page_r3zobo.jpg)
 
-- [add link to your wireframes]()
-- [add link to your react architecture]()
+- [React Architecture](https://docs.google.com/drawings/d/1aX130-uJ-6ShuQmGKrcZvnOA0qXm3FfQT1NQWQHHr_Q/edit)
 
 
 ### MVP/PostMVP - 5min
@@ -38,7 +59,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### PostMVP EXAMPLE
 
-- Add localStorage or firebase for storage
+- Populate home page with current top artists
+- Embed YouTube videos to artist detail page
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
@@ -56,9 +78,16 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Adding Form | H | 3 hrs | - | - |
+| Working with API | H | 3 hrs| - | - |
+| Adding Nav | H | 2hrs | - | - |
+| Adding Footer | H | 1 hr | - | - |
+| Addding Search Results | H | 5 hrs | - | - |
+| Addding Artist Detail | H | 6 hrs | - | - |
+| Adding About Page | M | 2 hrs | - | - |
+| Adding Current Top Artist to Home Page | L | 4 hrs | - | - |
+| Embed YouTube Videos to Artist Detail | L | 4 hrs | - | - |
+| Total | | 30 hrs | - | - |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
