@@ -6,7 +6,7 @@ import Footer from './Components/Footer'
 import Form from './Components/Form'
 import Nav from './Components/Nav'
 import SearchResults from './Components/SearchResults'
-import {Route} from 'react-router-dom'
+import {Route, Switch} from 'react-router-dom'
 
 function App() {
 
@@ -47,10 +47,15 @@ function App() {
       <header className="nav">
       </header>
       <main>
-        <Route 
-          exact path='/'
-          render={submit => <Form handleSubmit={handleSubmit} />}
-        />
+          <Route 
+            exact path='/'
+            render={submit => <Form handleSubmit={handleSubmit} />}
+          />
+          <Route 
+            exact path='/artist/:id'
+            render={data => <ArtistDetail audiodbArtistData={audiodbArtistData} lastfmArtistData={lastfmArtistData} {...data} />}
+          />
+          {lastfmSearchData.results && <SearchResults audiodbArtistData={audiodbArtistData} lastfmSearchData={lastfmSearchData} />}
       </main>
     </div>
   );

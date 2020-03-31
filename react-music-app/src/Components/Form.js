@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import {Link} from 'react-router-dom'
 
 function Form(props) {
 
@@ -25,7 +26,9 @@ function Form(props) {
                     value={artist}
                     onChange={handleChange}
                 />
-                <button>Search</button>
+                
+                    <button>Search</button>
+                
             </form>
         </div>
     )
