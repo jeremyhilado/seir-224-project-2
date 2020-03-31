@@ -78,11 +78,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3 hrs | - | - |
-| Working with API | H | 3 hrs| - | - |
+| Adding Form | H | 3 hrs | 1 hr | - |
+| Working with API | H | 3 hrs| 2.5 hrs | 2.5 hrs |
 | Adding Nav | H | 2hrs | - | - |
 | Adding Footer | H | 1 hr | - | - |
-| Addding Search Results | H | 5 hrs | - | - |
+| Addding Search Results | H | 5 hrs | 2 hrs | - |
 | Addding Artist Detail | H | 6 hrs | - | - |
 | Deployment | H | 4 hrs | - | - |
 | Testing | H | 3 hrs | - | - |

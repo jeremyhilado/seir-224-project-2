@@ -49,7 +49,7 @@ function App() {
       <main>
         <Route 
           exact path='/'
-          render={data => <Form handleSubmit={handleSubmit} />}
+          render={submit => <Form handleSubmit={handleSubmit} />}
         />
       </main>
     </div>
