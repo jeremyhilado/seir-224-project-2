@@ -7,7 +7,7 @@ function SearchResults(props) {
 
     const searchResults = props.lastfmSearchData.results.artistmatches.artist.map((artist, i) => {
         return(
-            <Link key={i} to={`/artist/${artist.mbid}`}>
+            <Link key={i} to={`/artist/${artist.name}`}>
                 <li>{artist.name}</li>
             </Link>
         )
@@ -18,6 +18,7 @@ function SearchResults(props) {
             <ol>{searchResults}</ol>
         </div>
     )
+
 }
 
 export default SearchResults

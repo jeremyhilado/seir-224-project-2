@@ -26,9 +26,7 @@ function Form(props) {
                     value={artist}
                     onChange={handleChange}
                 />
-                
-                    <button>Search</button>
-                
+                <button>Search</button>
             </form>
         </div>
     )
