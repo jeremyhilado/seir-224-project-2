@@ -10,58 +10,30 @@ import {Route, Link, Switch} from 'react-router-dom'
 
 function App() {
 
-  const[audiodbArtistData, setAudiodbArtistData] = useState({})
-  const[lastfmArtistData, setLastfmArtistData] = useState({})
-  const[lastfmSearchData, setLastfmSearchData] = useState({})
-  const[artist, setArtist] = useState('')
+  // const[artist, setArtist] = useState('')
 
-  useEffect(() => {
-    console.log('App - useEffect')
-    // const audiodbArtistAPI = `https://www.theaudiodb.com/api/v1/json/1/search.php?s=${artist}`
-    // const lastfmArtistAPI = `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${artist}&api_key=7405f10b4750ad36052b877fa5b52ed2&format=json`
-    const lastfmSearchAPI = `https://ws.audioscrobbler.com/2.0/?method=artist.search&artist=${artist}&api_key=7405f10b4750ad36052b877fa5b52ed2&format=json&limit=10`
-    const makeApiCall = async() => {
-      // const res1 = await fetch(audiodbArtistAPI)
-      // const res2 = await fetch(lastfmArtistAPI)
-      const res3 = await fetch(lastfmSearchAPI)
-      // const json1 = await res1.json()
-      // const json2 = await res2.json()
-      const json3 = await res3.json()
-      // setAudiodbArtistData(json1)
-      // setLastfmArtistData(json2)
-      setLastfmSearchData(json3)
-    }
-    makeApiCall()
-  }, [artist])
-
-  // console.log('App - audiodbArtistData', audiodbArtistData)
-  // console.log('App - lastfmArtistData', lastfmArtistData)
-  console.log('App - lastfmSearchData', lastfmSearchData)
-
-  const handleSubmit = async artistInput => {
-    setArtist(artistInput)
-  }
+  // const handleSubmit = async artistInput => {
+  //   setArtist(artistInput)
+  // }
 
   return (
     <div className="app">
       <header className="nav">
-        <Link to='/'>Home</Link> 
-        <Link to='/searchresults'>Results</Link>
+        <Nav />  
       </header>
       <main>
-          <Route 
-            exact path='/'
-            render={submit => <Form handleSubmit={handleSubmit} />}
-          />
-          <Route 
-            exact path='/artist/:name'
-            render={data => <ArtistDetail {...data} />}
-          />
-          <Route
-            path='/searchresults'
-            render={results => <SearchResults lastfmSearchData={lastfmSearchData} />}
-          />
-          {/* {lastfmSearchData.results && <SearchResults audiodbArtistData={audiodbArtistData} lastfmSearchData={lastfmSearchData} />} */}
+        <Route 
+          exact path='/'
+          render={submit => <Form />}
+        />
+        <Route 
+          exact path='/artist/:name'
+          render={data => <ArtistDetail {...data} />}
+        />
+        <Route
+          path='/searchresults/:search'
+          render={props => <SearchResults{...props} />}
+        />
       </main>
     </div>
   );

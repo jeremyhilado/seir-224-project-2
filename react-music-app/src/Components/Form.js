@@ -26,7 +26,9 @@ function Form(props) {
                     value={artist}
                     onChange={handleChange}
                 />
+                <Link to={`/searchresults/${artist}`}>
                 <button>Search</button>
+                </Link>
             </form>
         </div>
     )

@@ -57,7 +57,7 @@ function ArtistDetail(props) {
 
         const similarArtists = lastfmArtistData.artist.similar.artist.map((artist, i) => {
             return(
-                <li>{artist.name}</li>
+                <li key={i}>{artist.name}</li>
             )
         })
 
