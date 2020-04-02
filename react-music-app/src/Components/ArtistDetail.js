@@ -80,12 +80,16 @@ function ArtistDetail(props) {
             </div>
             <div>
                 <h1>Similar Artists</h1>
-                <ol>{similarArtists}</ol>
+                <ul>{similarArtists}</ul>
             </div>
         </div>
         )
     } else {
-        return <></>
+        return(
+            <div>
+                <h1>No matching artist page. Please go back and try again.</h1>
+            </div>
+        )
     }
 }
 

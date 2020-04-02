@@ -3,8 +3,13 @@ import {Link} from 'react-router-dom'
 
 function Nav() {
     return(
-        <div>
-            <Link to='/'>Home</Link> 
+        <div className='nav-links-container'>
+            
+                <Link to='/'>Musicpedia</Link> 
+        
+            
+                <Link to='/about'>About</Link>
+        
         </div>
     )
 }

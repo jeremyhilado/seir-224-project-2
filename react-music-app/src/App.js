@@ -26,6 +26,7 @@ function App() {
           exact path='/'
           render={submit => <Form />}
         />
+        <Route path='/about' component={About} />
         <Route 
           exact path='/artist/:name'
           render={data => <ArtistDetail {...data} />}
@@ -35,6 +36,9 @@ function App() {
           render={props => <SearchResults{...props} />}
         />
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }

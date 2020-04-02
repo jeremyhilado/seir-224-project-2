@@ -18,7 +18,7 @@ function Form(props) {
     }
 
     return(
-        <div>
+        <div className='form-container'>
             <form onSubmit={handleSubmit}>
                 <input
                     type='text'
