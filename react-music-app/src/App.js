@@ -6,7 +6,7 @@ import Footer from './Components/Footer'
 import Form from './Components/Form'
 import Nav from './Components/Nav'
 import SearchResults from './Components/SearchResults'
-import {Route} from 'react-router-dom'
+import {Route, Switch, Redirect} from 'react-router-dom'
 
 function App() {
 
@@ -16,6 +16,7 @@ function App() {
         <Nav />  
       </header>
       <main>
+        <Switch>
         <Route 
           exact path='/'
           render={submit => <Form />}
@@ -29,6 +30,8 @@ function App() {
           path='/searchresults/:search'
           render={props => <SearchResults{...props} />}
         />
+        <Redirect to='/' />
+        </Switch>
       </main>
       <footer>
         <Footer />

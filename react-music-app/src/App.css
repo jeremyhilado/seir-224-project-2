@@ -43,6 +43,8 @@
 .form-container {
     height: 70vh;
     text-align: center;
+    background-image: url('https://res.cloudinary.com/do6tcpizk/image/upload/v1585860277/Project%202%20React%20App/blaz-photo-cZWZjymwI9o-unsplash_f65t3b.jpg');
+    background-size: 100% 100%;
 }
 
 form {
@@ -53,18 +55,38 @@ input {
     height: 50px;
     width: 300px;
     font-size: 30px;
+    border-radius: 30px;
+    padding-left: 10px;
 }
 
 button {
     margin-left: 10px;
     font-size: 30px;
-    padding: 7px 5px;
+    padding: 7px 10px;
+    border-radius: 30px;
 }
 
 .search-results {
     min-height: 70vh;
     width: 70%;
     margin: 0 auto;
+    background-color: #3D3D3D;
+    color: white;
+}
+
+.search-results li {
+    color: #96FF01;
+    font-weight: 700;
+}
+
+main {
+    background-color: #3D3D3D;
+    margin: 0;
+    padding: 0;
+}
+
+.search-results h1 {
+    margin: 0;
 }
 
 .search-results ol {
@@ -87,24 +109,53 @@ button {
 
 .detail-container h3 {
     margin: 0;
+    color: white;
 }
 
 .detail-container h5 {
     margin-top: 0;
+    color: white;
 }
 
 .detail-container h1 {
     font-size: 150%;
+    color: #96FF01
 }
 
-.detail-container > p, li {
+.detail-container ol li {
     font-size: 90%;
+    color: white;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+.detail-container p {
+    font-size: 90%;
+    color: white;
+    font-weight: 700;
 }
 
 .album-container {
     display: grid;
     justify-items: center;
     text-align: center;
+}
+
+.detail-container ul {
+    margin: 0;
+    padding-left: 0;
+    padding-bottom: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.detail-container ul li {
+    color: white;
+    font-weight: 700;
+    padding: 25px;
 }
 
 img {
@@ -124,7 +175,11 @@ img {
         font-size: 200%;
     }
     
-    .detail-container > p, li {
+    .detail-container p {
+        font-size: 100%;
+    }
+
+    .detail-container li {
         font-size: 100%;
     }
 }
@@ -136,6 +191,9 @@ img {
 
 .about-container p {
     padding-top: 100px;
+    margin: 0;
+    color: white;
+    font-weight: 700;
 }
 
 footer {
@@ -146,6 +204,12 @@ footer {
     color: white;
     align-items: center;
     justify-content: center;
+    padding: 0;
+}
+
+.footer h3 {
+    margin: 0;
+    padding: 0;
 }
 
 
