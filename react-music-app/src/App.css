@@ -1,5 +1,5 @@
 .nav {
-    height: 10vh;
+    height: 50px;
     background-color: #111111;
 }
 
@@ -34,6 +34,10 @@
     .nav-links-container a:nth-of-type(1) {
         font-size: 50px;
     }
+
+    .nav {
+        height: 100px;
+    }
 }
 
 .form-container {
@@ -58,7 +62,7 @@ button {
 }
 
 .search-results {
-    height: 70vh;
+    min-height: 70vh;
     width: 70%;
     margin: 0 auto;
 }
@@ -89,6 +93,14 @@ button {
     margin-top: 0;
 }
 
+.detail-container h1 {
+    font-size: 150%;
+}
+
+.detail-container > p, li {
+    font-size: 90%;
+}
+
 .album-container {
     display: grid;
     justify-items: center;
@@ -107,10 +119,27 @@ img {
     img {
         width: 15vw;
     }
+
+    .detail-container h1 {
+        font-size: 200%;
+    }
+    
+    .detail-container > p, li {
+        font-size: 100%;
+    }
+}
+
+.about-container {
+    min-height: 70vh;
+    text-align: center;
+}
+
+.about-container p {
+    padding-top: 100px;
 }
 
 footer {
-    height: 20vh;
+    height: 200px;
     background-color: #111111;
     margin: 0;
     display: flex;

@@ -48,7 +48,7 @@ function ArtistDetail(props) {
         const albums = audiodbAlbumsData.album.map((album, i) => {
             return(
                 <div key={i} className='album'>
-                    <img src={album.strAlbumThumb}></img>
+                    <img src={album.strAlbumThumb ? album.strAlbumThumb : 'https://res.cloudinary.com/do6tcpizk/image/upload/c_scale,h_700,w_700/v1585845946/Project%202%20React%20App/product_image_not_available_otx8jx.png'}></img>
                     <h3>{album.strAlbum}</h3>
                     <h5>{album.intYearReleased}</h5>
                 </div>
@@ -87,6 +87,7 @@ function ArtistDetail(props) {
     } else {
         return(
             <div>
+                <h1>No matching artist profile found. Please go back and try again.</h1>
             </div>
         )
     }
