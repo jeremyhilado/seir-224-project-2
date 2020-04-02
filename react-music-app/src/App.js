@@ -6,15 +6,9 @@ import Footer from './Components/Footer'
 import Form from './Components/Form'
 import Nav from './Components/Nav'
 import SearchResults from './Components/SearchResults'
-import {Route, Link, Switch} from 'react-router-dom'
+import {Route} from 'react-router-dom'
 
 function App() {
-
-  // const[artist, setArtist] = useState('')
-
-  // const handleSubmit = async artistInput => {
-  //   setArtist(artistInput)
-  // }
 
   return (
     <div className="app">

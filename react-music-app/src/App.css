@@ -72,6 +72,42 @@ button {
     text-decoration: none;
 }
 
+.detail-container {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 100%;
+}
+
+.detail-container h3 {
+    margin: 0;
+}
+
+.detail-container h5 {
+    margin-top: 0;
+}
+
+.album-container {
+    display: grid;
+    justify-items: center;
+    text-align: center;
+}
+
+img {
+    width: 40vw;
+}
+
+@media(min-width: 769px) {
+    .album-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    img {
+        width: 15vw;
+    }
+}
 
 footer {
     height: 20vh;

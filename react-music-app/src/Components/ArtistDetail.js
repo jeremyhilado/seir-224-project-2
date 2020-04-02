@@ -47,10 +47,10 @@ function ArtistDetail(props) {
 
         const albums = audiodbAlbumsData.album.map((album, i) => {
             return(
-                <div key={i}>
+                <div key={i} className='album'>
                     <img src={album.strAlbumThumb}></img>
                     <h3>{album.strAlbum}</h3>
-                    <h4>{album.intYearReleased}</h4>
+                    <h5>{album.intYearReleased}</h5>
                 </div>
             )
         })
@@ -62,8 +62,8 @@ function ArtistDetail(props) {
         })
 
         return(
-        <div>
-            <img src={audiodbArtistData.artists[0].strArtistBanner}></img>
+        <div className='detail-container'>
+            <img className='banner' src={audiodbArtistData.artists[0].strArtistBanner}></img>
             <div>
                 <h1>Biography</h1>
                 <p>{audiodbArtistData.artists[0].strBiographyEN}</p>
@@ -74,7 +74,7 @@ function ArtistDetail(props) {
             </div>
             <div>
                 <h1>Albums</h1>
-                <div>
+                <div className='album-container'>
                     {albums}
                 </div>
             </div>
@@ -87,7 +87,6 @@ function ArtistDetail(props) {
     } else {
         return(
             <div>
-                <h1>No matching artist page. Please go back and try again.</h1>
             </div>
         )
     }
