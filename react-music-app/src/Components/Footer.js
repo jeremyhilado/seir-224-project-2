@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
     return(
         <div className='footer'>
-            <h1>Footer</h1>
+            <h3>© 2020 Jeremy Hilado</h3>
         </div>
     )
 }

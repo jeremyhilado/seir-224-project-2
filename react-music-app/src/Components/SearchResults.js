@@ -30,7 +30,8 @@ function SearchResults(props) {
     })
 
     return(
-        <div>
+        <div className='search-results'>
+            <h1>Search Results:</h1>
             <ol>{searchResults}</ol>
         </div>
     )
