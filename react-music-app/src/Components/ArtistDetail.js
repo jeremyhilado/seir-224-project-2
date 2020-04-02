@@ -86,8 +86,8 @@ function ArtistDetail(props) {
         )
     } else {
         return(
-            <div>
-                <h1>No matching artist profile found. Please go back and try again.</h1>
+            <div className='no-match-container'>
+                <h1 className='no-match'>No matching artist profile found. Please go back and try again.</h1>
             </div>
         )
     }
