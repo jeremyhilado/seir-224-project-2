@@ -66,3 +66,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Project Title
+
+This is a React app called Musicpedia. It allows you to search for an artist and then find related infomation about that artist.
+
+### Motivation
+
+I created this app as my unit 2 project for General Assembly's Software Engineering Immersive. For this project, we had to create a React app that utilized an API, used hooks, and React Router. Since I've been a life-long music lover, I decided to make a music themed app. 
+
+### API Reference
+
+[AudioDB](https://www.theaudiodb.com/api_guide.php)
+[lastfm](https://www.last.fm/api/)
+[MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2)
+
+### Contribute
+
+Ideally, this app would let you go down an endless rabbit hole of music discovery. Unfortunately, it currently ends at the artist detail page. You can help contribute by making the top tracks, albums, and similar artists into links that direct users into further info about those items.
