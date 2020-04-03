@@ -3,8 +3,6 @@ import {Link} from 'react-router-dom'
 
 function SearchResults(props) {
 
-    console.log('SearchResults - props', props)
-
     const[mbSearchData, setMbSearchData] = useState({})
 
     useEffect(() => {
@@ -17,8 +15,6 @@ function SearchResults(props) {
         }
         makeApiCall()
       }, [])
-
-    console.log('SearchResults - mbSearchData', mbSearchData)
 
     if(mbSearchData.artists) {
         const searchResults = mbSearchData.artists.map((artist, i) => {

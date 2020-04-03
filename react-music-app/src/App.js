@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import './App.css';
 import About from './Components/About'
 import ArtistDetail from './Components/ArtistDetail'

@@ -7,8 +7,6 @@ function ArtistDetail(props) {
     const[lastfmArtistData, setLastfmArtistData] = useState({})
     const[lastfmTracksData, setLastfmTracksData] = useState({})
 
-    console.log('ArtistDetail - props', props)
-
     useEffect(() => {
         console.log('ArtistDetail - useEffect')
         const audiodbArtistAPI = `https://www.theaudiodb.com/api/v1/json/1/search.php?s=${props.match.params.name}`
@@ -31,13 +29,8 @@ function ArtistDetail(props) {
         }
         makeApiCall()
     }, [])
-
-    console.log('ArtistDetail - audiodbArtistData', audiodbArtistData)
-    console.log('ArtistDetail - audiodbAlbumsData', audiodbAlbumsData)
-    console.log('ArtistDetail - lastfmArtistData', lastfmArtistData)
-    console.log('ArtistDetail - lastfmTracksData', lastfmTracksData)
     
-    if(audiodbArtistData.artists && lastfmTracksData.toptracks) {
+    if(audiodbArtistData.artists && lastfmTracksData.toptracks && audiodbAlbumsData.album) {
 
         const topTracks = lastfmTracksData.toptracks.track.map((track, i) => {
             return(
@@ -64,6 +57,7 @@ function ArtistDetail(props) {
         return(
         <div className='detail-container'>
             <img className='banner' src={audiodbArtistData.artists[0].strArtistBanner}></img>
+            <div>{audiodbArtistData.artists[0].strArtistBanner ? <></> : <h1>{audiodbArtistData.artists[0].strArtist}</h1>}</div>
             <div>
                 <h1>Biography</h1>
                 <p>{audiodbArtistData.artists[0].strBiographyEN ? audiodbArtistData.artists[0].strBiographyEN : 'Biography not available.'}</p>
@@ -84,7 +78,7 @@ function ArtistDetail(props) {
             </div>
         </div>
         )
-    } else if (!audiodbArtistData.artists && lastfmTracksData.toptracks) {
+    } else if ((!audiodbArtistData.artists || !audiodbAlbumsData.album) && lastfmTracksData.toptracks) {
         return(
             <div className='no-match-container'>
                 <h1 className='no-match'>No matching artist page. Please go back and try again.</h1>
