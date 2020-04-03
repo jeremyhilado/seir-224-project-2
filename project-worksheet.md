@@ -95,7 +95,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 [Time Priority Matrix](https://res.cloudinary.com/do6tcpizk/image/upload/v1585328064/Project%202%20React%20App/Time_Priority_Matrix_nxy0ig.jpg)
 
 ## Additional Libraries
- Use this section to list all supporting libraries and their role in the project such as Axios, ReactStrap, D3, etc. 
+ 
+ None.
 
 ## Code Snippet
 
@@ -111,4 +112,4 @@ Use this section to include a brief code snippet of functionality that you are p
         return <></>
     }
 
-This code snippet checks whether all the api have finished fetching and displays nothing if they haven't and then returns a message saying if no matches if they have and there is no data we can show the user based on their search choice.
+This code snippet checks whether all the APIs have finished fetching and displays nothing if they haven't and then returns a message saying if no matches if they have and there is no data we can show the user based on their search choice.
