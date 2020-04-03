@@ -78,15 +78,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3 hrs | 1 hr | 3 hrs |
+| Adding Form | H | 3 hrs | 3 hr | 3 hrs |
 | Working with API | H | 3 hrs| 2.5 hrs | 2.5 hrs |
 | Adding Nav | H | 2hrs | 1 hr | 1 hr |
 | Adding Footer | H | 1 hr | 1 hr | 1 hr |
-| Addding Search Results | H | 5 hrs | 2 hrs | 5 hrs |
-| Addding Artist Detail | H | 6 hrs | 3 hrs | 6 hrs |
+| Addding Search Results | H | 5 hrs | 5 hrs | 5 hrs |
+| Addding Artist Detail | H | 6 hrs | 6 hrs | 6 hrs |
 | Deployment | H | 4 hrs | 2 hrs | 2 hrs |
-| Testing | H | 3 hrs | 2 hrs | 4 hrs |
-| Adding Styling | M | 5 hrs | 1 hr | 4 hrs |
+| Testing | H | 3 hrs | 4 hrs | 4 hrs |
+| Adding Styling | M | 5 hrs | 4 hr | 4 hrs |
 | Adding About Page | M | 2 hrs | 1 hr | 1 hr |
 | Adding Current Top Artist to Home Page | L | 4 hrs | 0 | 0 |
 | Embed YouTube Videos to Artist Detail | L | 4 hrs | 0 | 0 |
@@ -113,3 +113,9 @@ Use this section to include a brief code snippet of functionality that you are p
     }
 
 This code snippet checks whether all the APIs have finished fetching and displays nothing if they haven't and then returns a message saying if no matches if they have and there is no data we can show the user based on their search choice.
+
+## Issues and Resolutions
+
+First issue I had was I tried storing all the data in my App component and passing it down to all the other components. However, I ran into an issue with the data not being passed to my SearchResults component when I used the form submit button as a direct link to the search results page. The resolution I came up with was to move the API call to the SearchResults component.
+
+The second issue I had was the app breaking because it tried to access data that did not exist yet because it was not fully fetched. I implemented conditional rendering as a resolution.
