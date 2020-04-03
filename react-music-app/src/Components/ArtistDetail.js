@@ -8,7 +8,6 @@ function ArtistDetail(props) {
     const[lastfmTracksData, setLastfmTracksData] = useState({})
 
     useEffect(() => {
-        console.log('ArtistDetail - useEffect')
         const audiodbArtistAPI = `https://www.theaudiodb.com/api/v1/json/1/search.php?s=${props.match.params.name}`
         const audiodbAlbumsAPI = `https://www.theaudiodb.com/api/v1/json/1/searchalbum.php?s=${props.match.params.name}`
         const lastfmArtistAPI = `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${props.match.params.name}&api_key=7405f10b4750ad36052b877fa5b52ed2&format=json`
@@ -29,11 +28,6 @@ function ArtistDetail(props) {
         }
         makeApiCall()
     }, [])
-
-    console.log('ArtistDetail - audiodbArtistData', audiodbArtistData)
-    console.log('ArtistDetail - audiodbAlbumsData', audiodbAlbumsData)
-    console.log('ArtistDetail - lastfmArtistData', lastfmArtistData)
-    console.log('ArtistDetail - lastfmTracksData', lastfmTracksData)
     
     if(audiodbArtistData.artists && lastfmTracksData.toptracks && audiodbAlbumsData.album) {
 
