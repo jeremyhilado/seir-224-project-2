@@ -29,6 +29,11 @@ function ArtistDetail(props) {
         }
         makeApiCall()
     }, [])
+
+    console.log('ArtistDetail - audiodbArtistData', audiodbArtistData)
+    console.log('ArtistDetail - audiodbAlbumsData', audiodbAlbumsData)
+    console.log('ArtistDetail - lastfmArtistData', lastfmArtistData)
+    console.log('ArtistDetail - lastfmTracksData', lastfmTracksData)
     
     if(audiodbArtistData.artists && lastfmTracksData.toptracks && audiodbAlbumsData.album) {
 
@@ -79,6 +84,12 @@ function ArtistDetail(props) {
         </div>
         )
     } else if ((!audiodbArtistData.artists || !audiodbAlbumsData.album) && lastfmTracksData.toptracks) {
+        return(
+            <div className='no-match-container'>
+                <h1 className='no-match'>No matching artist page. Please go back and try again.</h1>
+            </div>
+        )
+    } else if (lastfmArtistData.error) {
         return(
             <div className='no-match-container'>
                 <h1 className='no-match'>No matching artist page. Please go back and try again.</h1>
