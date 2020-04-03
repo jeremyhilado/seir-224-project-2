@@ -3,7 +3,7 @@
 ## Project Links
 
 - [GitHub Repo Link](https://github.com/jeremyhilado/seir-224-project-2)
-- [add your deployment link]()
+- [Deployment Link](https://sleepy-shockley-7aa8c4.netlify.com/)
 
 ## Project Description
 
