@@ -37,6 +37,86 @@ strTwitter: "www.twitter.com/coldplay"
 strBiographyEN: "Coldplay are a British alternative rock band formed in 1996 by lead vocalist Chris Martin and lead guitarist Jonny Buckland at University College London. After they formed Pectoralz, Guy Berryman joined the group as a bassist and they changed their name to Starfish. Will Champion joined as a drummer, backing vocalist, and multi-instrumentalist, completing the line-up. Manager Phil Harvey is often considered an unofficial fifth member. The band renamed themselves "Coldplay" in 1998, before recording and releasing three EPs; Safety in 1998, Brothers & Sisters as a single in 1999 and The Blue Room in the same year. The latter was their first release on a major label, after signing to Parlophone.
 ```
 
+http://ws.audioscrobbler.com/2.0/
+
+```
+{
+"artist": {
+"name": "Coldplay",
+"mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+"url": "https://www.last.fm/music/Coldplay",
+"image": [
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": "small"
+},
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": "medium"
+},
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": "large"
+},
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": "extralarge"
+},
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": "mega"
+},
+{
+"#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+"size": ""
+}
+],
+"streamable": "0",
+"ontour": "0",
+"stats": {
+"listeners": "5515996",
+"playcount": "373238929"
+},
+"similar": {
+"artist": [
+{
+"name": "Keane",
+```
+
+https://musicbrainz.org/ws/2/artist/?query=artist:coldplay&fmt=json&limit=10
+```
+{
+"created": "2020-04-03T18:42:57.804Z",
+"count": 2,
+"offset": 0,
+"artists": [
+{
+"id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+"type": "Group",
+"type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+"score": 100,
+"name": "Coldplay",
+"sort-name": "Coldplay",
+"country": "GB",
+"area": {
+"id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+"type": "Country",
+"type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+"name": "United Kingdom",
+"sort-name": "United Kingdom",
+"life-span": {
+"ended": null
+}
+},
+"begin-area": {
+"id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+"type": "City",
+"type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+"name": "London",
+"sort-name": "London",
+"life-span": {
+"ended": null
+```
 
 ## Wireframes
 
