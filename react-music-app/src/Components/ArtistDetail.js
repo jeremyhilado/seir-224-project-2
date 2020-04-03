@@ -50,7 +50,7 @@ function ArtistDetail(props) {
                 <div key={i} className='album'>
                     <img src={album.strAlbumThumb ? album.strAlbumThumb : 'https://res.cloudinary.com/do6tcpizk/image/upload/c_scale,h_700,w_700/v1585845946/Project%202%20React%20App/product_image_not_available_otx8jx.png'}></img>
                     <h3>{album.strAlbum}</h3>
-                    <h5>{album.intYearReleased}</h5>
+                    <h5>{(album.intYearReleased == 0) ? 'N/A' : album.intYearReleased}</h5>
                 </div>
             )
         })
@@ -66,7 +66,7 @@ function ArtistDetail(props) {
             <img className='banner' src={audiodbArtistData.artists[0].strArtistBanner}></img>
             <div>
                 <h1>Biography</h1>
-                <p>{audiodbArtistData.artists[0].strBiographyEN}</p>
+                <p>{audiodbArtistData.artists[0].strBiographyEN ? audiodbArtistData.artists[0].strBiographyEN : 'Biography not available.'}</p>
             </div>
             <div>
                 <h1>Top Tracks</h1>
@@ -84,12 +84,14 @@ function ArtistDetail(props) {
             </div>
         </div>
         )
-    } else {
+    } else if (!audiodbArtistData.artists && lastfmTracksData.toptracks) {
         return(
             <div className='no-match-container'>
-                <h1 className='no-match'>No matching artist profile found. Please go back and try again.</h1>
+                <h1 className='no-match'>No matching artist page. Please go back and try again.</h1>
             </div>
         )
+    } else {
+        return <></>
     }
 }
 
