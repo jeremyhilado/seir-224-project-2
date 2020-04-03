@@ -78,31 +78,37 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3 hrs | 1 hr | - |
+| Adding Form | H | 3 hrs | 1 hr | 3 hrs |
 | Working with API | H | 3 hrs| 2.5 hrs | 2.5 hrs |
-| Adding Nav | H | 2hrs | - | - |
-| Adding Footer | H | 1 hr | - | - |
-| Addding Search Results | H | 5 hrs | 2 hrs | - |
-| Addding Artist Detail | H | 6 hrs | - | - |
-| Deployment | H | 4 hrs | - | - |
-| Testing | H | 3 hrs | - | - |
-| Adding Styling | M | 5 hrs | - | - |
-| Adding About Page | M | 2 hrs | - | - |
-| Adding Current Top Artist to Home Page | L | 4 hrs | - | - |
-| Embed YouTube Videos to Artist Detail | L | 4 hrs | - | - |
-| Total | | 42 hrs | - | - |
+| Adding Nav | H | 2hrs | 1 hr | 1 hr |
+| Adding Footer | H | 1 hr | 1 hr | 1 hr |
+| Addding Search Results | H | 5 hrs | 2 hrs | 5 hrs |
+| Addding Artist Detail | H | 6 hrs | 3 hrs | 6 hrs |
+| Deployment | H | 4 hrs | 2 hrs | 2 hrs |
+| Testing | H | 3 hrs | 2 hrs | 4 hrs |
+| Adding Styling | M | 5 hrs | 1 hr | 4 hrs |
+| Adding About Page | M | 2 hrs | 1 hr | 1 hr |
+| Adding Current Top Artist to Home Page | L | 4 hrs | 0 | 0 |
+| Embed YouTube Videos to Artist Detail | L | 4 hrs | 0 | 0 |
+| Total | | 42 hrs | - | 29.5 hrs |
 
 [Time Priority Matrix](https://res.cloudinary.com/do6tcpizk/image/upload/v1585328064/Project%202%20React%20App/Time_Priority_Matrix_nxy0ig.jpg)
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
+ Use this section to list all supporting libraries and their role in the project such as Axios, ReactStrap, D3, etc. 
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description.  Code snippet should not be greater than 10 lines of code. 
+Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  Code snippet should not be greater than 10 lines of code. 
 
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
+} else if (!audiodbArtistData.artists && lastfmTracksData.toptracks) {
+        return(
+            <div className='no-match-container'>
+                <h1 className='no-match'>No matching artist page. Please go back and try again.</h1>
+            </div>
+        )
+    } else {
+        return <></>
+    }
+
+This code snippet checks whether all the api have finished fetching and displays nothing if they haven't and then returns a message saying if no matches if they have and there is no data we can show the user based on their search choice.
