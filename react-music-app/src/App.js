@@ -28,7 +28,7 @@ function App() {
         />
         <Route
           path='/searchresults/:search'
-          render={props => <SearchResults{...props} />}
+          render={props => <SearchResults {...props} />}
         />
         <Redirect to='/' />
         </Switch>

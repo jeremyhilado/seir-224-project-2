@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react'
+import {Link} from 'react-router-dom'
 
 function ArtistDetail(props) {
 
@@ -27,7 +28,7 @@ function ArtistDetail(props) {
             setLastfmTracksData(json4)
         }
         makeApiCall()
-    }, [])
+    }, [props.match.params.name])
     
     if(audiodbArtistData.artists && lastfmTracksData.toptracks && audiodbAlbumsData.album) {
 
@@ -49,9 +50,14 @@ function ArtistDetail(props) {
 
         const similarArtists = lastfmArtistData.artist.similar.artist.map((artist, i) => {
             return(
-                <li key={i}>{artist.name}</li>
+                <Link key={i} to={`/artist/${artist.name}`}>
+                    <li>{artist.name}</li>
+                </Link>
             )
+
         })
+
+        console.log('ArtistDetail - Similar Artist - props', props)
 
         return(
         <div className='detail-container'>

@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 function SearchResults(props) {
 
-    const[mbSearchData, setMbSearchData] = useState({})
+    const [mbSearchData, setMbSearchData] = useState({})
 
     useEffect(() => {
         const mbSearchAPI = `https://musicbrainz.org/ws/2/artist/?query=artist:${props.match.params.search}&fmt=json&limit=10`
